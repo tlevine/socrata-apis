@@ -1,0 +1,1569 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<!--[if lte IE 7]>
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+        xmlns:v="urn:schemas-microsoft-com:vml"
+        xmlns:og="http://opengraphprotocol.org/schema/" class="ie ie7 noBorderRadius noLinearGradient noCss3"><![endif]-->
+<!--[if IE 8]>
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+        xmlns:v="urn:schemas-microsoft-com:vml"
+        xmlns:og="http://opengraphprotocol.org/schema/" class="ie ie8 noBorderRadius noLinearGradient noCss3"><![endif]-->
+<!--[if gte IE 9]>
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"
+        xmlns:v="urn:schemas-microsoft-com:vml"
+        xmlns:og="http://opengraphprotocol.org/schema/" lang="en" class="ie"><![endif]-->
+<!--[if !IE]>-->
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+        xmlns:og="http://opengraphprotocol.org/schema/"><!--<![endif]-->
+
+<!--
+Powered by the Socrata Open Data Platform
+http://www.socrata.com
+-->
+
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="title" content="NYC Open Data" />
+<meta property="og:title" content="NYC Open Data" />
+<meta property="og:site_name" content="NYC Open Data" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nycopendata.socrata.com/browse?limitTo=apis&amp;utf8=%E2%9C%93" />
+<meta name="globalsign-domain-verification" content="1y3gGURQIC8MuEFo_vqSxBFGEKJVITOId2u2SiGT8V" />
+<meta property="og:image" content="/stylesheets/images/common/socrata_logo_square.png" />
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="00jtU8A6/h+xVToX6FaoEXjGSqmM42u4eSQCOxgn8G4=" name="csrf-token" />
+    <link rel="image_src" href="/stylesheets/images/common/socrata_logo_square.png" />
+
+  <link rel="apple-touch-icon-precomposed" media="screen" href="/stylesheets/images/icons/retina_display_icon.png"/>
+  <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="NYC Open Data" />
+  <link href="/catalog.rss" rel="alternate" title="Subscribe to Datasets" type="application/rss+xml" />
+
+  <!--[if IE]>
+  <style type="text/css">
+    v\:vmlframe{behavior:url(#default#VML);display:inline-block;}
+  </style>
+  <![endif]-->
+  <link type="text/css" rel="stylesheet" media="all" href="/styles/merged/base.css?2d8000d863bc414665185b99e4b2bf1fbc2edd10.171.1386874380"/>
+  <link type="text/css" rel="stylesheet" media="print" href="/styles/merged/print.css?2d8000d863bc414665185b99e4b2bf1fbc2edd10.171.1386874380"/>
+
+          <script type="text/javascript">
+          document.write([
+            "\<script src='",
+            "//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js'",
+            " type='text/javascript'>\<\/script>"
+          ].join(''));
+        </script>
+
+  <script type="text/javascript">blistEnv = "production";</script><script src="/packages/errors.js?1387326603" type="text/javascript"></script>
+
+    <title>Search &amp; Browse | NYC Open Data</title>
+  <link type="text/css" rel="stylesheet" media="all" href="/styles/merged/browse-control.css?2d8000d863bc414665185b99e4b2bf1fbc2edd10.171.1386874380"/>
+
+
+    <link type="text/css" media="all" rel="stylesheet" href="/styles/current_site.css?2d8000d863bc414665185b99e4b2bf1fbc2edd10.171.1386874380"/>
+
+
+  <link rel="shortcut icon" href="/stylesheets/images/common/favicon.ico" />
+
+
+
+  <!-- start Mixpanel - Measuring UX things -->
+<script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+  typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
+  b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+
+  //Session cookies and all events saved
+    mixpanel.init("1d804068e1d3694468823f3c7f74567d", {disable_cookie: true});
+    mixpanel.disable();
+
+</script><!-- end Mixpanel -->
+
+
+</head>
+
+<body class="controller_browse action_browse_show locale_en " data-locale="en" data-defaultlocale="en">
+  <div id="skipLinks">
+    <ul></ul>
+    <a href="#content">Skip to main content</a>
+    <a href="#footerLinks">Skip to footer links</a>
+    
+  </div>
+
+  
+
+  <div class="siteOuterWrapper">
+    <div class="siteInnerWrapper">
+
+      <div id="siteHeader" class="clearfix" role="banner">
+          <div id="header_nyc-open-data">
+<h1 id="mainLogo" class="appLogo">
+  <a href="http://www.nyc.gov">NYC Open Data</a>
+</h1>
+<ul class="siteUserNav">
+    <li class="accountLink hide"><a href="/profile"
+    title="Your Home"><span class="text">Hello, <span class="currentUser">Unknown User</span></span></a></li>
+<li class="adminLink hide">
+<a href="/admin" title="Administration"><span class="text">Administration</span></a>
+</li>
+<li><a href="/">Home</a></li><li><a href="http://dev.socrata.com/">Developers</a></li><li class="signUpLink"><a href="https://nycopendata.socrata.com:443/signup" rel="nofollow" title="Sign Up">
+    <span class="text">Sign Up</span></a><li class="signInLink"><a href="https://nycopendata.socrata.com:443/login" rel="nofollow"
+  title="Sign In"><span class="text">Sign In</span></a><li class="signOutLink hide"><a href="https://nycopendata.socrata.com:443/logout" rel="nofollow"
+  title="Sign out"><span class="text">Sign out</span></a>
+</ul>
+<div class="siteBranding"><a href="/" class="siteLogoLink">Data Mine</a></div>
+<div class="nycNav">
+    <a class="home active" href="/">Home</a>
+    <a class="about" href="http://www.nyc.gov/html/data/about.html">About NYC Open Data</a>
+    <a class="faq" href="http://www.nyc.gov/html/data/faq.html">FAQ</a>
+    <a class="contact" href="http://www.nyc.gov/html/data/contact.html">Contact NYC Open Data</a>
+    <div class="divider"></div>
+</div>
+</div>
+<div id="header_nyc-mmr">
+<div class="clearfix">
+    <div id="preAppLogoContainer">
+        <div id="orgLogo">
+            <a href="http://www.nyc.gov/">NYC.gov Always Open</a>
+        </div>
+        <div id="resourceNavContainer" class="clearfix">
+            <ul class="siteUserNav">
+                <li><a href="http://www.nyc.gov/search">Search</a></li>
+                <li><a href="http://www.nyc.gov/portal/register.jsp">Email Updates</a></li>
+                <li><a href="http://www.nyc.gov/contact">Contact Us</a></li>
+            </ul>
+        </div>
+        <div id="topNavContainer" class="clearfix">
+            <ul class="siteUserNav">
+                <li><a href="http://www.nyc.gov/residents">Residents</a></li>
+                <li><a href="http://www.nyc.gov/business">Business</a></li>
+                <li><a href="http://www.nyc.gov/visitors">Visitors</a></li>
+                <li><a href="http://www.nyc.gov/government">Government</a></li>
+                <li><a href="http://www.nyc.gov/mayor">Office of the Mayor</a></li>
+            </ul>
+        </div>
+    </div>
+    <div id="appLogoContainer" class="clearfix">
+        <h1 id="mainLogo" class="appLogo">
+            <a href="/report" accesskey="h">New York City Mayor's Office of Operations, Mayor's Management Report</a>
+        </h1>
+        <div id="siteSearchContainer">
+            <form id="siteSearch" action="http://search1.nyc.gov/search?" method="GET">
+                <input value="xml_no_dtd" name="output" type="hidden">
+                <input value="default_collection" name="site" type="hidden">
+                <input value="agency_frontend" name="proxystylesheet" type="hidden">
+                <input value="agency_frontend" name="client" type="hidden">
+                <input value="www.nyc.gov/html/ops" name="sitesearch" type="hidden">
+                <input type="text" name="q" value="" />
+                <input type="submit" value="Go" />
+            </form>
+        </div>
+        <a href="#" class="print-link">Print</a>
+    </div>
+    <div id="headerForPrint">
+        <img src="/assets/70F1D802-AB11-4D3A-B633-83461B29D1C9" alt="New York City Mayor's Office of Operations, Mayor's Management Report" width="670" height="64" />
+    </div>
+</div>
+</div>
+
+<div id = "header_nyc-redesign2">
+    	<div id = "header">	
+			<a href = '/'><div id = "logo">	
+			</div></a>	
+			<a href = '/data'><div id = "datasets">
+			<div id = "datasetsCount">1100+</div>
+			Datasets Available	
+			</div></a>	
+				<div id = 'fullMenu'>	
+				<div aria-hidden='true' class = "menuIcon menuData icon-data" onmouseover="showMenu('Data')" onmouseout="hideMenu('Data')">
+				</div>
+				<div aria-hidden='true' class = 'menuIcon menuWrench icon-tool' onmouseover="showMenu('Wrench')" onmouseout="hideMenu('Wrench')">
+				</div>
+				<div aria-hidden='true' class = 'menuIcon menuInfo icon-help' onmouseover="showMenu('Info')" onmouseout="hideMenu('Info')">
+				</div>
+				<div aria-hidden='true' class = 'menuIcon menuNyc icon-nyc' onmouseover="showMenu('Nyc')" onmouseout="hideMenu('Nyc')">
+				</div>
+				<div class = 'menuDivider'>
+				</div>
+				<a href = "http://nycopendata.tumblr.com/"><div aria-hidden='true' class = "menuIcon menuTumblr icon-tumblr">
+				</div></a>
+				<a href = "https://twitter.com/NYCDoITT"><div aria-hidden='true' class = "menuIcon menuTwitter icon-twitter">
+				</div></a>
+				<div class = 'menuDivider'>
+				</div>
+				<div class = 'menuText'>
+			
+                    <ul class='siteUserNav'>
+                        <li class="accountLink hide"><a href="/profile"
+    title="Your Home"><span class="text">Hello, <span class="currentUser">Unknown User</span></span></a></li>
+<li class="adminLink hide">
+<a href="/admin" title="Administration"><span class="text">Administration</span></a>
+</li>
+<li class="signUpLink"><a href="https://nycopendata.socrata.com:443/signup" rel="nofollow" title="Sign Up">
+    <span class="text">Sign Up</span></a><li class="signInLink"><a href="https://nycopendata.socrata.com:443/login" rel="nofollow"
+  title="Sign In"><span class="text">Sign In</span></a><li class="signOutLink hide"><a href="https://nycopendata.socrata.com:443/logout" rel="nofollow"
+  title="Sign out"><span class="text">Sign out</span></a>
+</ul>
+                </div>
+			</div>	
+			<div id = "miniMenu">	
+			
+			</div>
+		</div>
+        <div id = 'dropdowns'>
+            <div id = 'menuLogin' class = 'menuGroup' style = 'display:none' onmouseout="hideMenu('Info')">
+                   
+    			         <div class = 'menuRow'>
+    			             <div class = 'menuTitle'><ul class='siteUserNav'>
+                        <li class="accountLink hide"><a href="/profile"
+    title="Your Home"><span class="text">Hello, <span class="currentUser">Unknown User</span></span></a></li>
+<li class="signUpLink"><a href="https://nycopendata.socrata.com:443/signup" rel="nofollow" title="Sign Up">
+    <span class="text">Sign Up</span></a><li class="signInLink"><a href="https://nycopendata.socrata.com:443/login" rel="nofollow"
+  title="Sign In"><span class="text">Sign In</span></a><li class="signOutLink hide"><a href="https://nycopendata.socrata.com:443/logout" rel="nofollow"
+  title="Sign out"><span class="text">Sign out</span></a>
+</ul></div>
+    			        </div>
+    			    
+    			   
+    		</div>
+            <div id = 'menuData' class = 'menuGroup' style = 'display:none' onmouseout="hideMenu('Data')">
+    		    <div class = 'menuSidebar icon-data'aria-hidden='true'></div>
+                <a href = '/data'>
+			         <div class = 'menuRow'>
+			             <div class = 'menuTitle'>Datasets (All Categories)</div>
+			             <div class = 'menuSubTitle'>NYC's Data Catalog</div>
+			        </div>
+			    </a>
+                
+                <a href = '/nominate'>
+    		         <div class = 'menuRow'>
+			             <div class = 'menuTitle'>Suggest a Dataset</div>
+			             <div class = 'menuSubTitle'>Nominate and Discuss possible data</div>
+			        </div>
+			    </a>
+    
+                
+                
+			    <a href = '/report'>
+			        <div class = 'menuRow'>
+			             <div class = 'menuTitle'>Mayor's Management Report</div>
+			             <div class = 'menuSubTitle'>Citywide Performance Scorecard</div>
+			        </div>
+			    </a>
+			</div>
+			<div id = 'menuWrench' class = 'menuGroup'style = 'display:none' onmouseout="hideMenu('Wrench')">
+			    <div class = 'menuSidebar icon-tool'aria-hidden='true'></div>
+                <a href = 'http://dev.socrata.com/consumers/getting-started'>
+			         <div class = 'menuRow'>
+			             <div class = 'menuTitle'>Getting Started with Our APIs</div>
+			             <div class = 'menuSubTitle'>Access Data with the SODA API</div>
+			        </div>
+			    </a>
+			    <a href = 'http://dev.socrata.com/docs/endpoints'>
+			        <div class = 'menuRow'>
+			             <div class = 'menuTitle'>API Endpoints</div>
+			             <div class = 'menuSubTitle'>Find API endpoints for our data</div>
+			        </div>
+			    </a>
+			    <a href = 'http://dev.socrata.com/docs/queries'>
+			        <div class = 'menuRow'>
+			             <div class = 'menuTitle'>API Queries</div>
+			             <div class = 'menuSubTitle'>Discover how to get just the data you want</div>
+			        </div>
+			    </a>
+			    <a href = 'https://developer.cityofnewyork.us/'>
+			        <div class = 'menuRow'>
+			             <div class = 'menuTitle'>NYC Developer Portal</div>
+			             <div class = 'menuSubTitle'>More NYC Government APIs</div>
+			        </div>
+			    </a>
+			   
+			</div>
+          	<div id = 'menuNyc' class = 'menuGroup'style = 'display:none' onmouseout="hideMenu('Nyc')">
+			    <div class = 'menuSidebar icon-nyc'aria-hidden='true'></div>
+                <a href = 'http://www.nyc.gov/doitt'>
+			         <div class = 'menuRow'>
+			             <div class = 'menuTitle'>NYC DoITT</div>
+			             <div class = 'menuSubTitle'>NYC Information Technology and Telecommunications</div>
+			        </div>
+			    </a>
+			    <a href = 'http://www.nyc.gov/html/analytics/html/home/home.shtml'>
+			        <div class = 'menuRow'>
+			             <div class = 'menuTitle'>NYC MoDA</div>
+			             <div class = 'menuSubTitle'>NYC Mayor's Office of Data Analytics</div>
+			        </div>
+			    </a>
+			    <a href = 'http://www.nyc.gov/digital'>
+			        <div class = 'menuRow'>
+			             <div class = 'menuTitle'>NYC Digital</div>
+			        </div>
+			    </a>
+			</div>
+			<div id = 'menuInfo' class = 'menuGroup' style = 'display:none' onmouseout="hideMenu('Info')">
+			        <div class = 'menuSidebar icon-help'aria-hidden='true'></div>
+			         <div class = 'menuRow' onclick="showLightbox('about')" style = "cursor:pointer">
+			             <div class = 'menuTitle'>About This Site</div>
+			             <div class = 'menuSubTitle'>Learn more about NYC Open Data</div>
+			        </div>
+			   
+			    
+			        <div class = 'menuRow'onclick="showLightbox('terms')" style = "cursor:pointer">
+			             <div class = 'menuTitle' >Terms of Use</div>
+			             <div class = 'menuSubTitle'>Read the terms of use for the data on this site</div>
+			        </div>
+			  
+			    <a href = 'http://www.nyc.gov/html/doitt/downloads/pdf/nyc_open_data_tsm.pdf'>
+			        <div class = 'menuRow'>
+			             <div class = 'menuTitle'>Technical Standards Manual</div>
+			             <div class = 'menuSubTitle'>Read the law, policies, and standards that help us make data public</div>
+			        </div>
+			    </a>
+			    <a href = 'http://support.socrata.com/'>
+			        <div class = 'menuRow'>
+			             <div class = 'menuTitle'>Socrata Support</div>
+			             <div class = 'menuSubTitle'>Get technical support from Socrata</div>
+			        </div>
+			    </a>
+			</div>
+            <div id = 'menuTumblr' class = 'menuGroup' style = 'display:none' onmouseout="hideMenu('Info')">
+    		    <div class = 'menuSidebar icon-tumblr'aria-hidden='true'></div>
+                <a href = ''>
+			         <div class = 'menuRow'>
+			             <div class = 'menuTitle'>Tumblr</div>
+			        </div>
+			    </a>
+			   
+			</div>
+            <div id = 'menuTwitter' class = 'menuGroup' style = 'display:none' onmouseout="hideMenu('Info')">
+        	    <div class = 'menuSidebar icon-twitter'aria-hidden='true'></div>
+                <a href = ''>
+			         <div class = 'menuRow'>
+			             <div class = 'menuTitle'>Twitter</div>
+			        </div>
+			    </a>
+			   
+			</div>
+            </div>
+            <div id = 'lightboxCover' style="display:none" >
+                <div id = 'lightboxOuter'>
+                    <div id = 'lightboxInner'>
+                        <div id = 'closex'></div>
+                            
+                        <div id = 'terms'class='lightboxContent'style="display:none">
+                            <h3>Terms of Use</h3>
+                            <p>The following Terms of Use apply to visitors to the NYC OpenData portal and application developers who obtain City data through this single web portal:</p>
+                            <p>By accessing data sets and feeds available through the NYC OpenData portal (or the "Site"), the user agrees to all of the <a href='http://www.nyc.gov/html/misc/html/tou.html' target='_blank'>Terms of Use of NYC.gov</a> as well as the <a href='http://nyc.gov/portal/site/nycgov/menuitem.b52b1c491d03e607a62fa24601c789a0/' target='_blank'>Privacy Policy</a> for NYC.gov. The user also agrees to any additional terms of use defined by entities providing data or feeds through the Site. Entities providing data include, without limitation, agencies, bureaus, offices, departments and other discrete entities of the City of New York ("City"). Public data sets made available on the NYC OpenData portal are provided for informational purposes. The City does not warranty the completeness, accuracy, content, or fitness for any particular purpose or use of any public data set made available on the NYC OpenData portal, nor are any such warranties to be implied or inferred with respect to the public data sets furnished therein.</p>
+                            <p>The City is not liable for any deficiencies in the completeness, accuracy, content, or fitness for any particular purpose or use of any public data set, or application utilizing such data set, provided by any third party.</p>
+                        
+                            <p>Submitting City Agencies are the authoritative source of data available on NYC OpenData. These entities are responsible for data quality and retain version control of data sets and feeds accessed on the Site. Data may be updated, corrected, overwritten and/or refreshed at any time. The anticipated update frequency is indicated for each data set on the Site. Older versions of data sets will not be retained.</p>
+                        </div>
+                        
+                        
+                        <div id = 'about' class='lightboxContent' style="display:none">
+                            <h3>About NYC Open Data</h3>
+                            <p>NYC Open Data makes the wealth of public data generated by various New York City agencies and other City organizations available for public use. As part of an initiative to improve the accessibility, transparency, and accountability of City government, this catalog offers access to a repository of government-produced, machine-readable data sets.</p>
+                            <p>Anyone can use these data sets to participate in and improve government by conducting research and analysis or creating applications, thereby gaining a better understanding of the services provided by City agencies and improving the lives of citizens and the way in which government serves them.</p>
+                            <p>The data sets are available in a variety of machine-readable formats and are refreshed when new data becomes available. Data is presented by category, by City agency, or by other City organization. Descriptions of the data, the collection method, and other contextual material, called metadata, make the data sets easier to understand and use. Use of these data sets and how they are generated can be better understood by reading the <a href='#' id='footer-terms'>Terms of Use</a>.</p>
+                        
+                            <h3>How the City Uses Data to Create a Better City</h3>
+                            <p>The Mayor’s Office of Data Analytics (MODA), the Department of Information Technology and Telecommunications (DOITT), and NYC Digital work together to collect, analyze, and share NYC Data, to create a better City supported by data-based decision making, and to promote public use of City data.</p>
+                            <p>The City of New York is a national model for collecting data to measure government performance.  Agencies routinely collect data on buildings, streets, infrastructure, businesses, and other entities within the City, including permits, licenses, crime related data, and 311 complaints.  MODA centralizes City data, uniting previously disconnected pieces of information from various agencies, and pairs it with NY state, federal, and other open data to create a comprehensive City-wide data platform that serves as a record of City activity, and a foundation for NYC Open Data. DoITT and MODA work closely together to use that platform, DataBridge, to reduce safety risk in the City, deliver daily services more efficiently, and enforce laws more effectively.</p>
+                            <p>The mission of <a href='http://www.nyc.gov/html/digital/html/home/home.shtml'>NYC Digital</a> is to realize New York City's potential as the world's leading digital city, by creating meaningful public-private partnerships that serve New Yorkers and support economic development. NYC Digital produces the City's Digital Roadmap, NYC's technology plan for access, education, open government, engagement, and industry. In partnership with MODA, NYC Digital directs <a href='http://www.nyc.gov/html/digital/html/codecorps/codecorps.shtml'>Code Corps</a>, the nation's first municipal program that engages vetted volunteer technologists to support City emergency and disaster recovery needs.</p>
+                        
+                        </div>
+                    
+                    </div>  
+                </div>       
+            </div>
+      
+        </div>
+
+      </div>
+
+      <a name="content"  tabindex="-1"></a>
+      
+        <div class="siteContentWrapper" role="main">
+          
+
+
+<div class="browseSection 
+  
+   ">
+    <div class="browseFacets ">
+      
+        <form class="searchSection">
+    <span class="icon"></span>
+    <input type="text" name="browseSearch" title="Search"
+      class="textPrompt searchBox" value="" />
+  </form>
+
+
+        <div class="facetSection clearAllSection">
+          <ul>
+            <li>
+            <a href="/browse?utf8=%E2%9C%93">Clear All Options</a>
+            </li>
+          </ul>
+        </div>
+
+        <div class="facetSection clearfix limitTo">
+          <h4 class="title">View Types</h4>
+            <ul>
+                <li><a href="/browse?utf8=%E2%9C%93" class="clearValues">
+                    <span class="icon"></span>
+                  (All)
+                </a></li>
+                <li><a href="/browse?limitTo=datasets&utf8=%E2%9C%93" class="typeBlist"><span class="icon"></span>Datasets</a></li>
+                <li><a href="/browse?limitTo=charts&utf8=%E2%9C%93" class="typeChart"><span class="icon"></span>Charts</a></li>
+                <li><a href="/browse?limitTo=maps&utf8=%E2%9C%93" class="typeMap"><span class="icon"></span>Maps</a></li>
+                <li><a href="/browse?limitTo=calendars&utf8=%E2%9C%93" class="typeCalendar"><span class="icon"></span>Calendars</a></li>
+                <li><a href="/browse?limitTo=filters&utf8=%E2%9C%93" class="typeFilter"><span class="icon"></span>Filtered Views</a></li>
+                <li><a href="/browse?limitTo=href&utf8=%E2%9C%93" class="typeHref"><span class="icon"></span>External Datasets</a></li>
+                <li><a href="/browse?limitTo=blob&utf8=%E2%9C%93" class="typeBlob"><span class="icon"></span>Files and Documents</a></li>
+                <li><a href="/browse?limitTo=forms&utf8=%E2%9C%93" class="typeForm"><span class="icon"></span>Forms</a></li>
+                <li><a href="/browse?limitTo=apis&utf8=%E2%9C%93" class="typeApi active"><span class="icon"></span>APIs</a></li>
+            </ul>
+        </div>
+        <div class="facetSection clearfix category">
+          <h4 class="title">Categories</h4>
+            <ul>
+                <li><a href="/browse?category=Business&limitTo=apis&utf8=%E2%9C%93" class="">Business</a></li>
+                <li><a href="/browse?category=City+Government&limitTo=apis&utf8=%E2%9C%93" class="">City Government</a></li>
+                <li><a href="/browse?category=Education&limitTo=apis&utf8=%E2%9C%93" class="">Education</a></li>
+                <li><a href="/browse?category=Environment&limitTo=apis&utf8=%E2%9C%93" class="">Environment</a></li>
+                <li><a href="/browse?category=Health&limitTo=apis&utf8=%E2%9C%93" class="">Health</a></li>
+            </ul>
+                <div class="moreOptions list hide">
+                    <a href="/browse?category=Housing+%26+Development&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Housing &amp; Development
+                    </a>
+                    <a href="/browse?category=Public+Safety&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Public Safety
+                    </a>
+                    <a href="/browse?category=Recreation&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Recreation
+                    </a>
+                    <a href="/browse?category=Social+Services&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Social Services
+                    </a>
+                    <a href="/browse?category=Transportation&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Transportation
+                    </a>
+                </div>
+                <a class="moreLink" href="#More Categories">View All</a>
+        </div>
+        <div class="facetSection clearfix tags">
+          <h4 class="title">Topics</h4>
+            <ul>
+                <li><a href="/browse?limitTo=apis&tags=2010&utf8=%E2%9C%93" class="">2010</a></li>
+                <li><a href="/browse?limitTo=apis&tags=2011&utf8=%E2%9C%93" class="">2011</a></li>
+                <li><a href="/browse?limitTo=apis&tags=311&utf8=%E2%9C%93" class="">311</a></li>
+                <li><a href="/browse?limitTo=apis&tags=311+service+requests&utf8=%E2%9C%93" class="">311 service requests</a></li>
+                <li><a href="/browse?limitTo=apis&tags=all+service+requests&utf8=%E2%9C%93" class="">all service requests</a></li>
+            </ul>
+                <a class="cloudLink" href="#More Topics" rel="tags">
+                  View All
+                </a>
+        </div>
+      </div>
+
+
+
+    <div class="browseList hasSort">
+        <div class="titleContainer">
+          <h2 title="Results matching type of APIs">Results matching type of APIs
+            <a href="/catalog.rss" class="subscribe" title="Subscribe">
+              <span class="icon"></span>
+            </a>
+          </h2>
+        </div>
+
+      <div class="topControls">
+          <ul class="viewTypeOptions pillButtons">
+            <li><a href="/browse?limitTo=apis&amp;page=1&amp;utf8=%E2%9C%93&amp;view_type=table"
+              class="list active" title="View as a compact list">
+              <span class="icon"></span>
+            </a></li>
+            <li><a href="/browse?limitTo=apis&amp;page=1&amp;utf8=%E2%9C%93&amp;view_type=rich"
+              class="fatrow" title="View as a rich list">
+              <span class="icon"></span>
+            </a></li>
+          </ul>
+
+          <div class="sortOptions">
+            <label for="browseSortType" class="sortLabel">Sort By</label>
+            <select id="browseSortType" class="sortType" name="sortType">
+                <option value="relevance" class=""
+                  >Most Relevant</option>
+                <option value="most_accessed" class="timePeriod"
+                  >Most Accessed</option>
+                <option value="alpha" class=""
+                  >Alphabetical</option>
+                <option value="newest" class=""
+                  >Newest</option>
+                <option value="oldest" class=""
+                  >Oldest</option>
+                <option value="last_modified" class=""
+                  >Recently Updated</option>
+                <option value="rating" class=""
+                  >Highest Rated</option>
+                <option value="comments" class=""
+                  >Most Comments</option>
+            </select>
+            <label for="browseSortPeriod" class="sortLabel">Sort Period</label>
+            <select class="sortPeriod hide" name="sortPeriod" id="browseSortPeriod">
+                <option value="week">
+                  This week
+                </option>
+                <option value="month">
+                  This month
+                </option>
+                <option value="year">
+                  This year
+                </option>
+            </select>
+          </div>
+      </div>
+
+      <div class="results">
+          <table class="gridList">
+            <colgroup>
+                <col class="index" />
+                <col class="nameDesc" />
+                <col class="popularity" />
+                <col class="type" />
+            </colgroup>
+            <thead>
+              <tr>
+                  <th class="index" scope="col"></th>
+                  <th class="nameDesc" scope="col">Name</th>
+                  <th class="popularity" scope="col">Popularity</th>
+                  <th class="type" scope="col">Type</th>
+              </tr>
+            </thead>
+            <tbody>
+                <tr itemscope="itemscope" itemtype="http://schema.org/Dataset" class="item collapsed  local" data-viewId="dbsx-g8td">
+                    <td class="index" scope="row">
+                      <a class="expander" title="Click to expand" href="#Expand">
+                        <span class="icon"></span>
+                      </a>
+                      <span class="value">1.</span>
+                    </td>
+
+
+
+                    <td class="nameDesc">
+                      <div class="titleLine">
+                        <span class="hide" itemprop="name">Public Pay Telephone Wifi Metrics</span>
+                        <a itemprop="url" href="https://data.cityofnewyork.us/developers/docs/public-wifi-usage" class="name"
+                          rel="">Public Pay Telephone Wifi Metrics</a>
+                        <span class="tags infoItem" itemprop="keywords">payphone, wifi, usage, ppt, public pay telephone, ...</span>
+                      </div>
+
+                      <div class="expandBlock clearfix collapsed">
+                        <div class="description">This data represents monthly usage statistics from certain payphones which also serve as public WiFi hotspots throughout the city.</div>
+                        <div class="rowSearchResults"></div>
+                        <div class="extraInfo ">
+                          <div class="infoContent"></div>
+                          <a class="close" href="#Close"><span class="icon"></span></a>
+                        </div>
+                      </div>
+                    </td>
+
+
+
+
+                    <td class="popularity">
+                      <span class="visits">23 views</span>
+                    </td>
+
+                    <td class="type typeApi view"
+                      title="Api view">
+                      <a href="https://data.cityofnewyork.us/developers/docs/public-wifi-usage" rel=""><div class="icon"></div></a>
+                    </td>
+
+              </tr>
+          </tbody>
+        </table>
+      </div>
+
+        
+          <div class="resultCount">
+  Showing 1 of 1
+</div>
+
+    </div>
+
+    <div class="suggestBox infoBox">
+      <h3>Didn&#x27;t find what you&#x27;re looking for? Suggest a dataset.</h3>
+      <div class="buttonContainer">
+        <a class="button next" href="/nominate">Suggest<span class="icon"></span></a>
+      </div>
+    </div>
+
+  <div class="clearBoth"></div>
+</div>
+
+
+
+<script type="text/javascript">        if (typeof blistTranslations == 'undefined') blistTranslations = [];
+        blistTranslations.push(function()
+        {
+            return JSON.parse($.unescapeQuotes("{&quot;controls&quot;:{&quot;browse&quot;:{&quot;actions&quot;:{&quot;about&quot;:{&quot;button&quot;:&quot;About&quot;,&quot;title&quot;:&quot;About this Dataset&quot;},&quot;all_options&quot;:&quot;View All&quot;,&quot;clear_all&quot;:&quot;Clear All Options&quot;,&quot;clear_facet&quot;:&quot;(All)&quot;,&quot;compact_list&quot;:&quot;View as a compact list&quot;,&quot;create_dataset&quot;:&quot;Create or upload your own dataset&quot;,&quot;create_dataset_short&quot;:&quot;Create a new Dataset&quot;,&quot;create_dataset_verb&quot;:&quot;Create&quot;,&quot;dataset_subscribe&quot;:&quot;Subscribe to changes on this view&quot;,&quot;delete&quot;:{&quot;button&quot;:&quot;Delete&quot;,&quot;confirm&quot;:&quot;Are you sure you want to delete %{dataset}?&quot;,&quot;title&quot;:&quot;Delete this item&quot;},&quot;expand_section&quot;:&quot;Click to expand&quot;,&quot;less_options&quot;:&quot;View Less&quot;,&quot;manage_api&quot;:{&quot;button&quot;:&quot;Manage&quot;,&quot;title&quot;:&quot;Manage this API&quot;},&quot;moderation&quot;:{&quot;accept&quot;:&quot;Accept&quot;,&quot;reject&quot;:&quot;Reject&quot;},&quot;permissions&quot;:{&quot;change_button&quot;:{&quot;private_html&quot;:&quot;Make Public&quot;,&quot;public_html&quot;:&quot;Make Private&quot;},&quot;title&quot;:&quot;Change the public visibility&quot;},&quot;rich_list&quot;:&quot;View as a rich list&quot;,&quot;share_button&quot;:&quot;Share&quot;,&quot;subscribe&quot;:&quot;Subscribe&quot;,&quot;suggest_dataset&quot;:&quot;Didn&#x27;t find what you&#x27;re looking for? Suggest a dataset.&quot;,&quot;suggest_dataset_short&quot;:&quot;Suggest a Dataset&quot;,&quot;suggest_dataset_verb&quot;:&quot;Suggest&quot;},&quot;back_to_dataset&quot;:&quot;Back to Dataset&quot;,&quot;facets&quot;:{&quot;categories_singular_title&quot;:&quot;category&quot;,&quot;categories_title&quot;:&quot;Categories&quot;,&quot;federated_domains_singular_title&quot;:&quot;domain&quot;,&quot;federated_domains_title&quot;:&quot;Federated Domains&quot;,&quot;moderation_status&quot;:{&quot;accepted&quot;:&quot;Accepted&quot;,&quot;pending&quot;:&quot;Pending&quot;,&quot;rejected&quot;:&quot;Rejected&quot;},&quot;moderation_status_singular_title&quot;:&quot;moderation&quot;,&quot;moderation_status_title&quot;:&quot;Moderation Status&quot;,&quot;topics_singular_title&quot;:&quot;topic&quot;,&quot;topics_title&quot;:&quot;Topics&quot;,&quot;view_types&quot;:{&quot;apis&quot;:&quot;APIs&quot;,&quot;blob&quot;:&quot;Files and Documents&quot;,&quot;calendars&quot;:&quot;Calendars&quot;,&quot;charts&quot;:&quot;Charts&quot;,&quot;datasets&quot;:&quot;Datasets&quot;,&quot;filters&quot;:&quot;Filtered Views&quot;,&quot;forms&quot;:&quot;Forms&quot;,&quot;href&quot;:&quot;External Datasets&quot;,&quot;maps&quot;:&quot;Maps&quot;,&quot;unpublished&quot;:&quot;Unpublished Datasets&quot;},&quot;view_types_singular_title&quot;:&quot;type&quot;,&quot;view_types_title&quot;:&quot;View Types&quot;},&quot;listing&quot;:{&quot;comment_count&quot;:&quot;Number of comments&quot;,&quot;federation_source&quot;:&quot;Federated from %{source}&quot;,&quot;federation_source_html&quot;:&quot;Provided by %{source_link}&quot;,&quot;no_results&quot;:&quot;No Results&quot;,&quot;result_count&quot;:&quot;Showing %{this} of %{total}&quot;,&quot;table_header&quot;:{&quot;name&quot;:&quot;Name&quot;,&quot;popularity&quot;:&quot;Popularity&quot;,&quot;rss&quot;:&quot;RSS&quot;,&quot;type&quot;:&quot;Type&quot;},&quot;timeout&quot;:&quot;We&#x27;re sorry. Results could not be retrieved at this time. Please try again later.&quot;},&quot;row_results&quot;:{&quot;less_link&quot;:&quot;Less&quot;,&quot;matching_rows&quot;:&quot;Searching dataset for matching rows&quot;,&quot;more_link&quot;:&quot;More&quot;,&quot;no_matching_rows&quot;:&quot;No matching rows found&quot;,&quot;title_html&quot;:&quot;Showing &lt;span class=\\&quot;rowResultCountText\\&quot;&gt;&lt;/span&gt; of &lt;span class=\\&quot;totalResultCountText\\&quot;&gt;&lt;/span&gt; matching rows &lt;a href=\\&quot;#\\&quot; class=\\&quot;rowSearchLink\\&quot;&gt;(view results)&lt;/a&gt;:&quot;},&quot;search&quot;:&quot;Search&quot;,&quot;sort_period_title&quot;:&quot;Sort Period&quot;,&quot;sort_periods&quot;:{&quot;month&quot;:&quot;This month&quot;,&quot;week&quot;:&quot;This week&quot;,&quot;year&quot;:&quot;This year&quot;},&quot;sort_title&quot;:&quot;Sort By&quot;,&quot;sorts&quot;:{&quot;alpha&quot;:&quot;Alphabetical&quot;,&quot;comments&quot;:&quot;Most Comments&quot;,&quot;last_modified&quot;:&quot;Recently Updated&quot;,&quot;most_accessed&quot;:&quot;Most Accessed&quot;,&quot;newest&quot;:&quot;Newest&quot;,&quot;oldest&quot;:&quot;Oldest&quot;,&quot;rating&quot;:&quot;Highest Rated&quot;,&quot;relevance&quot;:&quot;Most Relevant&quot;},&quot;title&quot;:{&quot;default&quot;:&quot;Search &amp; Browse Datasets and Views&quot;,&quot;result&quot;:{&quot;facet&quot;:&quot;%{facet_type} of %{facet_value}&quot;,&quot;facet_main&quot;:&quot;matching %{body}&quot;,&quot;main&quot;:&quot;Results %{body}&quot;,&quot;term&quot;:&quot;for \\&quot;%{term}\\&quot;&quot;}}},&quot;common&quot;:{&quot;auth_required&quot;:&quot;You must be logged in to %{action_phrase}&quot;,&quot;dataset_picker&quot;:{&quot;button&quot;:&quot;Choose&quot;,&quot;title&quot;:&quot;Choose a Dataset to use&quot;},&quot;expander&quot;:{&quot;collapse&quot;:&quot;Click to collapse&quot;,&quot;expand&quot;:&quot;Click to expand&quot;},&quot;image_upload&quot;:{&quot;button&quot;:&quot;Upload Image&quot;},&quot;rate&quot;:{&quot;auth_action_phrase&quot;:&quot;rate this dataset&quot;},&quot;share&quot;:{&quot;button_prompt&quot;:&quot;Socialize&quot;,&quot;button_tooltip&quot;:&quot;Share this Dataset&quot;,&quot;networks&quot;:{&quot;email&quot;:&quot;Email&quot;,&quot;facebook&quot;:&quot;Facebook&quot;,&quot;twitter&quot;:&quot;Twitter&quot;},&quot;share_text&quot;:&quot;Check out the %{name}, dataset on %{site}: &quot;},&quot;sidebar&quot;:{&quot;tabs&quot;:{&quot;about&quot;:&quot;About This Dataset&quot;,&quot;components&quot;:&quot;Components&quot;,&quot;configuration&quot;:&quot;Configuration&quot;,&quot;discuss&quot;:&quot;Discuss&quot;,&quot;edit&quot;:&quot;Edit&quot;,&quot;embed&quot;:&quot;Embed&quot;,&quot;export&quot;:&quot;Export&quot;,&quot;filter&quot;:&quot;Filter&quot;,&quot;manage&quot;:&quot;Manage&quot;,&quot;moreViews&quot;:&quot;More Views&quot;,&quot;visualize&quot;:&quot;Visualize&quot;}},&quot;stars&quot;:{&quot;tooltip&quot;:&quot;%{number} stars&quot;},&quot;visualization&quot;:{&quot;in_bing&quot;:&quot;View in Bing Maps&quot;,&quot;in_google&quot;:&quot;View in Google Maps&quot;,&quot;row_details&quot;:&quot;View details for this row&quot;}}},&quot;core&quot;:{&quot;aggregates&quot;:{&quot;average&quot;:&quot;Average&quot;,&quot;count&quot;:&quot;Count&quot;,&quot;maximum&quot;:&quot;Maximum&quot;,&quot;minimum&quot;:&quot;Minimum&quot;,&quot;sum&quot;:&quot;Sum&quot;},&quot;alignment&quot;:{&quot;center&quot;:&quot;Center&quot;,&quot;left&quot;:&quot;Left&quot;,&quot;right&quot;:&quot;Right&quot;},&quot;analytics&quot;:{&quot;visit&quot;:&quot;view&quot;,&quot;visits&quot;:&quot;views&quot;},&quot;and&quot;:&quot;and&quot;,&quot;chart_types&quot;:{&quot;area&quot;:&quot;Area Chart&quot;,&quot;bar&quot;:&quot;Bar Chart&quot;,&quot;bubble&quot;:&quot;Bubble Chart&quot;,&quot;column&quot;:&quot;Column Chart&quot;,&quot;donut&quot;:&quot;Donut Chart&quot;,&quot;line&quot;:&quot;Line Chart&quot;,&quot;pie&quot;:&quot;Pie Chart&quot;,&quot;stackedbar&quot;:&quot;Stacked Bar Chart&quot;,&quot;stackedcolumn&quot;:&quot;Stacked Column Chart&quot;,&quot;timeline&quot;:&quot;Timeline&quot;,&quot;treemap&quot;:&quot;Tree Map&quot;},&quot;chart_types_short&quot;:{&quot;area&quot;:&quot;Area&quot;,&quot;bar&quot;:&quot;Bar&quot;,&quot;bubble&quot;:&quot;Bubble&quot;,&quot;column&quot;:&quot;Column&quot;,&quot;donut&quot;:&quot;Donut&quot;,&quot;line&quot;:&quot;Line&quot;,&quot;pie&quot;:&quot;Pie&quot;,&quot;stackedbar&quot;:&quot;Stacked Bar&quot;,&quot;stackedcolumn&quot;:&quot;Stacked Column&quot;,&quot;timeline&quot;:&quot;Timeline&quot;,&quot;treemap&quot;:&quot;Tree Map&quot;},&quot;data_types&quot;:{&quot;calendar_date&quot;:&quot;Date &amp; Time&quot;,&quot;checkbox&quot;:&quot;Checkbox&quot;,&quot;dataset_link&quot;:&quot;Dataset Link&quot;,&quot;date&quot;:&quot;Date &amp; Time (with timezone)&quot;,&quot;document&quot;:&quot;Document&quot;,&quot;drop_down_list&quot;:&quot;Multiple Choice&quot;,&quot;email&quot;:&quot;Email&quot;,&quot;flag&quot;:&quot;Flag&quot;,&quot;geospatial&quot;:&quot;Geospatial&quot;,&quot;html&quot;:&quot;Formatted Text&quot;,&quot;link&quot;:&quot;Link Column&quot;,&quot;list&quot;:&quot;List&quot;,&quot;location&quot;:&quot;Location&quot;,&quot;money&quot;:&quot;Money&quot;,&quot;nested_table&quot;:&quot;Nested Table&quot;,&quot;number&quot;:&quot;Number&quot;,&quot;object&quot;:&quot;Object&quot;,&quot;percent&quot;:&quot;Percent&quot;,&quot;phone&quot;:&quot;Phone&quot;,&quot;photo&quot;:&quot;Photo (Image)&quot;,&quot;stars&quot;:&quot;Star&quot;,&quot;text&quot;:&quot;Plain Text&quot;,&quot;url&quot;:&quot;Website URL&quot;},&quot;date_time&quot;:{&quot;centuries_future&quot;:&quot;%{time} centuries from now&quot;,&quot;centuries_past&quot;:&quot;%{time} centuries ago&quot;,&quot;current_century_future&quot;:&quot;this century&quot;,&quot;current_century_past&quot;:&quot;this century&quot;,&quot;current_day_future&quot;:&quot;today&quot;,&quot;current_day_past&quot;:&quot;today&quot;,&quot;current_hour_future&quot;:&quot;this hour&quot;,&quot;current_hour_past&quot;:&quot;this hour&quot;,&quot;current_minute_future&quot;:&quot;just now&quot;,&quot;current_minute_past&quot;:&quot;just now&quot;,&quot;current_month_future&quot;:&quot;this month&quot;,&quot;current_month_past&quot;:&quot;this month&quot;,&quot;current_week_future&quot;:&quot;this week&quot;,&quot;current_week_past&quot;:&quot;this week&quot;,&quot;current_year_future&quot;:&quot;this year&quot;,&quot;current_year_past&quot;:&quot;this year&quot;,&quot;days_future&quot;:&quot;%{time} days from now&quot;,&quot;days_past&quot;:&quot;%{time} days ago&quot;,&quot;hours_future&quot;:&quot;%{time} hours from now&quot;,&quot;hours_past&quot;:&quot;%{time} hours ago&quot;,&quot;minutes_future&quot;:&quot;%{time} minutes from now&quot;,&quot;minutes_past&quot;:&quot;%{time} minutes ago&quot;,&quot;months_future&quot;:&quot;%{time} months from now&quot;,&quot;months_past&quot;:&quot;%{time} months ago&quot;,&quot;single_century_future&quot;:&quot;a century from now&quot;,&quot;single_century_past&quot;:&quot;a century ago&quot;,&quot;single_day_future&quot;:&quot;tomorrow&quot;,&quot;single_day_past&quot;:&quot;yesterday&quot;,&quot;single_hour_future&quot;:&quot;1 hour from now&quot;,&quot;single_hour_past&quot;:&quot;1 hour ago&quot;,&quot;single_minute_future&quot;:&quot;1 minute from now&quot;,&quot;single_minute_past&quot;:&quot;1 minute ago&quot;,&quot;single_month_future&quot;:&quot;next month&quot;,&quot;single_month_past&quot;:&quot;last month&quot;,&quot;single_week_future&quot;:&quot;next week&quot;,&quot;single_week_past&quot;:&quot;last week&quot;,&quot;single_year_future&quot;:&quot;next year&quot;,&quot;single_year_past&quot;:&quot;last year&quot;,&quot;unknown&quot;:&quot;some time&quot;,&quot;weeks_future&quot;:&quot;%{time} weeks from now&quot;,&quot;weeks_past&quot;:&quot;%{time} weeks ago&quot;,&quot;years_future&quot;:&quot;%{time} years from now&quot;,&quot;years_past&quot;:&quot;%{time} years ago&quot;},&quot;dialogs&quot;:{&quot;apply&quot;:&quot;Apply&quot;,&quot;cancel&quot;:&quot;Cancel&quot;,&quot;close&quot;:&quot;Close&quot;,&quot;continue&quot;:&quot;Continue&quot;,&quot;create&quot;:&quot;Create&quot;,&quot;delete&quot;:&quot;Delete&quot;,&quot;done&quot;:&quot;Done&quot;,&quot;dont_save&quot;:&quot;Don&#x27;t Save&quot;,&quot;logout&quot;:&quot;You have been logged out.&quot;,&quot;save&quot;:&quot;Save&quot;,&quot;session_timeout&quot;:{&quot;notice&quot;:&quot;You have been logged out for your security. Please sign back in to continue.&quot;,&quot;warning&quot;:{&quot;belay_button&quot;:&quot;Don&#x27;t log me out!&quot;,&quot;body_html&quot;:&quot;We haven&#x27;t noticed any activity in a few minutes.  For privacy, we&#x27;ll log you out in &lt;span id=\\&quot;secondsRemaining\\&quot;&gt;&lt;/span&gt; seconds.&quot;,&quot;title&quot;:&quot;Your session is about to expire.&quot;}},&quot;submit&quot;:&quot;Submit&quot;,&quot;update&quot;:&quot;Update&quot;},&quot;expando&quot;:{&quot;expand&quot;:&quot;Expand&quot;,&quot;prompt&quot;:&quot;Click to expand&quot;},&quot;features&quot;:{&quot;allow_comments&quot;:&quot;Commenting&quot;,&quot;cell_comments&quot;:&quot;Cell Commenting&quot;},&quot;filters&quot;:{&quot;formal&quot;:{&quot;between&quot;:&quot;between&quot;,&quot;contains&quot;:&quot;contains&quot;,&quot;equals&quot;:&quot;equals&quot;,&quot;greater_than&quot;:&quot;greater than&quot;,&quot;greater_than_or_equals&quot;:&quot;greater than or equal to&quot;,&quot;is_blank&quot;:&quot;is blank&quot;,&quot;is_not_blank&quot;:&quot;is not blank&quot;,&quot;less_than&quot;:&quot;less than&quot;,&quot;less_than_or_equals&quot;:&quot;less than or equal to&quot;,&quot;not_contains&quot;:&quot;does not contain&quot;,&quot;not_equals&quot;:&quot;does not equal&quot;,&quot;starts_with&quot;:&quot;starts with&quot;},&quot;informal&quot;:{&quot;between&quot;:&quot;is between&quot;,&quot;contains&quot;:&quot;contains&quot;,&quot;equals&quot;:&quot;is&quot;,&quot;greater_than&quot;:&quot;is greater than&quot;,&quot;greater_than_or_equals&quot;:&quot;is at least&quot;,&quot;is_blank&quot;:&quot;is blank&quot;,&quot;is_not_blank&quot;:&quot;is not blank&quot;,&quot;less_than&quot;:&quot;is less than&quot;,&quot;less_than_or_equals&quot;:&quot;is at most&quot;,&quot;not_contains&quot;:&quot;does not contain&quot;,&quot;not_equals&quot;:&quot;is not&quot;,&quot;starts_with&quot;:&quot;starts with&quot;}},&quot;forms&quot;:{&quot;none&quot;:&quot;None&quot;,&quot;required_field&quot;:&quot;Required Field&quot;},&quot;group_function&quot;:{&quot;date_day&quot;:&quot;Day&quot;,&quot;date_month&quot;:&quot;Month&quot;,&quot;date_year&quot;:&quot;Year&quot;},&quot;interstitial&quot;:{&quot;leaving_explanation_html&quot;:&quot;This &lt;span class=\\&quot;datasetType\\&quot;&gt;dataset&lt;/span&gt; is hosted by &lt;a href=\\&quot;\\\\#\\&quot; rel=\\&quot;external\\&quot; class=\\&quot;externalDomain\\&quot;&gt;another domain&lt;/a&gt;.&quot;,&quot;leaving_notice_html&quot;:&quot;You are leaving &lt;span class=\\&quot;serverName\\&quot;&gt;%{site_name}&lt;/span&gt;&quot;},&quot;map_layers&quot;:{&quot;aerial&quot;:&quot;Aerial&quot;,&quot;bing_aerial&quot;:&quot;Bing Aerial&quot;,&quot;bing_roadmap&quot;:&quot;Bing Roadmap&quot;,&quot;bing_roadmap_alias&quot;:&quot;Bing&quot;,&quot;esri_natural_earth&quot;:&quot;Natural Earth Map (ESRI)&quot;,&quot;esri_natural_earth_alias&quot;:&quot;Natural Earth Map&quot;,&quot;esri_satellite&quot;:&quot;Satellite Imagery (ESRI)&quot;,&quot;esri_us_topo&quot;:&quot;Detailed USA Topographic Map (ESRI)&quot;,&quot;esri_us_topo_alias&quot;:&quot;USA Topographic Map&quot;,&quot;esri_world_street_map&quot;:&quot;World Street Map (ESRI)&quot;,&quot;esri_world_street_map_alias&quot;:&quot;World Street Map&quot;,&quot;esri_world_topo&quot;:&quot;Annotated World Topographic Map (ESRI)&quot;,&quot;esri_world_topo_alias&quot;:&quot;World Topographic Map&quot;,&quot;google_roadmap&quot;:&quot;Google Roadmap&quot;,&quot;google_roadmap_alias&quot;:&quot;Google&quot;,&quot;google_satellite&quot;:&quot;Google Satellite&quot;,&quot;google_terrain&quot;:&quot;Google Terrain&quot;,&quot;roadmap&quot;:&quot;Roadmap&quot;,&quot;satellite&quot;:&quot;Satellite&quot;,&quot;terrain&quot;:&quot;Terrain&quot;},&quot;no_js&quot;:&quot;Disable Javascript on this page&quot;,&quot;numbers&quot;:{&quot;eight&quot;:&quot;eight&quot;,&quot;five&quot;:&quot;five&quot;,&quot;four&quot;:&quot;four&quot;,&quot;nine&quot;:&quot;nine&quot;,&quot;seven&quot;:&quot;seven&quot;,&quot;six&quot;:&quot;six&quot;,&quot;three&quot;:&quot;three&quot;,&quot;num_zero&quot;:&quot;zero&quot;,&quot;num_one&quot;:&quot;one&quot;,&quot;num_two&quot;:&quot;two&quot;},&quot;or&quot;:&quot;or&quot;,&quot;pagination&quot;:{&quot;current_page&quot;:&quot;Current Page&quot;,&quot;first_page&quot;:&quot;First Page&quot;,&quot;last_page&quot;:&quot;Last Page&quot;,&quot;next_page&quot;:&quot;Next Page&quot;,&quot;page&quot;:&quot;page&quot;,&quot;previous_page&quot;:&quot;Previous Page&quot;},&quot;precision_style&quot;:{&quot;scientific&quot;:&quot;Scientific (1.0204e+3)&quot;,&quot;standard&quot;:&quot;Standard (1020.4)&quot;},&quot;required&quot;:&quot;Required&quot;,&quot;share_types&quot;:{&quot;contributor&quot;:&quot;Contributor&quot;,&quot;owner&quot;:&quot;Owner&quot;,&quot;view&quot;:&quot;Viewer&quot;,&quot;viewer&quot;:&quot;Viewer&quot;},&quot;validation&quot;:{&quot;accept&quot;:&quot;Please enter a value with a valid extension.&quot;,&quot;date&quot;:&quot;Please enter a valid date.&quot;,&quot;dateISO&quot;:&quot;Please enter a valid date (ISO).&quot;,&quot;digits&quot;:&quot;Please enter only digits.&quot;,&quot;email&quot;:&quot;Please enter a valid email address.&quot;,&quot;equalTo&quot;:&quot;Please enter the same value again.&quot;,&quot;max&quot;:&quot;Please enter a value less than or equal to {0}.&quot;,&quot;maxlength&quot;:&quot;Please enter no more than {0} characters.&quot;,&quot;min&quot;:&quot;Please enter a value greater than or equal to {0}.&quot;,&quot;minlength&quot;:&quot;Please enter at least {0} characters.&quot;,&quot;number&quot;:&quot;Please enter a valid number.&quot;,&quot;range&quot;:&quot;Please enter a value between {0} and {1}.&quot;,&quot;rangelength&quot;:&quot;Please enter a value between {0} and {1} characters long.&quot;,&quot;remote&quot;:&quot;Please fix this field.&quot;,&quot;required&quot;:&quot;This field is required.&quot;,&quot;url&quot;:&quot;Please enter a valid URL.&quot;},&quot;view_types&quot;:{&quot;api&quot;:&quot;API view&quot;,&quot;blob&quot;:&quot;non-tabular file or document&quot;,&quot;calendar&quot;:&quot;calendar&quot;,&quot;chart&quot;:&quot;chart&quot;,&quot;dataset&quot;:&quot;dataset&quot;,&quot;filter&quot;:&quot;filtered view&quot;,&quot;form&quot;:&quot;form&quot;,&quot;group&quot;:&quot;grouped view&quot;,&quot;grouped&quot;:&quot;grouped view&quot;,&quot;href&quot;:&quot;external dataset&quot;,&quot;map&quot;:&quot;map&quot;,&quot;table&quot;:&quot;table&quot;,&quot;working_copy&quot;:&quot;working copy&quot;},&quot;view_types_plural&quot;:{&quot;api&quot;:&quot;APIs&quot;,&quot;calendar&quot;:&quot;Calendars&quot;,&quot;chart&quot;:&quot;Charts&quot;,&quot;filter&quot;:&quot;Filtered Views&quot;,&quot;form&quot;:&quot;Forms&quot;,&quot;grouped&quot;:&quot;Grouped Views&quot;,&quot;map&quot;:&quot;Maps&quot;},&quot;visibility&quot;:{&quot;private&quot;:&quot;private&quot;,&quot;public&quot;:&quot;public&quot;}},&quot;account&quot;:{&quot;common&quot;:{&quot;form&quot;:{&quot;confirm_password&quot;:&quot;Confirm Password&quot;,&quot;display_name&quot;:&quot;Display Name&quot;,&quot;email&quot;:&quot;Email Address&quot;,&quot;forgot_password&quot;:&quot;Forgot Password?&quot;,&quot;lockout_warning&quot;:&quot;For security, three failed login attempts in 15 minutes will result in this account being locked out for 30 minutes.&quot;,&quot;no_account&quot;:&quot;Don&#x27;t have an account?&quot;,&quot;password&quot;:&quot;Password&quot;,&quot;password_requirements&quot;:&quot;Required. Your password must be between 8 and 40 characters and satisfy three of the following four criteria: contain a digit; contain a lowercase letter; contain an uppercase letter; contain a non-alphanumeric symbol.&quot;,&quot;password_requirements_html&quot;:&quot;&lt;p&gt;Your password must be &lt;b&gt;between 8 and 40 characters&lt;/b&gt; and satisfy &lt;b&gt;three of the following four criteria&lt;/b&gt;:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&amp;bull; contain a digit&lt;/li&gt;&lt;li&gt;&amp;bull; contain a lowercase letter&lt;/li&gt;&lt;li&gt;&amp;bull; contain an uppercase letter&lt;/li&gt;&lt;li&gt;&amp;bull; contain a non-alphanumeric symbol&lt;/li&gt;&lt;/ul&gt;&quot;,&quot;password_restrictions&quot;:&quot;Restrictions apply&quot;,&quot;remember_me&quot;:&quot;Remember me&quot;,&quot;sign_up_prompt&quot;:&quot;Sign up now&quot;},&quot;inline_auth&quot;:{&quot;sign_in_headline&quot;:&quot;Sign in using your Socrata ID&quot;,&quot;sign_up_headline&quot;:&quot;We&#x27;re glad you want to join %{site}!&quot;},&quot;rpx&quot;:{&quot;description&quot;:&quot;Take advantage of additional features these accounts provide and sign in with one click.&quot;,&quot;prompt&quot;:{&quot;sign_in&quot;:&quot;Or\\u2026 Use one of these accounts to sign in.&quot;,&quot;sign_up&quot;:&quot;Or\\u2026 Use one of these accounts to join.&quot;},&quot;providers&quot;:{&quot;facebook&quot;:{&quot;sign_in_html&quot;:&quot;&lt;strong&gt;Connect&lt;/strong&gt; with Facebook&quot;,&quot;sign_up_html&quot;:&quot;&lt;strong&gt;Connect&lt;/strong&gt; with Facebook&quot;},&quot;google&quot;:{&quot;sign_in_html&quot;:&quot;&lt;strong&gt;Sign in&lt;/strong&gt; with Google&quot;,&quot;sign_up_html&quot;:&quot;&lt;strong&gt;Join&lt;/strong&gt; with Google&quot;},&quot;openid&quot;:{&quot;sign_in_html&quot;:&quot;&lt;strong&gt;Sign in&lt;/strong&gt; with OpenID&quot;,&quot;sign_up_html&quot;:&quot;&lt;strong&gt;Join&lt;/strong&gt; with OpenID&quot;},&quot;twitter&quot;:{&quot;sign_in_html&quot;:&quot;&lt;strong&gt;Connect&lt;/strong&gt; with Twitter&quot;,&quot;sign_up_html&quot;:&quot;&lt;strong&gt;Connect&lt;/strong&gt; with Twitter&quot;}}},&quot;validation&quot;:{&quot;mismatch&quot;:&quot;Passwords do not match.&quot;,&quot;terms&quot;:&quot;You must accept the terms of service and privacy policy.&quot;}}},&quot;plugins&quot;:{&quot;jquery_ui&quot;:{&quot;april&quot;:&quot;April&quot;,&quot;april_short&quot;:&quot;Apr&quot;,&quot;august&quot;:&quot;August&quot;,&quot;august_short&quot;:&quot;Aug&quot;,&quot;december&quot;:&quot;December&quot;,&quot;december_short&quot;:&quot;Dec&quot;,&quot;done&quot;:&quot;Done&quot;,&quot;february&quot;:&quot;February&quot;,&quot;february_short&quot;:&quot;Feb&quot;,&quot;friday&quot;:&quot;Friday&quot;,&quot;friday_min&quot;:&quot;Fr&quot;,&quot;friday_short&quot;:&quot;Fri&quot;,&quot;january&quot;:&quot;January&quot;,&quot;january_short&quot;:&quot;Jan&quot;,&quot;july&quot;:&quot;July&quot;,&quot;july_short&quot;:&quot;Jul&quot;,&quot;june&quot;:&quot;June&quot;,&quot;june_short&quot;:&quot;Jun&quot;,&quot;march&quot;:&quot;March&quot;,&quot;march_short&quot;:&quot;Mar&quot;,&quot;may&quot;:&quot;May&quot;,&quot;may_short&quot;:&quot;May&quot;,&quot;monday&quot;:&quot;Monday&quot;,&quot;monday_min&quot;:&quot;Mo&quot;,&quot;monday_short&quot;:&quot;Mon&quot;,&quot;next&quot;:&quot;Next&quot;,&quot;november&quot;:&quot;November&quot;,&quot;november_short&quot;:&quot;Nov&quot;,&quot;october&quot;:&quot;October&quot;,&quot;october_short&quot;:&quot;Oct&quot;,&quot;prev&quot;:&quot;Prev&quot;,&quot;saturday&quot;:&quot;Saturday&quot;,&quot;saturday_min&quot;:&quot;Sa&quot;,&quot;saturday_short&quot;:&quot;Sat&quot;,&quot;september&quot;:&quot;September&quot;,&quot;september_short&quot;:&quot;Sep&quot;,&quot;sunday&quot;:&quot;Sunday&quot;,&quot;sunday_min&quot;:&quot;Su&quot;,&quot;sunday_short&quot;:&quot;Sun&quot;,&quot;thursday&quot;:&quot;Thursday&quot;,&quot;thursday_min&quot;:&quot;Th&quot;,&quot;thursday_short&quot;:&quot;Thu&quot;,&quot;today&quot;:&quot;Today&quot;,&quot;tuesday&quot;:&quot;Tuesday&quot;,&quot;tuesday_min&quot;:&quot;Tu&quot;,&quot;tuesday_short&quot;:&quot;Tue&quot;,&quot;wednesday&quot;:&quot;Wednesday&quot;,&quot;wednesday_min&quot;:&quot;We&quot;,&quot;wednesday_short&quot;:&quot;Wed&quot;,&quot;week_min&quot;:&quot;Wk&quot;}}}"));
+        });
+</script>
+
+
+
+        </div>
+    </div>
+  </div>
+
+  <div id="siteFooter" role="contentinfo">
+    <a name="footerLinks" tabindex="-1"></a>
+    <div id="footer_nyc-open-data">
+<span class="copyright">
+    &copy; 2013 The City of New York
+</span>
+<ul class="siteFooterNav"><li><a href="http://www.nyc.gov/html/data/terms.html" rel="nofollow">Terms of Service</a></li><li><a href="http://www.nyc.gov/privacy" rel="nofollow">Privacy</a></li></ul>
+<div class="footerLogos clearfix">
+    <div class="nyLogo doitt"><a href="http://www.nyc.gov/doitt">DOITT</a></div>
+    <div class="nyLogo digital"><a href="http://www.nyc.gov/digital">Digital</a></div>
+</div>
+</div>
+<div id="footer_nyc-mmr">
+<span class="copyright">&copy; 2013 The City of New York</span>
+<ul class="siteFooterNav">
+    <li><a href="http://www.nyc.gov/contact">Contact Us</a></li>
+    <li><a href="http://www.nyc.gov/faqs">FAQs</a></li>
+    <li><a href="http://www.nyc.gov/privacy">Privacy Statement</a></li>
+    <li><a href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</a></li>
+    <li><a href="http://www.nyc.gov/sitemap">Site Map</a></li></ul>
+</ul>
+</div>
+<div id="footer_redesign2">
+    <div id="footerInner">
+        <div class = "footerText">&copy; 2013 The City of New York</div><br/>
+        <div class="footerText">
+            <a href="http://www.nyc.gov/contact">Contact Us</a> |
+            <a href="http://www.nyc.gov/faqs">FAQs</a> |
+            <a href="http://www.nyc.gov/privacy">Privacy Statement</a> |
+            <a href="http://www.nyc.gov/html/misc/html/tou.html">Terms of Use</a> |
+            <a href="http://www.nyc.gov/sitemap">Site Map</a>
+        </div>
+    </div>
+</div>
+
+
+  </div>
+
+  <div class="socrataModal"><div class="socrataModalWrapper"></div></div>
+
+
+  <div id="templates" style="display:none">
+    <div class="menu">
+  <a class="menuButton" href="#"><span class="icon"></span></a>
+  <div class="menuDropdown">
+    <ul class="menuColumns">
+      <li class="menuColumn">
+        <ul class="menuEntries">
+          <li class="menuEntry">
+            <a href="#" class="clearfix">
+              <span class="icon"></span>
+              <span class="contents"></span>
+              <div class="subtext"></div>
+            </a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+
+    <div class="expandedInfo">
+  <div class="actions">
+    <a class="manageApi button" href="#Manage" title="Manage this API">
+      Manage
+    </a>
+    <a class="permissions button" href="#Permissions"
+      title="Change the public visibility">
+    </a>
+    <a class="delete button" href="#Delete" title="Delete this item">
+      Delete
+    </a>
+    <a class="about button" href="#About" title="About this Dataset">
+      About
+    </a>
+    <div class="share menu"></div>
+  </div>
+  <div class="comments" title="Number of comments">
+    <span class="icon"></span><span class="value"></span>
+  </div>
+  <div class="starsControl datasetAverageRating" title="0 stars"><span class="accessibleValue">Current value: 0 out of 5</span><span class="starsLabel value-0 currentValue"></span><span class="starsLabel value-1"></span><span class="starsLabel value-2"></span><span class="starsLabel value-3"></span><span class="starsLabel value-4"></span><span class="starsLabel value-5"></span></div>
+</div>
+<div class="rowSearchRenderType hide">
+  <div class="columnHeaders"></div>
+  <div class="rowResultCountDisplay">
+    <span>Showing <span class="rowResultCountText"></span> of <span class="totalResultCountText"></span> matching rows <a href="#" class="rowSearchLink">(view results)</a>:</span>
+  </div>
+  <div class="rowList"></div>
+  <div class="fader"></div>
+  <div class="expandHint downArrow">
+    <a class="expandRowResults" href="#Expand">
+      <span class="icon"></span>
+      <span class="expandText">More</span>
+      <span class="collapseText">Less</span>
+    </a>
+  </div>
+  <div class="templateRow row clearfix"></div>
+</div>
+
+
+  </div>
+  
+  
+
+  <!--[if IE]>
+  <script src="/packages/excanvas.js?1386190158" type="text/javascript"></script>
+  <![endif]-->
+  <!--[if lt IE 7]>
+  <script src="/packages/bgiframe.js?1387326603" type="text/javascript"></script>
+  <script src="/packages/oldie.js?1387326603" type="text/javascript"></script>
+  <![endif]-->
+
+  <script src="/packages/base.js?1387326603" type="text/javascript"></script>
+
+  
+
+    <script type="text/javascript">
+      $.debug = function() {};
+    </script>
+
+  <script type="text/javascript">
+    blist.namespace.fetch('blist.configuration');
+    blist.configuration.strings = JSON.parse($.unescapeQuotes("{&quot;search_prompt&quot;:&quot;Search&quot;,&quot;company&quot;:&quot;NYC Open Data&quot;,&quot;sign_out&quot;:&quot;Sign out&quot;,&quot;site_title&quot;:&quot;NYC Open Data&quot;,&quot;copyright_string&quot;:&quot;&amp;copy; 2013 The City of New York&quot;,&quot;sign_up&quot;:&quot;Sign Up&quot;,&quot;sign_in&quot;:&quot;Sign In&quot;}"));
+
+
+    blist.configuration.canvasAvailable = true;
+
+    try {
+      if ((self !== top) && (self.location.hostname !== top.location.hostname))
+        top.location = self.document.location;
+    } catch(ex) {
+      top.location = self.document.location;
+    }
+
+  </script>
+
+  <div id="modals">
+                      <div class="modalDialog browseOptionsDialog" id="browseDialog_tags" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Close</a>
+                    <div class="optionsContent">
+                        <a href="/browse?limitTo=apis&amp;tags=2005&amp;utf8=%E2%9C%93" rel="114">
+                          2005
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=2006&amp;utf8=%E2%9C%93" rel="121">
+                          2006
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=2007&amp;utf8=%E2%9C%93" rel="121">
+                          2007
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=2008&amp;utf8=%E2%9C%93" rel="120">
+                          2008
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=2009&amp;utf8=%E2%9C%93" rel="133">
+                          2009
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=2010&amp;utf8=%E2%9C%93" rel="676">
+                          2010
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=2011&amp;utf8=%E2%9C%93" rel="683">
+                          2011
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=2012&amp;utf8=%E2%9C%93" rel="550">
+                          2012
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=311&amp;utf8=%E2%9C%93" rel="704">
+                          311
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=311+service+requests&amp;utf8=%E2%9C%93" rel="704">
+                          311 service requests
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=acris+land+records&amp;utf8=%E2%9C%93" rel="40">
+                          acris land records
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=activity&amp;utf8=%E2%9C%93" rel="120">
+                          activity
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=administrative+law+judge&amp;utf8=%E2%9C%93" rel="104">
+                          administrative law judge
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=administrative+services&amp;utf8=%E2%9C%93" rel="31">
+                          administrative services
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=after-school&amp;utf8=%E2%9C%93" rel="31">
+                          after-school
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=agency&amp;utf8=%E2%9C%93" rel="31">
+                          agency
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=alj&amp;utf8=%E2%9C%93" rel="104">
+                          alj
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=all+service+requests&amp;utf8=%E2%9C%93" rel="703">
+                          all service requests
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=allegation&amp;utf8=%E2%9C%93" rel="70">
+                          allegation
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=apartment&amp;utf8=%E2%9C%93" rel="93">
+                          apartment
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=art&amp;utf8=%E2%9C%93" rel="32">
+                          art
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=authority&amp;utf8=%E2%9C%93" rel="128">
+                          authority
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=automobile&amp;utf8=%E2%9C%93" rel="30">
+                          automobile
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=bic&amp;utf8=%E2%9C%93" rel="104">
+                          bic
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=bid&amp;utf8=%E2%9C%93" rel="30">
+                          bid
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=board&amp;utf8=%E2%9C%93" rel="112">
+                          board
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=borough&amp;utf8=%E2%9C%93" rel="176">
+                          borough
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=boundary&amp;utf8=%E2%9C%93" rel="84">
+                          boundary
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=bronx&amp;utf8=%E2%9C%93" rel="36">
+                          bronx
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=brooklyn&amp;utf8=%E2%9C%93" rel="38">
+                          brooklyn
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=building&amp;utf8=%E2%9C%93" rel="59">
+                          building
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=buildings&amp;utf8=%E2%9C%93" rel="223">
+                          buildings
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=business&amp;utf8=%E2%9C%93" rel="66">
+                          business
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=business+integrity+commission&amp;utf8=%E2%9C%93" rel="104">
+                          business integrity commission
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=campaign&amp;utf8=%E2%9C%93" rel="33">
+                          campaign
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=campaign+finance&amp;utf8=%E2%9C%93" rel="33">
+                          campaign finance
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=campaign+finance+board&amp;utf8=%E2%9C%93" rel="33">
+                          campaign finance board
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=capital&amp;utf8=%E2%9C%93" rel="51">
+                          capital
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=car&amp;utf8=%E2%9C%93" rel="40">
+                          car
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=cartography&amp;utf8=%E2%9C%93" rel="184">
+                          cartography
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=ccrb&amp;utf8=%E2%9C%93" rel="135">
+                          ccrb
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=cfb&amp;utf8=%E2%9C%93" rel="33">
+                          cfb
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=charges&amp;utf8=%E2%9C%93" rel="104">
+                          charges
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=child&amp;utf8=%E2%9C%93" rel="31">
+                          child
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=children&amp;utf8=%E2%9C%93" rel="36">
+                          children
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=city&amp;utf8=%E2%9C%93" rel="67">
+                          city
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=citywide&amp;utf8=%E2%9C%93" rel="35">
+                          citywide
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=civilian&amp;utf8=%E2%9C%93" rel="109">
+                          civilian
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=civilian+complaint+review+board&amp;utf8=%E2%9C%93" rel="102">
+                          civilian complaint review board
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=class-1&amp;utf8=%E2%9C%93" rel="40">
+                          class-1
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=class-2&amp;utf8=%E2%9C%93" rel="40">
+                          class-2
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=class-3&amp;utf8=%E2%9C%93" rel="40">
+                          class-3
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=clean+web&amp;utf8=%E2%9C%93" rel="346">
+                          clean web
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=code&amp;utf8=%E2%9C%93" rel="42">
+                          code
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=community&amp;utf8=%E2%9C%93" rel="131">
+                          community
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=community+development&amp;utf8=%E2%9C%93" rel="30">
+                          community development
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=companies&amp;utf8=%E2%9C%93" rel="33">
+                          companies
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=company&amp;utf8=%E2%9C%93" rel="33">
+                          company
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=complaint&amp;utf8=%E2%9C%93" rel="124">
+                          complaint
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=complaint+activity&amp;utf8=%E2%9C%93" rel="103">
+                          complaint activity
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=complaints&amp;utf8=%E2%9C%93" rel="30">
+                          complaints
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=condominiums&amp;utf8=%E2%9C%93" rel="43">
+                          condominiums
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=conservation&amp;utf8=%E2%9C%93" rel="33">
+                          conservation
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=construction&amp;utf8=%E2%9C%93" rel="154">
+                          construction
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=consumer+affairs&amp;utf8=%E2%9C%93" rel="98">
+                          consumer affairs
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=contributions&amp;utf8=%E2%9C%93" rel="33">
+                          contributions
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=cooperatives&amp;utf8=%E2%9C%93" rel="86">
+                          cooperatives
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=culture&amp;utf8=%E2%9C%93" rel="55">
+                          culture
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=data&amp;utf8=%E2%9C%93" rel="56">
+                          data
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=dca&amp;utf8=%E2%9C%93" rel="189">
+                          dca
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=dcas&amp;utf8=%E2%9C%93" rel="38">
+                          dcas
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=dcp&amp;utf8=%E2%9C%93" rel="122">
+                          dcp
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=demographic&amp;utf8=%E2%9C%93" rel="30">
+                          demographic
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=dep&amp;utf8=%E2%9C%93" rel="164">
+                          dep
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=department+of+buildings&amp;utf8=%E2%9C%93" rel="131">
+                          department of buildings
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=department+of+consumer+affairs&amp;utf8=%E2%9C%93" rel="106">
+                          department of consumer affairs
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=department+of+environmental+protection&amp;utf8=%E2%9C%93" rel="162">
+                          department of environmental protection
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=department+of+finance&amp;utf8=%E2%9C%93" rel="139">
+                          department of finance
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=department+of+health+and+mental+hygiene&amp;utf8=%E2%9C%93" rel="110">
+                          department of health and mental hygiene
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=department+of+information+technology+and+telecommunications&amp;utf8=%E2%9C%93" rel="104">
+                          department of information technology and telecommunications
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=department+of+parks+and+recreation&amp;utf8=%E2%9C%93" rel="104">
+                          department of parks and recreation
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=department+of+sanitation&amp;utf8=%E2%9C%93" rel="104">
+                          department of sanitation
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=department+of+small+business+services&amp;utf8=%E2%9C%93" rel="111">
+                          department of small business services
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=department+of+transportation&amp;utf8=%E2%9C%93" rel="104">
+                          department of transportation
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=development&amp;utf8=%E2%9C%93" rel="69">
+                          development
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=directory&amp;utf8=%E2%9C%93" rel="44">
+                          directory
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=disciplinary+recommendation&amp;utf8=%E2%9C%93" rel="66">
+                          disciplinary recommendation
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=district&amp;utf8=%E2%9C%93" rel="73">
+                          district
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=dob&amp;utf8=%E2%9C%93" rel="251">
+                          dob
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=dof&amp;utf8=%E2%9C%93" rel="184">
+                          dof
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=dohmh&amp;utf8=%E2%9C%93" rel="134">
+                          dohmh
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=doitt&amp;utf8=%E2%9C%93" rel="113">
+                          doitt
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=doitt+gis&amp;utf8=%E2%9C%93" rel="55">
+                          doitt gis
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=dot&amp;utf8=%E2%9C%93" rel="110">
+                          dot
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=dpr&amp;utf8=%E2%9C%93" rel="169">
+                          dpr
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=driver&amp;utf8=%E2%9C%93" rel="107">
+                          driver
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=dsny&amp;utf8=%E2%9C%93" rel="117">
+                          dsny
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=ecb+violations&amp;utf8=%E2%9C%93" rel="104">
+                          ecb violations
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=education&amp;utf8=%E2%9C%93" rel="157">
+                          education
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=elections&amp;utf8=%E2%9C%93" rel="38">
+                          elections
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=energy&amp;utf8=%E2%9C%93" rel="43">
+                          energy
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=enrollment&amp;utf8=%E2%9C%93" rel="34">
+                          enrollment
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=entertainment&amp;utf8=%E2%9C%93" rel="40">
+                          entertainment
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=environment&amp;utf8=%E2%9C%93" rel="97">
+                          environment
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=environmental+control+board&amp;utf8=%E2%9C%93" rel="104">
+                          environmental control board
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=facility&amp;utf8=%E2%9C%93" rel="37">
+                          facility
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=family+homes&amp;utf8=%E2%9C%93" rel="40">
+                          family homes
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=fdny&amp;utf8=%E2%9C%93" rel="131">
+                          fdny
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=finance&amp;utf8=%E2%9C%93" rel="227">
+                          finance
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=fire+department&amp;utf8=%E2%9C%93" rel="130">
+                          fire department
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=firm&amp;utf8=%E2%9C%93" rel="36">
+                          firm
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=food&amp;utf8=%E2%9C%93" rel="74">
+                          food
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=fund&amp;utf8=%E2%9C%93" rel="43">
+                          fund
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=funding&amp;utf8=%E2%9C%93" rel="65">
+                          funding
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=geographic&amp;utf8=%E2%9C%93" rel="180">
+                          geographic
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=grade&amp;utf8=%E2%9C%93" rel="42">
+                          grade
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=health&amp;utf8=%E2%9C%93" rel="113">
+                          health
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=healthy+living&amp;utf8=%E2%9C%93" rel="163">
+                          healthy living
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=homes&amp;utf8=%E2%9C%93" rel="36">
+                          homes
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=housing&amp;utf8=%E2%9C%93" rel="41">
+                          housing
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=hra&amp;utf8=%E2%9C%93" rel="42">
+                          hra
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=improvement&amp;utf8=%E2%9C%93" rel="38">
+                          improvement
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=jobs&amp;utf8=%E2%9C%93" rel="54">
+                          jobs
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=jobs+and+economic+mobility&amp;utf8=%E2%9C%93" rel="129">
+                          jobs and economic mobility
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=landmarks+preservation+commission&amp;utf8=%E2%9C%93" rel="104">
+                          landmarks preservation commission
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=law&amp;utf8=%E2%9C%93" rel="41">
+                          law
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=license&amp;utf8=%E2%9C%93" rel="123">
+                          license
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=lifelong+learning&amp;utf8=%E2%9C%93" rel="276">
+                          lifelong learning
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=limousine&amp;utf8=%E2%9C%93" rel="109">
+                          limousine
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=location&amp;utf8=%E2%9C%93" rel="206">
+                          location
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=lot&amp;utf8=%E2%9C%93" rel="45">
+                          lot
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=lpc&amp;utf8=%E2%9C%93" rel="104">
+                          lpc
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=manhattan&amp;utf8=%E2%9C%93" rel="64">
+                          manhattan
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=map&amp;utf8=%E2%9C%93" rel="190">
+                          map
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=medallion&amp;utf8=%E2%9C%93" rel="100">
+                          medallion
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=misconduct&amp;utf8=%E2%9C%93" rel="65">
+                          misconduct
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=moda&amp;utf8=%E2%9C%93" rel="111">
+                          moda
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=neighborhood&amp;utf8=%E2%9C%93" rel="42">
+                          neighborhood
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=neighborhood+sales&amp;utf8=%E2%9C%93" rel="36">
+                          neighborhood sales
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=neighborhoods&amp;utf8=%E2%9C%93" rel="36">
+                          neighborhoods
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=new+york&amp;utf8=%E2%9C%93" rel="35">
+                          new york
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=new+york+city&amp;utf8=%E2%9C%93" rel="30">
+                          new york city
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=nyc&amp;utf8=%E2%9C%93" rel="88">
+                          nyc
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=nyccfb&amp;utf8=%E2%9C%93" rel="33">
+                          nyccfb
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=nycha&amp;utf8=%E2%9C%93" rel="30">
+                          nycha
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=nypd&amp;utf8=%E2%9C%93" rel="118">
+                          nypd
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=oath&amp;utf8=%E2%9C%93" rel="110">
+                          oath
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=park&amp;utf8=%E2%9C%93" rel="64">
+                          park
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=parking&amp;utf8=%E2%9C%93" rel="47">
+                          parking
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=parks&amp;utf8=%E2%9C%93" rel="42">
+                          parks
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=permit&amp;utf8=%E2%9C%93" rel="52">
+                          permit
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=permits&amp;utf8=%E2%9C%93" rel="38">
+                          permits
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=planning&amp;utf8=%E2%9C%93" rel="84">
+                          planning
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=police+department&amp;utf8=%E2%9C%93" rel="108">
+                          police department
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=politics&amp;utf8=%E2%9C%93" rel="35">
+                          politics
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=population&amp;utf8=%E2%9C%93" rel="47">
+                          population
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=power&amp;utf8=%E2%9C%93" rel="30">
+                          power
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=programs&amp;utf8=%E2%9C%93" rel="38">
+                          programs
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=project&amp;utf8=%E2%9C%93" rel="48">
+                          project
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=properties&amp;utf8=%E2%9C%93" rel="36">
+                          properties
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=property&amp;utf8=%E2%9C%93" rel="111">
+                          property
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=public&amp;utf8=%E2%9C%93" rel="40">
+                          public
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=quality+of+life&amp;utf8=%E2%9C%93" rel="104">
+                          quality of life
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=queens&amp;utf8=%E2%9C%93" rel="43">
+                          queens
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=recreation&amp;utf8=%E2%9C%93" rel="54">
+                          recreation
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=rental+properties&amp;utf8=%E2%9C%93" rel="87">
+                          rental properties
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=rental+property&amp;utf8=%E2%9C%93" rel="89">
+                          rental property
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=residential&amp;utf8=%E2%9C%93" rel="93">
+                          residential
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=restaurant&amp;utf8=%E2%9C%93" rel="30">
+                          restaurant
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=review&amp;utf8=%E2%9C%93" rel="109">
+                          review
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=safety&amp;utf8=%E2%9C%93" rel="52">
+                          safety
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=sales&amp;utf8=%E2%9C%93" rel="38">
+                          sales
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=sbs&amp;utf8=%E2%9C%93" rel="114">
+                          sbs
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=sca&amp;utf8=%E2%9C%93" rel="128">
+                          sca
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=school&amp;utf8=%E2%9C%93" rel="226">
+                          school
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=service&amp;utf8=%E2%9C%93" rel="31">
+                          service
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=service+request+status&amp;utf8=%E2%9C%93" rel="647">
+                          service request status
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=services&amp;utf8=%E2%9C%93" rel="64">
+                          services
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=sidewalk&amp;utf8=%E2%9C%93" rel="37">
+                          sidewalk
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=statistic&amp;utf8=%E2%9C%93" rel="31">
+                          statistic
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=statistics&amp;utf8=%E2%9C%93" rel="141">
+                          statistics
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=tax&amp;utf8=%E2%9C%93" rel="30">
+                          tax
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=taxi&amp;utf8=%E2%9C%93" rel="142">
+                          taxi
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=taxi+driver&amp;utf8=%E2%9C%93" rel="70">
+                          taxi driver
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=taxi+license&amp;utf8=%E2%9C%93" rel="70">
+                          taxi license
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=taxicab&amp;utf8=%E2%9C%93" rel="70">
+                          taxicab
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=theater&amp;utf8=%E2%9C%93" rel="33">
+                          theater
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=ticket&amp;utf8=%E2%9C%93" rel="108">
+                          ticket
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=ticket+finder&amp;utf8=%E2%9C%93" rel="104">
+                          ticket finder
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=tlc&amp;utf8=%E2%9C%93" rel="97">
+                          tlc
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=trade&amp;utf8=%E2%9C%93" rel="33">
+                          trade
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=transportation&amp;utf8=%E2%9C%93" rel="101">
+                          transportation
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=tribunal&amp;utf8=%E2%9C%93" rel="104">
+                          tribunal
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=vehicle&amp;utf8=%E2%9C%93" rel="30">
+                          vehicle
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=violations&amp;utf8=%E2%9C%93" rel="105">
+                          violations
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=water&amp;utf8=%E2%9C%93" rel="59">
+                          water
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=work&amp;utf8=%E2%9C%93" rel="36">
+                          work
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=youth&amp;utf8=%E2%9C%93" rel="56">
+                          youth
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=zip&amp;utf8=%E2%9C%93" rel="31">
+                          zip
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=zip+code&amp;utf8=%E2%9C%93" rel="31">
+                          zip code
+                        </a>
+                    </div>
+                    <ul class="actions clearfix">
+                      <li>
+                        <a class="jqmClose button cancel" href="#cancel">Close</a>
+                      </li>
+                    </ul>
+</div>  <div class="modalDialog browseOptionsDialog" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Close</a>
+    <div class="optionsContent"></div>
+</div>
+  <div class="modalDialog externalDomainNotice" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Close</a>
+    <h2>
+      You are leaving <span class="serverName">data.cityofnewyork.us</span>
+    </h2>
+    <p>
+      This <span class="datasetType">dataset</span> is hosted by <a href="\#" rel="external" class="externalDomain">another domain</a>.
+    </p>
+    <div class="nameDescription">
+      <p class="dsName"></p>
+      <p class="dsDesc"></p>
+    </div>
+    <div class="leavingLinkWrapper">
+      <a class="leavingLink noInterstitial" href="#" rel="external"></a>
+    </div>
+    <ul class="actions clearfix">
+      <li>
+        <a class="noInterstitial default button accept" href="#" rel="external">
+          <span class="icon"></span>
+          Continue
+        </a>
+      </li>
+      <li>
+        <a class="jqmClose button cancel" href="#cancel">
+          <span class="icon"></span>
+          Cancel
+        </a>
+      </li>
+    </ul>
+</div>
+
+    <div class="modalDialog" id="jqmAlert" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Close</a>
+      <h2>Alert</h2>
+      <p class="alertMessage"></p>
+      <ul class="actions clearfix">
+        <li><a href="#close" class="button jqmClose">Close</a></li>
+      </ul>
+</div>    <div class="modalDialog" id="jqmConfirm" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Close</a>
+      <h2>Alert</h2>
+      <p class="confirmMessage"></p>
+      <ul class="actions clearfix">
+        <li><a href="#close" class="button jqmClose default yes">Yes</a></li>
+        <li><a href="#close" class="button jqmClose no">No</a></li>
+      </ul>
+</div>  </div>
+  <div id="newModals">
+  	
+  </div>
+
+    <script type='text/javascript'>
+    $(function()
+    {
+       blist.namespace.fetch('blist.browse');
+       blist.browse.datasets = {};
+       blist.browse.datasets['dbsx-g8td'] = JSON.parse($.unescapeQuotes("{&quot;id&quot;:&quot;dbsx-g8td&quot;,&quot;name&quot;:&quot;Public Pay Telephone Wifi Metrics&quot;,&quot;attribution&quot;:&quot;Department of Information Technology &amp; Telecommunications (DoITT)&quot;,&quot;averageRating&quot;:0.0,&quot;createdAt&quot;:1354663925,&quot;description&quot;:&quot;This data represents monthly usage statistics from certain payphones which also serve as public WiFi hotspots throughout the city.&quot;,&quot;displayType&quot;:&quot;api&quot;,&quot;downloadCount&quot;:11,&quot;indexUpdatedAt&quot;:1381786614,&quot;newBackend&quot;:false,&quot;numberOfComments&quot;:0,&quot;oid&quot;:4208795,&quot;publicationAppendEnabled&quot;:false,&quot;publicationDate&quot;:1372266771,&quot;publicationGroup&quot;:537231,&quot;publicationStage&quot;:&quot;published&quot;,&quot;resourceName&quot;:&quot;public-wifi-usage&quot;,&quot;rowsUpdatedAt&quot;:1372266767,&quot;rowsUpdatedBy&quot;:&quot;uurm-7z6x&quot;,&quot;signed&quot;:false,&quot;tableId&quot;:942476,&quot;totalTimesRated&quot;:0,&quot;viewCount&quot;:23,&quot;viewLastModified&quot;:1381781713,&quot;viewType&quot;:&quot;tabular&quot;,&quot;columns&quot;:[{&quot;id&quot;:77010886,&quot;name&quot;:&quot;Year&quot;,&quot;fieldName&quot;:&quot;year&quot;,&quot;position&quot;:1,&quot;width&quot;:54,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:5797712,&quot;cachedContents&quot;:{&quot;non_null&quot;:49,&quot;smallest&quot;:&quot;2012&quot;,&quot;sum&quot;:&quot;98588&quot;,&quot;null&quot;:0,&quot;average&quot;:&quot;2012&quot;,&quot;largest&quot;:&quot;2012&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;2012&quot;}]},&quot;format&quot;:{&quot;precisionStyle&quot;:&quot;standard&quot;,&quot;align&quot;:&quot;right&quot;,&quot;noCommas&quot;:&quot;true&quot;},&quot;flags&quot;:null},{&quot;id&quot;:77010887,&quot;name&quot;:&quot;Month&quot;,&quot;fieldName&quot;:&quot;month&quot;,&quot;position&quot;:2,&quot;width&quot;:66,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:5797713,&quot;cachedContents&quot;:{&quot;non_null&quot;:49,&quot;smallest&quot;:&quot;7&quot;,&quot;sum&quot;:&quot;464&quot;,&quot;null&quot;:0,&quot;average&quot;:&quot;9.469387755102041&quot;,&quot;largest&quot;:&quot;12&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;7&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;8&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;9&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;10&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;11&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;12&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:77010888,&quot;name&quot;:&quot;Provider&quot;,&quot;fieldName&quot;:&quot;provider&quot;,&quot;position&quot;:3,&quot;width&quot;:98,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:5878396,&quot;cachedContents&quot;:{&quot;non_null&quot;:49,&quot;smallest&quot;:&quot;Telebeam&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;Van Wagner&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;Van Wagner&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;Telebeam&quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:77010889,&quot;name&quot;:&quot;Location&quot;,&quot;fieldName&quot;:&quot;location&quot;,&quot;position&quot;:4,&quot;width&quot;:196,&quot;dataTypeName&quot;:&quot;text&quot;,&quot;renderTypeName&quot;:&quot;text&quot;,&quot;tableColumnId&quot;:5797714,&quot;cachedContents&quot;:{&quot;non_null&quot;:49,&quot;smallest&quot;:&quot;2 Smith St, Brooklyn&quot;,&quot;null&quot;:0,&quot;largest&quot;:&quot;W Broadway &amp; Spring St&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;Broadway &amp; W 58th St&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;W 95th &amp; Broadway&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;W 48th St near Rockefeller Center&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;W Broadway &amp; Spring St&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;2 Smith St, Brooklyn&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;Albee Square, Brooklyn&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;Richmond Ave &amp; Amboy Rd, Staten Island&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;30-94 Steinway St, Astoria&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;TBD&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;SEC Broadway &amp; W 58th St; Phone kiosk; New York; NY &quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;W 48th St near Rockefeller Center; in Phone Kiosk; New York; NY &quot;},{&quot;count&quot;:9,&quot;item&quot;:&quot;Phone Kiosk W Bway &amp; Spring St; Phone Kiosk; New York; NY &quot;},{&quot;count&quot;:8,&quot;item&quot;:&quot; Phone Kiosk @ Smith and Fulton St in Fulton Mall; Brooklyn; NY &quot;},{&quot;count&quot;:7,&quot;item&quot;:&quot;Phone Kiosk Fulton St &amp; Albee Square; Brooklyn; NY &quot;},{&quot;count&quot;:6,&quot;item&quot;:&quot;Phone Kiosk near Burger King @ Richmond Ave &amp; Amboy Rd;  Staten Island; NY &quot;},{&quot;count&quot;:5,&quot;item&quot;:&quot;30-94 Steinway St; Phone Kiosk; Astoria; NY &quot;},{&quot;count&quot;:4,&quot;item&quot;:&quot;931 Westchester Avenue; ; Bronx; NY &quot;},{&quot;count&quot;:3,&quot;item&quot;:&quot;850 Longwood Avenue; ; Bronx; NY &quot;}]},&quot;format&quot;:{},&quot;flags&quot;:null},{&quot;id&quot;:77010890,&quot;name&quot;:&quot;System ID&quot;,&quot;fieldName&quot;:&quot;system_id&quot;,&quot;position&quot;:5,&quot;width&quot;:69,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:5797715,&quot;cachedContents&quot;:{&quot;non_null&quot;:49,&quot;smallest&quot;:&quot;9364&quot;,&quot;sum&quot;:&quot;1140756&quot;,&quot;null&quot;:0,&quot;average&quot;:&quot;23280.73469387755&quot;,&quot;largest&quot;:&quot;24337&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;20731&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;24329&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;24330&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;24331&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;24332&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;24334&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;24335&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;24336&quot;},{&quot;count&quot;:12,&quot;item&quot;:&quot;24337&quot;},{&quot;count&quot;:11,&quot;item&quot;:&quot;9364&quot;},{&quot;count&quot;:10,&quot;item&quot;:&quot;9365&quot;}]},&quot;format&quot;:{&quot;precisionStyle&quot;:&quot;standard&quot;,&quot;noCommas&quot;:&quot;true&quot;,&quot;align&quot;:&quot;right&quot;},&quot;flags&quot;:null},{&quot;id&quot;:77010891,&quot;name&quot;:&quot;# of Sessions&quot;,&quot;fieldName&quot;:&quot;sessions&quot;,&quot;position&quot;:6,&quot;width&quot;:91,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:5797716,&quot;cachedContents&quot;:{&quot;non_null&quot;:49,&quot;smallest&quot;:&quot;0&quot;,&quot;sum&quot;:&quot;12436&quot;,&quot;null&quot;:0,&quot;average&quot;:&quot;253.7959183673469&quot;,&quot;largest&quot;:&quot;878&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;149&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;160&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;0&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;254&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;257&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;168&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;47&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;92&quot;}]},&quot;format&quot;:{&quot;precisionStyle&quot;:&quot;standard&quot;,&quot;aggregate&quot;:&quot;sum&quot;,&quot;align&quot;:&quot;right&quot;,&quot;noCommas&quot;:&quot;false&quot;},&quot;flags&quot;:null},{&quot;id&quot;:77010892,&quot;name&quot;:&quot;# of Users&quot;,&quot;fieldName&quot;:&quot;users&quot;,&quot;position&quot;:7,&quot;width&quot;:64,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:5797717,&quot;cachedContents&quot;:{&quot;non_null&quot;:49,&quot;smallest&quot;:&quot;0&quot;,&quot;sum&quot;:&quot;8633&quot;,&quot;null&quot;:0,&quot;average&quot;:&quot;176.1836734693878&quot;,&quot;largest&quot;:&quot;684&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;106&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;103&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;0&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;189&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;112&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;80&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;29&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;59&quot;}]},&quot;format&quot;:{&quot;precisionStyle&quot;:&quot;standard&quot;,&quot;aggregate&quot;:&quot;sum&quot;,&quot;noCommas&quot;:&quot;false&quot;,&quot;align&quot;:&quot;right&quot;},&quot;flags&quot;:null},{&quot;id&quot;:77010893,&quot;name&quot;:&quot;# of Minutes&quot;,&quot;fieldName&quot;:&quot;minutes&quot;,&quot;position&quot;:8,&quot;width&quot;:76,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:5797718,&quot;cachedContents&quot;:{&quot;non_null&quot;:49,&quot;smallest&quot;:&quot;0&quot;,&quot;sum&quot;:&quot;582576&quot;,&quot;null&quot;:0,&quot;average&quot;:&quot;11889.30612244898&quot;,&quot;largest&quot;:&quot;28773&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;4765&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;8350&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;0&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;24043&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;17733&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;15768&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;1656&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;4865&quot;}]},&quot;format&quot;:{&quot;precisionStyle&quot;:&quot;standard&quot;,&quot;aggregate&quot;:&quot;sum&quot;,&quot;align&quot;:&quot;right&quot;,&quot;noCommas&quot;:&quot;false&quot;},&quot;flags&quot;:null},{&quot;id&quot;:77010894,&quot;name&quot;:&quot;MB Received&quot;,&quot;fieldName&quot;:&quot;mb_received&quot;,&quot;position&quot;:9,&quot;width&quot;:86,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:5797719,&quot;cachedContents&quot;:{&quot;non_null&quot;:49,&quot;smallest&quot;:&quot;0&quot;,&quot;sum&quot;:&quot;239160&quot;,&quot;null&quot;:0,&quot;average&quot;:&quot;4880.816326530612&quot;,&quot;largest&quot;:&quot;17749&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;948&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;2835&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;0&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;7376&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;6742&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;10747&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;284&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;7057&quot;}]},&quot;format&quot;:{&quot;precisionStyle&quot;:&quot;standard&quot;,&quot;aggregate&quot;:&quot;sum&quot;,&quot;align&quot;:&quot;right&quot;,&quot;noCommas&quot;:&quot;false&quot;},&quot;flags&quot;:null},{&quot;id&quot;:77010895,&quot;name&quot;:&quot;MB Sent&quot;,&quot;fieldName&quot;:&quot;mb_sent&quot;,&quot;position&quot;:10,&quot;width&quot;:66,&quot;dataTypeName&quot;:&quot;number&quot;,&quot;renderTypeName&quot;:&quot;number&quot;,&quot;tableColumnId&quot;:5797720,&quot;cachedContents&quot;:{&quot;non_null&quot;:49,&quot;smallest&quot;:&quot;0&quot;,&quot;sum&quot;:&quot;22617&quot;,&quot;null&quot;:0,&quot;average&quot;:&quot;461.5714285714286&quot;,&quot;largest&quot;:&quot;1478&quot;,&quot;top&quot;:[{&quot;count&quot;:20,&quot;item&quot;:&quot;119&quot;},{&quot;count&quot;:19,&quot;item&quot;:&quot;300&quot;},{&quot;count&quot;:18,&quot;item&quot;:&quot;0&quot;},{&quot;count&quot;:17,&quot;item&quot;:&quot;412&quot;},{&quot;count&quot;:16,&quot;item&quot;:&quot;743&quot;},{&quot;count&quot;:15,&quot;item&quot;:&quot;788&quot;},{&quot;count&quot;:14,&quot;item&quot;:&quot;34&quot;},{&quot;count&quot;:13,&quot;item&quot;:&quot;273&quot;}]},&quot;format&quot;:{&quot;precisionStyle&quot;:&quot;standard&quot;,&quot;aggregate&quot;:&quot;sum&quot;,&quot;align&quot;:&quot;right&quot;,&quot;noCommas&quot;:&quot;false&quot;},&quot;flags&quot;:null}],&quot;grants&quot;:[{&quot;inherited&quot;:true,&quot;type&quot;:&quot;viewer&quot;,&quot;flags&quot;:[&quot;public&quot;]}],&quot;metadata&quot;:{&quot;custom_fields&quot;:{&quot;Update&quot;:{&quot;Update Frequency&quot;:&quot;Monthly&quot;}},&quot;renderTypeConfig&quot;:{&quot;visible&quot;:{&quot;api&quot;:true}},&quot;availableDisplayTypes&quot;:[&quot;api&quot;],&quot;rdfSubject&quot;:&quot;0&quot;},&quot;owner&quot;:{&quot;id&quot;:&quot;5fuc-pqz2&quot;,&quot;displayName&quot;:&quot;NYC OpenData&quot;,&quot;screenName&quot;:&quot;NYC OpenData&quot;},&quot;query&quot;:{},&quot;rights&quot;:[&quot;read&quot;],&quot;tableAuthor&quot;:{&quot;id&quot;:&quot;x539-akqs&quot;,&quot;displayName&quot;:&quot;Andrew Nicklin&quot;,&quot;profileImageUrlLarge&quot;:&quot;/images/profile/4798/2643/My_Photo_3_large.png&quot;,&quot;profileImageUrlMedium&quot;:&quot;/images/profile/4798/2643/My_Photo_3_thumb.png&quot;,&quot;profileImageUrlSmall&quot;:&quot;/images/profile/4798/2643/My_Photo_3_tiny.png&quot;,&quot;screenName&quot;:&quot;Andrew Nicklin&quot;},&quot;tags&quot;:[&quot;payphone&quot;,&quot;wifi&quot;,&quot;usage&quot;,&quot;ppt&quot;,&quot;public pay telephone&quot;,&quot;hotspot&quot;],&quot;rowResults&quot;:null,&quot;rowResultCount&quot;:0,&quot;flags&quot;:[]}"));
+       blist.browse.baseURL = "/browse";
+       blist.browse.rowCount = 3;
+       blist.browse.searchOptions = JSON.parse($.unescapeQuotes("{&quot;limit&quot;:10,&quot;page&quot;:1,&quot;limitTo&quot;:&quot;apis&quot;}"));
+    });
+  </script>
+  <script src="/packages/browse-control.js?1387326603" type="text/javascript"></script>
+
+  <script type="text/javascript">      (function() {
+      var months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august',
+                    'september', 'october', 'november', 'december'],
+          days = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday'],
+          t = function(str) { return $.t('plugins.jquery_ui.' + str); };
+      $.datepicker.setDefaults({
+        closeText: t('done'),
+        prevText: t('prev'),
+        nextText: t('next'),
+        currentText: t('today'),
+        monthNames: _.map(months, function(m) { return t(m); }),
+        monthNamesShort: _.map(months, function(m) { return t(m + '_short'); }),
+        dayNames: _.map(days, function(m) { return t(m); }),
+        dayNamesShort: _.map(days, function(m) { return t(m + '_short'); }),
+        dayNamesMin: _.map(days, function(m) { return t(m + '_min'); }),
+        weekHeader: t('week_min')
+      });
+      $.DatePickerLocaleOptions = {
+        days: _.map(days, function(m) { return t(m); }),
+        daysShort: _.map(days, function(m) { return t(m + '_short'); }),
+        daysMin: _.map(days, function(m) { return t(m + '_min'); }),
+        months: _.map(months, function(m) { return t(m); }),
+        monthsShort: _.map(months, function(m) { return t(m + '_short'); }),
+        weekMin: t('week_min')
+      };
+      })();
+</script>
+
+
+    
+<script type="text/javascript" src="//use.typekit.net/dga7nea.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<script type="text/javascript">
+$(function() {
+    $('body.mmr').ready(function() {
+        $.getScript('/assets/489C82E9-3E7D-4332-BAE7-ABA6656A1E67')
+            .done(function() {
+                $('.cpr-link').each(function() {
+                    $(this).data('url', $(this).attr('href'));
+                    $(this).attr('href', '#cpr-colorbox');
+                    $(this).click(function() {
+                        $('#cpr-colorbox-link').attr('href', $(this).data('url')).text($(this).data('url'));
+                        $(this).colorbox({inline:true, width:'50%', speed:200, opacity:0.5});
+                    });
+                });
+                $('a.open-colorbox').colorbox({photo: true, rel: 'nofollow'});
+            });
+    });
+    $('a.print-link').each(function() {
+          $(this).click(function() { window.print(); return false; });
+    });
+});
+</script>
+
+<script type="text/javascript">
+/* Makes responsive design work on mobile phones */
+   $('head').append('<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />');
+
+
+
+
+function showMenu(menuName){   
+
+    var m = $(".menu"+ menuName);
+    m.css('color','#2c3e50');
+    var position = m.position();
+    $("#menu" + menuName).css({'top':'65px','left':position.left}).fadeIn('fast');        
+}
+    
+function hideMenu(menuName){
+
+    setTimeout(function(){
+        if ($(window).width()>940){
+            if ($("#menu" + menuName).is(":hover")){
+            }
+            else{
+                $(".menu"+ menuName).css('color','#4dafca');
+                $("#menu" + menuName).fadeOut('fast');    
+               
+            }
+        };
+        
+    },100);
+     
+}
+
+/*hide and collapse minimenu*/
+$("#miniMenu").click(function(){
+    if($(".menuGroup").is(":visible")){
+        $(".menuGroup").fadeOut('fast');
+    }
+    else {
+         $('.menuGroup').each(function(){
+              $(this).css({'top':'0','left':'0'});
+            });
+        $(".menuGroup").fadeIn('fast');
+    }
+
+});
+
+
+/*hide lightbox*/
+$("#closex").click(function(){
+    $("#lightboxCover").fadeOut('slow',function(){
+       $(".lightboxContent").hide();
+        $("#lightboxInner").find('#lightStory').remove()         
+    });  
+});
+
+/* show lightbox */
+function showLightbox(id){
+    
+    $("#" + id).show()
+    $("#lightboxCover").fadeIn('slow');   
+    $('html, body').animate({scrollTop:$('#lightBoxInner').offset().top - 20}, 'slow');
+}
+  
+
+</script>
+
+
+
+<script type="text/javascript">
+/* (c) 2008-2012 Add This, LLC */
+var addthis_conf={ver:300};if(!((window._atc||{}).ver)){var _atd="www.addthis.com/",_atr="//s7.addthis.com/",_euc=encodeURIComponent,_duc=decodeURIComponent,_atc={rrev:115467,dr:0,ver:250,loc:0,enote:"",cwait:500,bamp:0.25,camp:1,csmp:0.0001,damp:0,famp:0.02,pamp:0.2,tamp:1,lamp:1,plmp:0.00001,vamp:1,vrmp:0.0001,ohmp:0,ltj:1,xamp:1,abf:!!window.addthis_do_ab,qs:0,cdn:0,rsrcs:{bookmark:_atr+"static/r07/bookmark018.html",atimg:_atr+"static/r07/atimg018.html",countercss:_atr+"static/r07/counter002.css",counterIE67css:_atr+"static/r07/counterIE67002.css",counter:_atr+"static/r07/counter002.js",core:_atr+"static/r07/core025.js",wombat:_atr+"static/r07/bar008.js",qbarcss:_atr+"bannerQuirks.css",fltcss:_atr+"static/r07/floating002.css",barcss:_atr+"static/r07/banner004.css",barjs:_atr+"static/r07/banner001.js",contentcss:_atr+"static/r07/content005.css",contentjs:_atr+"static/r07/content006.js",copythis:_atr+"static/r07/copythis00A.js",copythiscss:_atr+"static/r07/copythis00A.css",ssojs:_atr+"static/r07/sso003.js",ssocss:_atr+"static/r07/sso000.css",peekaboocss:_atr+"static/r07/peekaboo002.css",overlayjs:_atr+"static/r07/overlay004.js",widget32css:_atr+"static/r07/widgetbig045.css",widgetcss:_atr+"static/r07/widget087.css",widgetIE67css:_atr+"static/r07/widgetIE67002.css",widgetpng:"//s7.addthis.com/static/r07/widget045.png",link:_atr+"static/r07/link.html",pinit:_atr+"static/r07/pinit005.html",linkedin:_atr+"static/r07/linkedin018.html",fbshare:_atr+"static/r07/fbshare001.html",tweet:_atr+"static/r07/tweet018.html",menujs:_atr+"static/r07/menu117.js",sh:_atr+"static/r07/sh093.html"}};}(function(){var f;var j=(window.location.protocol=="https:"),x,o,c={0:_atr,1:"//ct1.addthis.com/",2:"//ct2.addthis.com/",3:"//ct3.addthis.com/",4:"//ct4.addthis.com/",100:"//ct0.addthis.com/"},u=Math.random();_atc.cdn=0;if(!window.addthis||window.addthis.nodeType!==f){try{x=window.navigator?(navigator.userLanguage||navigator.language):"";o=x.split("-").pop().toLowerCase()=="us";_atc.cdn=true||j?0:(window.addthis_cdn||(u>=0.99?100:(u>=0.98?2:(u>=0.97?3:(u>=0.96&&o?4:(u>=0.95&&o?1:0))))));if(_atc.cdn){for(var q in _atc.rsrcs){if(_atc.rsrcs.hasOwnProperty(q)){_atc.rsrcs[q]=_atc.rsrcs[q].replace(_atr,c[_atc.cdn]).replace(/live\/[a-z]07/,"live/d07");}}_atr=c[_atc.cdn];}}catch(v){}function b(r,k,e,a){return function(){if(!this.qs){this.qs=0;}_atc.qs++;if(!((this.qs++>0&&a)||_atc.qs>1000)&&window.addthis){window.addthis.plo.push({call:r,args:arguments,ns:k,ctx:e});}};}function p(k){var e=this,a=this.queue=[];this.name=k;this.call=function(){a.push(arguments);};this.call.queuer=this;this.flush=function(y,s){this.flushed=1;for(var r=0;r<a.length;r++){y.apply(s||e,a[r]);}return y;};}window.addthis={ost:0,cache:{},plo:[],links:[],ems:[],timer:{load:((new Date()).getTime())},_Queuer:p,_queueFor:b,data:{getShareCount:b("getShareCount","data")},bar:{show:b("show","bar"),initialize:b("initialize","bar")},login:{initialize:b("initialize","login"),connect:b("connect","login")},box:b("box"),button:b("button"),counter:b("counter"),count:b("count"),toolbox:b("toolbox"),update:b("update"),init:b("init"),ad:{event:b("event","ad"),getPixels:b("getPixels","ad")},util:{getServiceName:b("getServiceName")},ready:b("ready"),addEventListener:b("addEventListener","ed","ed"),removeEventListener:b("removeEventListener","ed","ed"),user:{getID:b("getID","user"),getGeolocation:b("getGeolocation","user",null,true),getPreferredServices:b("getPreferredServices","user",null,true),getServiceShareHistory:b("getServiceShareHistory","user",null,true),ready:b("ready","user"),isReturning:b("isReturning","user"),isOptedOut:b("isOptedOut","user"),isUserOf:b("isUserOf","user"),hasInterest:b("hasInterest","user"),isLocatedIn:b("isLocatedIn","user"),interests:b("getInterests","user"),services:b("getServices","user"),location:b("getLocation","user")},session:{source:b("getSource","session"),isSocial:b("isSocial","session"),isSearch:b("isSearch","session")},_pmh:new p("pmh")};var l=document.getElementsByTagName("script")[0];function d(a){a.style.width=a.style.height="1px";a.style.position="absolute";a.style.zIndex=100000;}if(document.location.href.indexOf(_atr)==-1){var m=document.getElementById("_atssh");if(!m){m=document.createElement("div");m.style.visibility="hidden";m.id="_atssh";d(m);l.parentNode.appendChild(m);}function g(a){if(addthis._pmh.flushed){_ate.pmh(a);}else{addthis._pmh.call(a);}}if(window.postMessage){if(window.attachEvent){window.attachEvent("onmessage",g);}else{if(window.addEventListener){window.addEventListener("message",g,false);}}}if(!m.firstChild){var h,t=navigator.userAgent.toLowerCase(),n=Math.floor(Math.random()*1000);if(/msie/.test(t)&&!(/opera/.test(t))){m.innerHTML="<iframe id=\"_atssh"+n+"\" width=\"1\" height=\"1\" title=\"AddThis utility frame\" name=\"_atssh"+n+"\" src=\"\">";h=document.getElementById("_atssh"+n);}else{h=document.createElement("iframe");h.id="_atssh"+n;h.title="AddThis utility frame";m.appendChild(h);}d(h);h.frameborder=h.style.border=0;h.style.top=h.style.left=0;_atc._atf=h;}}var w=document.createElement("script");w.type="text/javascript";w.src=(j?"https:":"http:")+_atc.rsrcs.core;l.parentNode.appendChild(w);var i=10000;if(Math.random()<_atc.ohmp){setTimeout(function(){if(!window.addthis.timer.core){(new Image()).src="//m.addthisedge.com/live/t00/oh.gif?"+Math.floor(Math.random()*4294967295).toString(36)+"&cdn="+_atc.cdn+"&sr="+_atc.ohmp+"&rev="+_atc.rrev+"&to="+i;if(_atc.cdn!==0){var e=document.createElement("script");e.type="text/javascript";e.src=(j?"https:":"http:")+_atr+"static/r07/core025.js";l.parentNode.appendChild(e);}}},i);}}})();
+
+// LiveDocs
+$("a.exec").click(function(event) {
+  event.preventDefault();
+
+  var iframe = '<iframe class="live-docs" src="' + $.htmlEscape($(this).attr('href')) + '" width="800" height="650" scrolling="yes"></iframe>';
+  $(this).parent().after(iframe);
+});
+</script>
+
+</body>
+</html>

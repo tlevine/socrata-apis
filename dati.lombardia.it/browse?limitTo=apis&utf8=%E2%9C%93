@@ -1,0 +1,1098 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<!--[if lte IE 7]>
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+        xmlns:v="urn:schemas-microsoft-com:vml"
+        xmlns:og="http://opengraphprotocol.org/schema/" class="ie ie7 noBorderRadius noLinearGradient noCss3"><![endif]-->
+<!--[if IE 8]>
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+        xmlns:v="urn:schemas-microsoft-com:vml"
+        xmlns:og="http://opengraphprotocol.org/schema/" class="ie ie8 noBorderRadius noLinearGradient noCss3"><![endif]-->
+<!--[if gte IE 9]>
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"
+        xmlns:v="urn:schemas-microsoft-com:vml"
+        xmlns:og="http://opengraphprotocol.org/schema/" lang="en" class="ie"><![endif]-->
+<!--[if !IE]>-->
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+        xmlns:og="http://opengraphprotocol.org/schema/"><!--<![endif]-->
+
+<!--
+Powered by the Socrata Open Data Platform
+http://www.socrata.com
+-->
+
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="title" content="Regione Lombardia" />
+<meta property="og:title" content="Regione Lombardia" />
+<meta property="og:site_name" content="Regione Lombardia" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://dati.lombardia.it/browse?limitTo=apis&amp;utf8=%E2%9C%93" />
+<meta name="globalsign-domain-verification" content="yZ8_fLaibUOpu7XVbMn175Ar8Xb0R7QX6WySeLpoRu" />
+<meta property="og:image" content="/stylesheets/images/common/socrata_logo_square.png" />
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="HGlwq927L8z+SbISP7qECnuZo8NKfh9NZVTcmQJksD8=" name="csrf-token" />
+    <link rel="image_src" href="/stylesheets/images/common/socrata_logo_square.png" />
+
+  <link rel="apple-touch-icon-precomposed" media="screen" href="/stylesheets/images/icons/retina_display_icon.png"/>
+  <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Regione Lombardia" />
+  <link href="/catalog.rss" rel="alternate" title="Subscribe to Datasets" type="application/rss+xml" />
+
+  <!--[if IE]>
+  <style type="text/css">
+    v\:vmlframe{behavior:url(#default#VML);display:inline-block;}
+  </style>
+  <![endif]-->
+  <link type="text/css" rel="stylesheet" media="all" href="/styles/merged/base.css?2d8000d863bc414665185b99e4b2bf1fbc2edd10.472.1386281255"/>
+  <link type="text/css" rel="stylesheet" media="print" href="/styles/merged/print.css?2d8000d863bc414665185b99e4b2bf1fbc2edd10.472.1386281255"/>
+
+          <script type="text/javascript">
+          document.write([
+            "\<script src='",
+            "//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js'",
+            " type='text/javascript'>\<\/script>"
+          ].join(''));
+        </script>
+
+  <script type="text/javascript">blistEnv = "production";</script><script src="/packages/errors.js?1387326603" type="text/javascript"></script>
+
+    <title>Search &amp; Browse | Regione Lombardia</title>
+  <link type="text/css" rel="stylesheet" media="all" href="/styles/merged/browse-control.css?2d8000d863bc414665185b99e4b2bf1fbc2edd10.472.1386281255"/>
+
+
+    <link type="text/css" media="all" rel="stylesheet" href="/styles/current_site.css?2d8000d863bc414665185b99e4b2bf1fbc2edd10.472.1386281255"/>
+
+
+  <link rel="shortcut icon" href="/stylesheets/images/common/favicon.ico" />
+
+
+
+  <!-- start Mixpanel - Measuring UX things -->
+<script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+  typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
+  b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+
+  //Session cookies and all events saved
+    mixpanel.init("1d804068e1d3694468823f3c7f74567d", {disable_cookie: true});
+    mixpanel.disable();
+
+</script><!-- end Mixpanel -->
+
+
+</head>
+
+<body class="controller_browse action_browse_show locale_it " data-locale="it" data-defaultlocale="it">
+  <div id="skipLinks">
+    <ul></ul>
+    <a href="#content">Skip to main content</a>
+    <a href="#footerLinks">Skip to footer links</a>
+    
+  </div>
+
+  
+
+  <div class="siteOuterWrapper">
+    <div class="siteInnerWrapper">
+
+      <div id="siteHeader" class="clearfix" role="banner">
+          <div id="header">
+  <div id="headerLogo">
+    <div id="logo">
+      <a href="http://www.regione.lombardia.it/" title="Torna alla Home"><img src="/api/assets/2C5899B0-6EBD-4C81-91AD-37F9219EAD70" alt="Regione Lombardia"></a>
+    </div>
+  </div>
+  <div id="utility">
+    <ul>
+        <li><a href="/">Home</a></li>
+        <li class="accountLink hide"><a href="/profile"
+    title="La tua Pagina iniziale"><span class="text">Salve, <span class="currentUser"></span></span></a></li>
+
+        <li class="adminLink hide">
+<a href="/admin" title="Amministrazione"><span class="text">Amministrazione</span></a>
+</li>
+
+        <li class="signOutLink hide"><a href="https://dati.lombardia.it:443/logout" rel="nofollow"
+  title="Esci"><span class="text">Esci</span></a>
+
+     </ul>
+  </div><!-- utility -->
+  <div id="opendata"><a href="/"><img src="/api/assets/81C2AD28-AF7D-4299-96C5-1AA1EA653D4F" alt="OpenData Lombardia" /></a></div>
+</div>
+
+      </div>
+
+      <a name="content"  tabindex="-1"></a>
+      
+        <div class="siteContentWrapper" role="main">
+          
+
+
+<div class="browseSection 
+  
+   ">
+    <div class="browseFacets ">
+      
+        <form class="searchSection">
+    <span class="icon"></span>
+    <input type="text" name="browseSearch" title="Cerca"
+      class="textPrompt searchBox" value="" />
+  </form>
+
+
+        <div class="facetSection clearAllSection">
+          <ul>
+            <li>
+            <a href="/browse?utf8=%E2%9C%93">Elimina tutte le opzioni</a>
+            </li>
+          </ul>
+        </div>
+
+        <div class="facetSection clearfix limitTo">
+          <h4 class="title">Tipi di viste</h4>
+            <ul>
+                <li><a href="/browse?utf8=%E2%9C%93" class="clearValues">
+                    <span class="icon"></span>
+                  (Tutti)
+                </a></li>
+                <li><a href="/browse?limitTo=datasets&utf8=%E2%9C%93" class="typeBlist"><span class="icon"></span>Dataset</a></li>
+                <li><a href="/browse?limitTo=charts&utf8=%E2%9C%93" class="typeChart"><span class="icon"></span>Grafici</a></li>
+                <li><a href="/browse?limitTo=maps&utf8=%E2%9C%93" class="typeMap"><span class="icon"></span>Mappe</a></li>
+                <li><a href="/browse?limitTo=calendars&utf8=%E2%9C%93" class="typeCalendar"><span class="icon"></span>Calendari</a></li>
+                <li><a href="/browse?limitTo=filters&utf8=%E2%9C%93" class="typeFilter"><span class="icon"></span>Viste filtrate</a></li>
+                <li><a href="/browse?limitTo=href&utf8=%E2%9C%93" class="typeHref"><span class="icon"></span>Dati esterni</a></li>
+                <li><a href="/browse?limitTo=blob&utf8=%E2%9C%93" class="typeBlob"><span class="icon"></span>File e Documenti</a></li>
+                <li><a href="/browse?limitTo=forms&utf8=%E2%9C%93" class="typeForm"><span class="icon"></span>Moduli</a></li>
+            </ul>
+        </div>
+        <div class="facetSection clearfix category">
+          <h4 class="title">Categorie</h4>
+            <ul>
+                <li><a href="/browse?category=Agricoltura&limitTo=apis&utf8=%E2%9C%93" class="">Agricoltura</a></li>
+                <li><a href="/browse?category=Ambiente&limitTo=apis&utf8=%E2%9C%93" class="">Ambiente</a></li>
+                <li><a href="/browse?category=Bilancio&limitTo=apis&utf8=%E2%9C%93" class="">Bilancio</a></li>
+                <li><a href="/browse?category=Commercio&limitTo=apis&utf8=%E2%9C%93" class="">Commercio</a></li>
+                <li><a href="/browse?category=Cultura&limitTo=apis&utf8=%E2%9C%93" class="">Cultura</a></li>
+            </ul>
+                <div class="moreOptions list hide">
+                    <a href="/browse?category=Famiglia&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Famiglia
+                    </a>
+                    <a href="/browse?category=Government&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Government
+                    </a>
+                    <a href="/browse?category=Istruzione&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Istruzione
+                    </a>
+                    <a href="/browse?category=Paesaggio&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Paesaggio
+                    </a>
+                    <a href="/browse?category=Sanit%C3%A0&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Sanità
+                    </a>
+                    <a href="/browse?category=Solidariet%C3%A0&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Solidarietà
+                    </a>
+                    <a href="/browse?category=Sport&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Sport
+                    </a>
+                    <a href="/browse?category=Statistica&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Statistica
+                    </a>
+                    <a href="/browse?category=Territorio&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Territorio
+                    </a>
+                    <a href="/browse?category=Trasparenza&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Trasparenza
+                    </a>
+                    <a href="/browse?category=Tributi&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Tributi
+                    </a>
+                </div>
+                <a class="moreLink" href="#More Categorie">Vedi Tutti</a>
+        </div>
+        <div class="facetSection clearfix tags">
+          <h4 class="title">Argomenti</h4>
+            <ul>
+                <li><a href="/browse?limitTo=apis&tags=ct10&utf8=%E2%9C%93" class="">ct10</a></li>
+                <li><a href="/browse?limitTo=apis&tags=e-government&utf8=%E2%9C%93" class="">e-government</a></li>
+                <li><a href="/browse?limitTo=apis&tags=lombardia&utf8=%E2%9C%93" class="">lombardia</a></li>
+                <li><a href="/browse?limitTo=apis&tags=territorio&utf8=%E2%9C%93" class="">territorio</a></li>
+                <li><a href="/browse?limitTo=apis&tags=trasparenza&utf8=%E2%9C%93" class="">trasparenza</a></li>
+            </ul>
+                <a class="cloudLink" href="#More Argomenti" rel="tags">
+                  Vedi Tutti
+                </a>
+        </div>
+      </div>
+
+
+
+    <div class="browseList ">
+        <div class="titleContainer">
+          <h2 title="Cerca e sfoglia dataset e visualizzazioni">Cerca e sfoglia dataset e visualizzazioni
+            <a href="/catalog.rss" class="subscribe" title="Sottoscrivi">
+              <span class="icon"></span>
+            </a>
+          </h2>
+        </div>
+
+      <div class="topControls">
+          <ul class="viewTypeOptions pillButtons">
+            <li><a href="/browse?limitTo=apis&amp;page=1&amp;utf8=%E2%9C%93&amp;view_type=table"
+              class="list active" title="Visualizza come lista compatta">
+              <span class="icon"></span>
+            </a></li>
+            <li><a href="/browse?limitTo=apis&amp;page=1&amp;utf8=%E2%9C%93&amp;view_type=rich"
+              class="fatrow" title="Visualizza come lista espansa">
+              <span class="icon"></span>
+            </a></li>
+          </ul>
+
+      </div>
+
+      <div class="results">
+          <div class="noResults">
+            <span class="message">Nessun risultato</span>
+          </div>
+      </div>
+
+    </div>
+
+
+  <div class="clearBoth"></div>
+</div>
+
+
+
+<script type="text/javascript">        if (typeof blistTranslations == 'undefined') blistTranslations = [];
+        blistTranslations.push(function()
+        {
+            return JSON.parse($.unescapeQuotes("{&quot;controls&quot;:{&quot;browse&quot;:{&quot;actions&quot;:{&quot;about&quot;:{&quot;button&quot;:&quot;Informazioni&quot;,&quot;title&quot;:&quot;Informazioni sul Dataset&quot;},&quot;all_options&quot;:&quot;Vedi Tutti&quot;,&quot;clear_all&quot;:&quot;Elimina tutte le opzioni&quot;,&quot;clear_facet&quot;:&quot;(Tutti)&quot;,&quot;compact_list&quot;:&quot;Visualizza come lista compatta&quot;,&quot;create_dataset&quot;:&quot;Crea o carica il tuo dataset&quot;,&quot;create_dataset_short&quot;:&quot;Crea un nuovo Dataset&quot;,&quot;create_dataset_verb&quot;:&quot;Crea&quot;,&quot;dataset_subscribe&quot;:&quot;Sottoscrivi le modifiche a questa visualizzazione&quot;,&quot;delete&quot;:{&quot;button&quot;:&quot;Cancella&quot;,&quot;confirm&quot;:&quot;Sei sicuro di voler cancellare %{dataset}?&quot;,&quot;title&quot;:&quot;Cancella questo elemento&quot;},&quot;expand_section&quot;:&quot;Clicca per espandere&quot;,&quot;less_options&quot;:&quot;Vedi meno&quot;,&quot;manage_api&quot;:{&quot;button&quot;:&quot;Gestisci&quot;,&quot;title&quot;:&quot;Gestisci questa API&quot;},&quot;moderation&quot;:{&quot;accept&quot;:&quot;Accetta&quot;,&quot;reject&quot;:&quot;Respingi&quot;},&quot;permissions&quot;:{&quot;change_button&quot;:{&quot;private_html&quot;:&quot;Rendi pubblico&quot;,&quot;public_html&quot;:&quot;Rendi privato&quot;},&quot;title&quot;:&quot;Cambia la visibilit\\u00e0 pubblica&quot;},&quot;rich_list&quot;:&quot;Visualizza come lista espansa&quot;,&quot;share_button&quot;:&quot;Condividi&quot;,&quot;subscribe&quot;:&quot;Sottoscrivi&quot;,&quot;suggest_dataset&quot;:&quot;Non trovi quello che stavi cercando? Suggerisci un dataset.&quot;,&quot;suggest_dataset_short&quot;:&quot;Suggerisci un dataset&quot;,&quot;suggest_dataset_verb&quot;:&quot;Suggerisci&quot;},&quot;back_to_dataset&quot;:&quot;Torna al dataset&quot;,&quot;facets&quot;:{&quot;categories_singular_title&quot;:&quot;categoria&quot;,&quot;categories_title&quot;:&quot;Categorie&quot;,&quot;federated_domains_singular_title&quot;:&quot;dominio&quot;,&quot;federated_domains_title&quot;:&quot;Domini federati&quot;,&quot;moderation_status&quot;:{&quot;accepted&quot;:&quot;Accettato&quot;,&quot;pending&quot;:&quot;In attesa&quot;,&quot;rejected&quot;:&quot;Respinto&quot;},&quot;moderation_status_singular_title&quot;:&quot;moderazione&quot;,&quot;moderation_status_title&quot;:&quot;Stato&quot;,&quot;topics_singular_title&quot;:&quot;argomento&quot;,&quot;topics_title&quot;:&quot;Argomenti&quot;,&quot;view_types&quot;:{&quot;apis&quot;:&quot;API&quot;,&quot;blob&quot;:&quot;File e Documenti&quot;,&quot;calendars&quot;:&quot;Calendari&quot;,&quot;charts&quot;:&quot;Grafici&quot;,&quot;datasets&quot;:&quot;Dataset&quot;,&quot;filters&quot;:&quot;Viste filtrate&quot;,&quot;forms&quot;:&quot;Moduli&quot;,&quot;href&quot;:&quot;Dati esterni&quot;,&quot;maps&quot;:&quot;Mappe&quot;,&quot;unpublished&quot;:&quot;Dataset non pubblicati&quot;},&quot;view_types_singular_title&quot;:&quot;tipo&quot;,&quot;view_types_title&quot;:&quot;Tipi di viste&quot;},&quot;listing&quot;:{&quot;comment_count&quot;:&quot;Numero di commenti&quot;,&quot;federation_source&quot;:&quot;Federato da %{source}&quot;,&quot;federation_source_html&quot;:&quot;Fornito da %{source_link}&quot;,&quot;no_results&quot;:&quot;Nessun risultato&quot;,&quot;result_count&quot;:&quot;Mostrati %{this} di %{total}&quot;,&quot;table_header&quot;:{&quot;name&quot;:&quot;Nome&quot;,&quot;popularity&quot;:&quot;Popolarit\\u00e0&quot;,&quot;rss&quot;:&quot;RSS&quot;,&quot;type&quot;:&quot;Tipo&quot;},&quot;timeout&quot;:&quot;Siamo spiacenti. I risultati non possono essere recuperati in questo momento. Si prega di riprovare pi\\u00f9 tardi.&quot;},&quot;row_results&quot;:{&quot;less_link&quot;:&quot;Meno&quot;,&quot;matching_rows&quot;:&quot;In cerca di righe corrispondenti&quot;,&quot;more_link&quot;:&quot;Ancora&quot;,&quot;no_matching_rows&quot;:&quot;Nessuna riga corrispondente trovata.&quot;,&quot;title_html&quot;:&quot;Mostrate &lt;span class=\\&quot;rowResultCountText\\&quot;&gt;&lt;/span&gt; su &lt;span class=\\&quot;totalResultCountText\\&quot;&gt;&lt;/span&gt; righe corrispondenti &lt;a href=\\&quot;#\\&quot; class=\\&quot;rowSearchLink\\&quot;&gt;(vedi risultati)&lt;/a&gt;:&quot;},&quot;search&quot;:&quot;Cerca&quot;,&quot;sort_period_title&quot;:&quot;Periodo dell&#x27;ordinamento&quot;,&quot;sort_periods&quot;:{&quot;month&quot;:&quot;Questo mese&quot;,&quot;week&quot;:&quot;Questa settimana&quot;,&quot;year&quot;:&quot;Quest&#x27;anno&quot;},&quot;sort_title&quot;:&quot;Ordina per&quot;,&quot;sorts&quot;:{&quot;alpha&quot;:&quot;Alfabetico&quot;,&quot;comments&quot;:&quot;Pi\\u00f9 commentati&quot;,&quot;last_modified&quot;:&quot;Aggiornato di recente&quot;,&quot;most_accessed&quot;:&quot;Con maggiori accessi&quot;,&quot;newest&quot;:&quot;Pi\\u00f9 nuovo&quot;,&quot;oldest&quot;:&quot;Pi\\u00f9 vecchio&quot;,&quot;rating&quot;:&quot;Con voto pi\\u00f9 alto&quot;,&quot;relevance&quot;:&quot;Pi\\u00f9 rilevante&quot;},&quot;title&quot;:{&quot;default&quot;:&quot;Cerca e sfoglia dataset e visualizzazioni&quot;,&quot;result&quot;:{&quot;facet&quot;:&quot;%{facet_type} di %{facet_value}&quot;,&quot;facet_main&quot;:&quot;corrispondenze %{body}&quot;,&quot;main&quot;:&quot;Risultati %{body}&quot;,&quot;term&quot;:&quot;per \\&quot;%{term}\\&quot;&quot;}}},&quot;common&quot;:{&quot;auth_required&quot;:&quot;Devi effettuare l&#x27;accesso per %{action_phrase}&quot;,&quot;dataset_picker&quot;:{&quot;button&quot;:&quot;Scegli&quot;,&quot;title&quot;:&quot;Scegli un dataset da utilizzare&quot;},&quot;expander&quot;:{&quot;collapse&quot;:&quot;Clicca per ridurre&quot;,&quot;expand&quot;:&quot;Clicca per espandere&quot;},&quot;image_upload&quot;:{&quot;button&quot;:&quot;Carica immagine&quot;},&quot;rate&quot;:{&quot;auth_action_phrase&quot;:&quot;vota questo dataset&quot;},&quot;share&quot;:{&quot;button_prompt&quot;:&quot;Condividi&quot;,&quot;button_tooltip&quot;:&quot;Condividi questo dataset&quot;,&quot;networks&quot;:{&quot;email&quot;:&quot;E-mail&quot;,&quot;facebook&quot;:&quot;Facebook&quot;,&quot;twitter&quot;:&quot;Twitter&quot;},&quot;share_text&quot;:&quot;Condividi %{name}, dataset con %{site}: &quot;},&quot;sidebar&quot;:{&quot;tabs&quot;:{&quot;about&quot;:&quot;Informazioni&quot;,&quot;components&quot;:&quot;Componenti&quot;,&quot;configuration&quot;:&quot;Configurazione&quot;,&quot;discuss&quot;:&quot;Discuti&quot;,&quot;edit&quot;:&quot;Modifica&quot;,&quot;embed&quot;:&quot;Incorpora&quot;,&quot;export&quot;:&quot;Esporta&quot;,&quot;filter&quot;:&quot;Filtra&quot;,&quot;manage&quot;:&quot;Gestisci&quot;,&quot;moreViews&quot;:&quot;Pi\\u00f9 viste&quot;,&quot;visualize&quot;:&quot;Visualizza&quot;}},&quot;stars&quot;:{&quot;tooltip&quot;:&quot;%{number} stelle&quot;},&quot;visualization&quot;:{&quot;in_bing&quot;:&quot;Visualizza su Bing Maps&quot;,&quot;in_google&quot;:&quot;Visualizza su Google Maps&quot;,&quot;row_details&quot;:&quot;Visualizza i dettagli per questa riga&quot;}}},&quot;core&quot;:{&quot;aggregates&quot;:{&quot;average&quot;:&quot;Media&quot;,&quot;count&quot;:&quot;Conteggio&quot;,&quot;maximum&quot;:&quot;Massimo&quot;,&quot;minimum&quot;:&quot;Minimo&quot;,&quot;sum&quot;:&quot;Somma&quot;},&quot;alignment&quot;:{&quot;center&quot;:&quot;Centrato&quot;,&quot;left&quot;:&quot;A sinistra&quot;,&quot;right&quot;:&quot;A destra&quot;},&quot;analytics&quot;:{&quot;visit&quot;:&quot;visualizzazione&quot;,&quot;visits&quot;:&quot;visualizzazioni&quot;},&quot;and&quot;:&quot;e&quot;,&quot;chart_types&quot;:{&quot;area&quot;:&quot;Grafico ad area&quot;,&quot;bar&quot;:&quot;Grafico a barre&quot;,&quot;bubble&quot;:&quot;Grafico a bolle&quot;,&quot;column&quot;:&quot;Grafico a colonne&quot;,&quot;donut&quot;:&quot;Grafico ad anello&quot;,&quot;line&quot;:&quot;Grafico a linea&quot;,&quot;pie&quot;:&quot;Grafico a torta&quot;,&quot;stackedbar&quot;:&quot;Grafico a barre in pila&quot;,&quot;stackedcolumn&quot;:&quot;Grafico a colonne in pila&quot;,&quot;timeline&quot;:&quot;Time Line&quot;,&quot;treemap&quot;:&quot;Tree Map&quot;},&quot;chart_types_short&quot;:{&quot;area&quot;:&quot;Area&quot;,&quot;bar&quot;:&quot;Barra&quot;,&quot;bubble&quot;:&quot;Bolla&quot;,&quot;column&quot;:&quot;Colonna&quot;,&quot;donut&quot;:&quot;Ciambella&quot;,&quot;line&quot;:&quot;Linea&quot;,&quot;pie&quot;:&quot;Torta&quot;,&quot;stackedbar&quot;:&quot;Barra Sovrapposta&quot;,&quot;stackedcolumn&quot;:&quot;Colonna Sovrapposta&quot;,&quot;timeline&quot;:&quot;Linea Temporale&quot;,&quot;treemap&quot;:&quot;Mappa dell&#x27;Albero&quot;},&quot;data_types&quot;:{&quot;calendar_date&quot;:&quot;Data e ora&quot;,&quot;checkbox&quot;:&quot;Checkbox&quot;,&quot;dataset_link&quot;:&quot;Dataset Link&quot;,&quot;date&quot;:&quot;Data e ora (con fuso orario)&quot;,&quot;document&quot;:&quot;Documento&quot;,&quot;drop_down_list&quot;:&quot;Scelta multipla&quot;,&quot;email&quot;:&quot;E-mail&quot;,&quot;flag&quot;:&quot;Contrassegno&quot;,&quot;geospatial&quot;:&quot;Geospaziale&quot;,&quot;html&quot;:&quot;Testo formattato&quot;,&quot;link&quot;:&quot;Link Column&quot;,&quot;list&quot;:&quot;Lista&quot;,&quot;location&quot;:&quot;Location&quot;,&quot;money&quot;:&quot;Denaro&quot;,&quot;nested_table&quot;:&quot;Tabella nidificata&quot;,&quot;number&quot;:&quot;Numero&quot;,&quot;object&quot;:&quot;Oggetto&quot;,&quot;percent&quot;:&quot;Percentuale&quot;,&quot;phone&quot;:&quot;Telefono&quot;,&quot;photo&quot;:&quot;Foto (Immagine)&quot;,&quot;stars&quot;:&quot;Star&quot;,&quot;text&quot;:&quot;Testo normale&quot;,&quot;url&quot;:&quot;Web URL&quot;},&quot;date_time&quot;:{&quot;centuries_future&quot;:&quot;%{time} secoli da oggi&quot;,&quot;centuries_past&quot;:&quot;%{time} secoli fa&quot;,&quot;current_century_future&quot;:&quot;questo secolo&quot;,&quot;current_century_past&quot;:&quot;questo secolo&quot;,&quot;current_day_future&quot;:&quot;oggi&quot;,&quot;current_day_past&quot;:&quot;oggi&quot;,&quot;current_hour_future&quot;:&quot;quest&#x27;ora&quot;,&quot;current_hour_past&quot;:&quot;quest&#x27;ora&quot;,&quot;current_minute_future&quot;:&quot;adesso&quot;,&quot;current_minute_past&quot;:&quot;adesso&quot;,&quot;current_month_future&quot;:&quot;questo mese&quot;,&quot;current_month_past&quot;:&quot;questo mese&quot;,&quot;current_week_future&quot;:&quot;questa settimana&quot;,&quot;current_week_past&quot;:&quot;questa settimana&quot;,&quot;current_year_future&quot;:&quot;questo anno&quot;,&quot;current_year_past&quot;:&quot;questo anno&quot;,&quot;days_future&quot;:&quot;%{time} giorni da ora&quot;,&quot;days_past&quot;:&quot;%{time} giorni fa&quot;,&quot;hours_future&quot;:&quot;%{time} ore da oggi&quot;,&quot;hours_past&quot;:&quot;%{time} ore fa&quot;,&quot;minutes_future&quot;:&quot;%{time} minuti da oggi&quot;,&quot;minutes_past&quot;:&quot;%{time} minuti fa&quot;,&quot;months_future&quot;:&quot;%{time} mesi da oggi&quot;,&quot;months_past&quot;:&quot;%{time} mesi fa&quot;,&quot;single_century_future&quot;:&quot;un secolo da oggi&quot;,&quot;single_century_past&quot;:&quot;un secolo fa&quot;,&quot;single_day_future&quot;:&quot;domani&quot;,&quot;single_day_past&quot;:&quot;1 giorno fa&quot;,&quot;single_hour_future&quot;:&quot;1 ora da oggi&quot;,&quot;single_hour_past&quot;:&quot;1 ora fa&quot;,&quot;single_minute_future&quot;:&quot;1 minuto da oggi&quot;,&quot;single_minute_past&quot;:&quot;1 minuto fa&quot;,&quot;single_month_future&quot;:&quot;mese prossimo&quot;,&quot;single_month_past&quot;:&quot;mese scorso&quot;,&quot;single_week_future&quot;:&quot;la prossima settimana&quot;,&quot;single_week_past&quot;:&quot;la settimana scorsa&quot;,&quot;single_year_future&quot;:&quot;anno prossimo&quot;,&quot;single_year_past&quot;:&quot;anno scorso&quot;,&quot;unknown&quot;:&quot;un giorno&quot;,&quot;weeks_future&quot;:&quot;%{time} settimane da oggi&quot;,&quot;weeks_past&quot;:&quot;%{time} settimane fa&quot;,&quot;years_future&quot;:&quot;%{time} anni da oggi&quot;,&quot;years_past&quot;:&quot;%{time} anni fa&quot;},&quot;dialogs&quot;:{&quot;apply&quot;:&quot;Applica&quot;,&quot;cancel&quot;:&quot;Cancella&quot;,&quot;close&quot;:&quot;Chiudi&quot;,&quot;continue&quot;:&quot;Continua&quot;,&quot;create&quot;:&quot;Crea&quot;,&quot;delete&quot;:&quot;Elimina&quot;,&quot;done&quot;:&quot;Fatto&quot;,&quot;dont_save&quot;:&quot;Non salvare&quot;,&quot;logout&quot;:&quot;Sei stato disconnesso.&quot;,&quot;save&quot;:&quot;Salva&quot;,&quot;session_timeout&quot;:{&quot;notice&quot;:&quot;Per motivi di sicurezza sei stato disconnesso. Per continuare, riaccedi.&quot;,&quot;warning&quot;:{&quot;belay_button&quot;:&quot;Non disconnettermi!&quot;,&quot;body_html&quot;:&quot;Non abbiamo rilevato alcuna attivit\\u00e0 negli ultimi minuti. Per ragioni di privacy, verrai disconnesso fra &lt;span id=\\&quot;secondsRemaining\\&quot;&gt;&lt;/span&gt; secondi.&quot;,&quot;title&quot;:&quot;La sessione sta per scadere.&quot;}},&quot;submit&quot;:&quot;Invia.&quot;,&quot;update&quot;:&quot;Aggiorna&quot;},&quot;expando&quot;:{&quot;expand&quot;:&quot;Espandi&quot;,&quot;prompt&quot;:&quot;Clicca per espandere&quot;},&quot;features&quot;:{&quot;allow_comments&quot;:&quot;Permetti commenti&quot;,&quot;cell_comments&quot;:&quot;Commenti alle celle&quot;},&quot;filters&quot;:{&quot;formal&quot;:{&quot;between&quot;:&quot;tra&quot;,&quot;contains&quot;:&quot;contiene&quot;,&quot;equals&quot;:&quot;uguale a&quot;,&quot;greater_than&quot;:&quot;maggiore di&quot;,&quot;greater_than_or_equals&quot;:&quot;maggiore di o uguale a&quot;,&quot;is_blank&quot;:&quot;vuoto&quot;,&quot;is_not_blank&quot;:&quot;non vuoto&quot;,&quot;less_than&quot;:&quot;minore di&quot;,&quot;less_than_or_equals&quot;:&quot;minore di o uguale a&quot;,&quot;not_contains&quot;:&quot;non contiene&quot;,&quot;not_equals&quot;:&quot;diverso da&quot;,&quot;starts_with&quot;:&quot;inizia con&quot;},&quot;informal&quot;:{&quot;between&quot;:&quot;tra&quot;,&quot;contains&quot;:&quot;contiene&quot;,&quot;equals&quot;:&quot;uguale a&quot;,&quot;greater_than&quot;:&quot;maggiore di&quot;,&quot;greater_than_or_equals&quot;:&quot;almeno&quot;,&quot;is_blank&quot;:&quot;vuoto&quot;,&quot;is_not_blank&quot;:&quot;non vuoto&quot;,&quot;less_than&quot;:&quot;minore di&quot;,&quot;less_than_or_equals&quot;:&quot;al massimo&quot;,&quot;not_contains&quot;:&quot;non contiene&quot;,&quot;not_equals&quot;:&quot;diverso da&quot;,&quot;starts_with&quot;:&quot;inizia con&quot;}},&quot;forms&quot;:{&quot;none&quot;:&quot;Nessuno&quot;,&quot;required_field&quot;:&quot;Campo obbligatorio&quot;},&quot;group_function&quot;:{&quot;date_day&quot;:&quot;Giorno&quot;,&quot;date_month&quot;:&quot;Mese&quot;,&quot;date_year&quot;:&quot;Anno&quot;},&quot;interstitial&quot;:{&quot;leaving_explanation_html&quot;:&quot;Questo &lt;span class=\\&quot;datasetType\\&quot;&gt;dataset&lt;/span&gt; \\u00e8 ospitato da &lt;a href=\\&quot;#\\&quot; rel=\\&quot;external\\&quot; class=\\&quot;externalDomain\\&quot;&gt;un altro sito&lt;/a&gt;.&quot;,&quot;leaving_notice_html&quot;:&quot;Stai lasciando &lt;span class=\\&quot;serverName\\&quot;&gt;%{site_name}&lt;/span&gt;&quot;},&quot;map_layers&quot;:{&quot;aerial&quot;:&quot;Aerial&quot;,&quot;bing_aerial&quot;:&quot;Bing Aerial&quot;,&quot;bing_roadmap&quot;:&quot;Bing Roadmap&quot;,&quot;bing_roadmap_alias&quot;:&quot;Bing&quot;,&quot;esri_natural_earth&quot;:&quot;Natural Earth Map (ESRI)&quot;,&quot;esri_natural_earth_alias&quot;:&quot;Natural Earth Map&quot;,&quot;esri_satellite&quot;:&quot;Satellite Imagery (ESRI)&quot;,&quot;esri_us_topo&quot;:&quot;Detailed USA Topographic Map (ESRI)&quot;,&quot;esri_us_topo_alias&quot;:&quot;USA Topographic Map&quot;,&quot;esri_world_street_map&quot;:&quot;World Street Map (ESRI)&quot;,&quot;esri_world_street_map_alias&quot;:&quot;World Street Map&quot;,&quot;esri_world_topo&quot;:&quot;Annotated World Topographic Map (ESRI)&quot;,&quot;esri_world_topo_alias&quot;:&quot;World Topographic Map&quot;,&quot;google_roadmap&quot;:&quot;Google Roadmap&quot;,&quot;google_roadmap_alias&quot;:&quot;Google&quot;,&quot;google_satellite&quot;:&quot;Google Satellite&quot;,&quot;google_terrain&quot;:&quot;Google Terrain&quot;,&quot;roadmap&quot;:&quot;Roadmap&quot;,&quot;satellite&quot;:&quot;Satellite&quot;,&quot;terrain&quot;:&quot;Terrain&quot;},&quot;no_js&quot;:&quot;Disabilita il Javascript su questa pagina&quot;,&quot;numbers&quot;:{&quot;eight&quot;:&quot;otto&quot;,&quot;five&quot;:&quot;cinque&quot;,&quot;four&quot;:&quot;quattro&quot;,&quot;nine&quot;:&quot;nove&quot;,&quot;seven&quot;:&quot;sette&quot;,&quot;six&quot;:&quot;sei&quot;,&quot;three&quot;:&quot;tre&quot;,&quot;num_zero&quot;:&quot;zero&quot;,&quot;num_one&quot;:&quot;uno&quot;,&quot;num_two&quot;:&quot;due&quot;},&quot;or&quot;:&quot;o&quot;,&quot;pagination&quot;:{&quot;current_page&quot;:&quot;Pagina Attuale&quot;,&quot;first_page&quot;:&quot;Prima Pagina&quot;,&quot;last_page&quot;:&quot;Ultima Pagina&quot;,&quot;next_page&quot;:&quot;Pagina Successiva&quot;,&quot;page&quot;:&quot;pagina&quot;,&quot;previous_page&quot;:&quot;Pagina Precedente&quot;},&quot;precision_style&quot;:{&quot;scientific&quot;:&quot;Scientifica (1.0204e+3)&quot;,&quot;standard&quot;:&quot;Standard (1020.4)&quot;},&quot;required&quot;:&quot;Richiesto&quot;,&quot;share_types&quot;:{&quot;contributor&quot;:&quot;Collaboratore&quot;,&quot;owner&quot;:&quot;Proprietario&quot;,&quot;view&quot;:&quot;Visitatore&quot;,&quot;viewer&quot;:&quot;Visitatore&quot;},&quot;validation&quot;:{&quot;accept&quot;:&quot;Si prega di inserire un valore con estensione valida.&quot;,&quot;date&quot;:&quot;Si prega di inserire una data valida.&quot;,&quot;dateISO&quot;:&quot;Si prega di inserire una data valida (ISO).&quot;,&quot;digits&quot;:&quot;Si prega di inserire solo cifre.&quot;,&quot;email&quot;:&quot;Si prega di inserire un indirizzo email valido.&quot;,&quot;equalTo&quot;:&quot;Si prega di inserire nuovamente lo stesso valore.&quot;,&quot;max&quot;:&quot;Si prega di inserire un valore minore o uguale a {0}.&quot;,&quot;maxlength&quot;:&quot;Si prega di non inserire pi\\u00f9 di {0} caratteri.&quot;,&quot;min&quot;:&quot;Si prega di inserire un valore maggiore o uguale a {0}.&quot;,&quot;minlength&quot;:&quot;Si prega di inserire almeno {0} caratteri.&quot;,&quot;number&quot;:&quot;Si prega di inserire un numero valido.&quot;,&quot;range&quot;:&quot;Si prega di inserire un valore tra {0} e {1}.&quot;,&quot;rangelength&quot;:&quot;Si prega di inserire un valore di dimensione compresa tra {0} e {1} caratteri.&quot;,&quot;remote&quot;:&quot;Si prega di sistemare questo campo.&quot;,&quot;required&quot;:&quot;Questo campo \\u00e8 obbligatorio.&quot;,&quot;url&quot;:&quot;Si prega di inserire un URL valido.&quot;},&quot;view_types&quot;:{&quot;api&quot;:&quot;visualizzazione API&quot;,&quot;blob&quot;:&quot;file scaricabile&quot;,&quot;calendar&quot;:&quot;calendario&quot;,&quot;chart&quot;:&quot;grafico&quot;,&quot;dataset&quot;:&quot;dataset&quot;,&quot;filter&quot;:&quot;visualizzazione filtrata&quot;,&quot;form&quot;:&quot;modulo&quot;,&quot;group&quot;:&quot;visualizzazione in gruppi&quot;,&quot;grouped&quot;:&quot;visualizzazione in gruppi&quot;,&quot;href&quot;:&quot;external dataset&quot;,&quot;map&quot;:&quot;mappa&quot;,&quot;table&quot;:&quot;tabella&quot;,&quot;working_copy&quot;:&quot;copia di lavoro&quot;},&quot;view_types_plural&quot;:{&quot;api&quot;:&quot;API&quot;,&quot;calendar&quot;:&quot;Calendari&quot;,&quot;chart&quot;:&quot;Grafici&quot;,&quot;filter&quot;:&quot;Visualizzazioni filtrate&quot;,&quot;form&quot;:&quot;Moduli&quot;,&quot;grouped&quot;:&quot;Visualizzazioni in gruppi&quot;,&quot;map&quot;:&quot;Mappe&quot;},&quot;visibility&quot;:{&quot;private&quot;:&quot;privato&quot;,&quot;public&quot;:&quot;pubblico&quot;}},&quot;account&quot;:{&quot;common&quot;:{&quot;form&quot;:{&quot;confirm_password&quot;:&quot;Conferma password&quot;,&quot;display_name&quot;:&quot;Mostra Nome&quot;,&quot;email&quot;:&quot;Indirizzo Email&quot;,&quot;forgot_password&quot;:&quot;Password Dimenticata?&quot;,&quot;lockout_warning&quot;:&quot;Per questioni di sicurezza, tre tentativi di accesso falliti in 15 minuti causeranno il blocco di questo account per 30 minuti.&quot;,&quot;no_account&quot;:&quot;Non hai un account?&quot;,&quot;password&quot;:&quot;Password&quot;,&quot;password_requirements&quot;:&quot;Necessario. La password deve essere compresa tra 8 e 40 caratteri e deve soddisfare tre dei seguenti criteri: contenere un numero; contenere una lettera minuscola; contenere una lettera maiuscola; contenere un simbolo non-alfanumerico.&quot;,&quot;password_requirements_html&quot;:&quot;&lt;p&gt;La password deve essere &lt;b&gt;compresa tra 8 e 40 caratteri&lt;/b&gt; e soddisfare &lt;b&gt;tre dei seguenti quattro criteri&lt;/b&gt;:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&amp;bull; contenere un numero&lt;/li&gt;&lt;li&gt;&amp;bull; contenere una lettera minuscola&lt;/li&gt;&lt;li&gt;&amp;bull; contenere una lettera maiuscola&lt;/li&gt;&lt;li&gt;&amp;bull; contenere un simbolo non-alfanumerico&lt;/li&gt;&lt;/ul&gt;&quot;,&quot;password_restrictions&quot;:&quot;Soggetto a restrizioni&quot;,&quot;remember_me&quot;:&quot;Ricordami&quot;,&quot;sign_up_prompt&quot;:&quot;Iscriviti adesso&quot;},&quot;inline_auth&quot;:{&quot;sign_in_headline&quot;:&quot;Accedi usando il tuo ID Socrata&quot;,&quot;sign_up_headline&quot;:&quot;Siamo contenti che vuoi iscriverti a %{site}!&quot;},&quot;rpx&quot;:{&quot;description&quot;:&quot;Approfitta di funzionalit\\u00e0 aggiuntive che questi account forniscono e accedi con un click.&quot;,&quot;prompt&quot;:{&quot;sign_in&quot;:&quot;Oppure... Utilizza uno di questi account per accedere.&quot;,&quot;sign_up&quot;:&quot;Oppure... Utilizza uno di questi account per iscriverti.&quot;},&quot;providers&quot;:{&quot;facebook&quot;:{&quot;sign_in_html&quot;:&quot;&lt;strong&gt;Connettiti&lt;/strong&gt; con Facebook&quot;,&quot;sign_up_html&quot;:&quot;&lt;strong&gt;Connettiti&lt;/strong&gt; con Facebook&quot;},&quot;google&quot;:{&quot;sign_in_html&quot;:&quot;&lt;strong&gt;Accedi&lt;/strong&gt; con Google&quot;,&quot;sign_up_html&quot;:&quot;&lt;strong&gt;Iscriviti&lt;/strong&gt; con Google&quot;},&quot;openid&quot;:{&quot;sign_in_html&quot;:&quot;&lt;strong&gt;Accedi&lt;/strong&gt; con OpenID&quot;,&quot;sign_up_html&quot;:&quot;&lt;strong&gt;Iscriviti&lt;/strong&gt; con OpenID&quot;},&quot;twitter&quot;:{&quot;sign_in_html&quot;:&quot;&lt;strong&gt;Connettiti&lt;/strong&gt; con Twitter&quot;,&quot;sign_up_html&quot;:&quot;&lt;strong&gt;Connettiti&lt;/strong&gt; con Twitter&quot;}}},&quot;validation&quot;:{&quot;mismatch&quot;:&quot;Le password inserite non corrispondono&quot;,&quot;terms&quot;:&quot;\\u00c8 necessario accettare i termini del servizio e l&#x27;informativa sulla privacy.&quot;}}},&quot;plugins&quot;:{&quot;jquery_ui&quot;:{&quot;april&quot;:&quot;Aprile&quot;,&quot;april_short&quot;:&quot;Apr&quot;,&quot;august&quot;:&quot;Agosto&quot;,&quot;august_short&quot;:&quot;Ago&quot;,&quot;december&quot;:&quot;Dicembre&quot;,&quot;december_short&quot;:&quot;Dic&quot;,&quot;done&quot;:&quot;Fatto&quot;,&quot;february&quot;:&quot;Febbraio&quot;,&quot;february_short&quot;:&quot;Feb&quot;,&quot;friday&quot;:&quot;Venerd\\u00ec&quot;,&quot;friday_min&quot;:&quot;Ven&quot;,&quot;friday_short&quot;:&quot;Ven&quot;,&quot;january&quot;:&quot;Gennaio&quot;,&quot;january_short&quot;:&quot;Gen&quot;,&quot;july&quot;:&quot;Luglio&quot;,&quot;july_short&quot;:&quot;Lug&quot;,&quot;june&quot;:&quot;Giugno&quot;,&quot;june_short&quot;:&quot;Giu&quot;,&quot;march&quot;:&quot;Marzo&quot;,&quot;march_short&quot;:&quot;Mar&quot;,&quot;may&quot;:&quot;Maggio&quot;,&quot;may_short&quot;:&quot;Mag&quot;,&quot;monday&quot;:&quot;Luned\\u00ec&quot;,&quot;monday_min&quot;:&quot;Lu&quot;,&quot;monday_short&quot;:&quot;Lun&quot;,&quot;next&quot;:&quot;Successivo&quot;,&quot;november&quot;:&quot;Novembre&quot;,&quot;november_short&quot;:&quot;Nov&quot;,&quot;october&quot;:&quot;Ottobre&quot;,&quot;october_short&quot;:&quot;Ott&quot;,&quot;prev&quot;:&quot;Prec&quot;,&quot;saturday&quot;:&quot;Sabato&quot;,&quot;saturday_min&quot;:&quot;Sa&quot;,&quot;saturday_short&quot;:&quot;Sab&quot;,&quot;september&quot;:&quot;Settembre&quot;,&quot;september_short&quot;:&quot;Set&quot;,&quot;sunday&quot;:&quot;Domenica&quot;,&quot;sunday_min&quot;:&quot;Do&quot;,&quot;sunday_short&quot;:&quot;Dom&quot;,&quot;thursday&quot;:&quot;Gioved\\u00ec&quot;,&quot;thursday_min&quot;:&quot;Gi&quot;,&quot;thursday_short&quot;:&quot;Gio&quot;,&quot;today&quot;:&quot;Oggi&quot;,&quot;tuesday&quot;:&quot;Marted\\u00ec&quot;,&quot;tuesday_min&quot;:&quot;Ma&quot;,&quot;tuesday_short&quot;:&quot;Mar&quot;,&quot;wednesday&quot;:&quot;Mercoled\\u00ec&quot;,&quot;wednesday_min&quot;:&quot;Me&quot;,&quot;wednesday_short&quot;:&quot;Mer&quot;,&quot;week_min&quot;:&quot;Wk&quot;}}}"));
+        });
+</script>
+
+
+
+        </div>
+    </div>
+  </div>
+
+  <div id="siteFooter" role="contentinfo">
+    <a name="footerLinks" tabindex="-1"></a>
+    <div class="agendaDigitale">&Eacute; un servizio di <a href="http://www.regione.lombardia.it/"><img src="/api/assets/7191BE02-1356-49DF-AD32-4F2E83248BB5" alt="Agende Digitale Lombardia" /></a></div><ul class="siteFooterNav"><li><a href="/legale/normativa">Normativa</a></li><li><a href="mailto:admin@dati.lombardia.it">Contatti</a></li><li><a href="/faq">FAQ</a></li><li><a href="http://dev.socrata.com">Developers</a></li><li><a href="http://support.socrata.com" rel="nofollow">Aiuto</a></li><li><a class="powered-by" href="http://www.socrata.com" rel="nofollow">Powered by Socrata</a></li></ul>
+  </div>
+
+  <div class="socrataModal"><div class="socrataModalWrapper"></div></div>
+
+
+  <div id="templates" style="display:none">
+    <div class="menu">
+  <a class="menuButton" href="#"><span class="icon"></span></a>
+  <div class="menuDropdown">
+    <ul class="menuColumns">
+      <li class="menuColumn">
+        <ul class="menuEntries">
+          <li class="menuEntry">
+            <a href="#" class="clearfix">
+              <span class="icon"></span>
+              <span class="contents"></span>
+              <div class="subtext"></div>
+            </a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+
+    <div class="expandedInfo">
+  <div class="actions">
+    <a class="manageApi button" href="#Manage" title="Gestisci questa API">
+      Gestisci
+    </a>
+    <a class="permissions button" href="#Permissions"
+      title="Cambia la visibilità pubblica">
+    </a>
+    <a class="delete button" href="#Delete" title="Cancella questo elemento">
+      Cancella
+    </a>
+    <a class="about button" href="#About" title="Informazioni sul Dataset">
+      Informazioni
+    </a>
+    <div class="share menu"></div>
+  </div>
+  <div class="comments" title="Numero di commenti">
+    <span class="icon"></span><span class="value"></span>
+  </div>
+  <div class="starsControl datasetAverageRating" title="0 stelle"><span class="accessibleValue">Current value: 0 out of 5</span><span class="starsLabel value-0 currentValue"></span><span class="starsLabel value-1"></span><span class="starsLabel value-2"></span><span class="starsLabel value-3"></span><span class="starsLabel value-4"></span><span class="starsLabel value-5"></span></div>
+</div>
+<div class="rowSearchRenderType hide">
+  <div class="columnHeaders"></div>
+  <div class="rowResultCountDisplay">
+    <span>Mostrate <span class="rowResultCountText"></span> su <span class="totalResultCountText"></span> righe corrispondenti <a href="#" class="rowSearchLink">(vedi risultati)</a>:</span>
+  </div>
+  <div class="rowList"></div>
+  <div class="fader"></div>
+  <div class="expandHint downArrow">
+    <a class="expandRowResults" href="#Expand">
+      <span class="icon"></span>
+      <span class="expandText">Ancora</span>
+      <span class="collapseText">Meno</span>
+    </a>
+  </div>
+  <div class="templateRow row clearfix"></div>
+</div>
+
+
+  </div>
+  
+  
+
+  <!--[if IE]>
+  <script src="/packages/excanvas.js?1386190158" type="text/javascript"></script>
+  <![endif]-->
+  <!--[if lt IE 7]>
+  <script src="/packages/bgiframe.js?1387326603" type="text/javascript"></script>
+  <script src="/packages/oldie.js?1387326603" type="text/javascript"></script>
+  <![endif]-->
+
+  <script src="/packages/base.js?1387326603" type="text/javascript"></script>
+
+  
+
+    <script type="text/javascript">
+      $.debug = function() {};
+    </script>
+
+  <script type="text/javascript">
+    blist.namespace.fetch('blist.configuration');
+    blist.configuration.strings = JSON.parse($.unescapeQuotes("{&quot;login_header&quot;:&quot;Accedi a dati.lombardia.it&quot;,&quot;search_prompt&quot;:&quot;Search&quot;,&quot;company&quot;:&quot;Regione Lombardia&quot;,&quot;sign_out&quot;:&quot;Esci&quot;,&quot;site_header&quot;:&quot;Accedi a dati.lombardia.it&quot;,&quot;site_title&quot;:&quot;Regione Lombardia&quot;,&quot;copyright_string&quot;:&quot;&amp;copy; 2013 Socrata, Inc.&quot;,&quot;sign_up&quot;:&quot;Iscriviti&quot;,&quot;sign_in&quot;:&quot;Accedi&quot;}"));
+
+
+    blist.configuration.canvasAvailable = true;
+
+    try {
+      if ((self !== top) && (self.location.hostname !== top.location.hostname))
+        top.location = self.document.location;
+    } catch(ex) {
+      top.location = self.document.location;
+    }
+
+  </script>
+
+  <div id="modals">
+                      <div class="modalDialog browseOptionsDialog" id="browseDialog_tags" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Chiudi</a>
+                    <div class="optionsContent">
+                        <a href="/browse?limitTo=apis&amp;tags=abitazioni&amp;utf8=%E2%9C%93" rel="4">
+                          abitazioni
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=accreditati&amp;utf8=%E2%9C%93" rel="11">
+                          accreditati
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=ace&amp;utf8=%E2%9C%93" rel="5">
+                          ace
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=acquisti&amp;utf8=%E2%9C%93" rel="15">
+                          acquisti
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=adottato&amp;utf8=%E2%9C%93" rel="4">
+                          adottato
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=agricoltura&amp;utf8=%E2%9C%93" rel="14">
+                          agricoltura
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=agriturismo&amp;utf8=%E2%9C%93" rel="6">
+                          agriturismo
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=alloggi&amp;utf8=%E2%9C%93" rel="7">
+                          alloggi
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=alloggio&amp;utf8=%E2%9C%93" rel="5">
+                          alloggio
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=ambiti+trasformazione&amp;utf8=%E2%9C%93" rel="12">
+                          ambiti trasformazione
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=ambulanti&amp;utf8=%E2%9C%93" rel="4">
+                          ambulanti
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=amministrazione+trasparente&amp;utf8=%E2%9C%93" rel="4">
+                          amministrazione trasparente
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=anziani&amp;utf8=%E2%9C%93" rel="11">
+                          anziani
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=appalti&amp;utf8=%E2%9C%93" rel="13">
+                          appalti
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=appalto&amp;utf8=%E2%9C%93" rel="13">
+                          appalto
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=appartamenti&amp;utf8=%E2%9C%93" rel="5">
+                          appartamenti
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=approvato&amp;utf8=%E2%9C%93" rel="4">
+                          approvato
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=arca&amp;utf8=%E2%9C%93" rel="13">
+                          arca
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=architetture&amp;utf8=%E2%9C%93" rel="4">
+                          architetture
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=aree+agricole&amp;utf8=%E2%9C%93" rel="13">
+                          aree agricole
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=aree+pubbliche&amp;utf8=%E2%9C%93" rel="4">
+                          aree pubbliche
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=arifl&amp;utf8=%E2%9C%93" rel="4">
+                          arifl
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=art.+22&amp;utf8=%E2%9C%93" rel="23">
+                          art. 22
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=art.18&amp;utf8=%E2%9C%93" rel="19">
+                          art.18
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=arte&amp;utf8=%E2%9C%93" rel="7">
+                          arte
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=asl&amp;utf8=%E2%9C%93" rel="4">
+                          asl
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=associazioni&amp;utf8=%E2%9C%93" rel="4">
+                          associazioni
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=asta&amp;utf8=%E2%9C%93" rel="5">
+                          asta
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=aste&amp;utf8=%E2%9C%93" rel="5">
+                          aste
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=attestato+certificazione+energetica&amp;utf8=%E2%9C%93" rel="5">
+                          attestato certificazione energetica
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=auto&amp;utf8=%E2%9C%93" rel="11">
+                          auto
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=autoveicoli&amp;utf8=%E2%9C%93" rel="5">
+                          autoveicoli
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=avanzamento&amp;utf8=%E2%9C%93" rel="4">
+                          avanzamento
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=avviato&amp;utf8=%E2%9C%93" rel="4">
+                          avviato
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=bacini+imbriferi&amp;utf8=%E2%9C%93" rel="8">
+                          bacini imbriferi
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=bandi+di+gara&amp;utf8=%E2%9C%93" rel="13">
+                          bandi di gara
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=biblioteche&amp;utf8=%E2%9C%93" rel="4">
+                          biblioteche
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=bollo&amp;utf8=%E2%9C%93" rel="4">
+                          bollo
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=carta+tecnica+regionale+da+dbt&amp;utf8=%E2%9C%93" rel="4">
+                          carta tecnica regionale da dbt
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=case&amp;utf8=%E2%9C%93" rel="5">
+                          case
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=catasto&amp;utf8=%E2%9C%93" rel="9">
+                          catasto
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=catasto+energetico+edifici&amp;utf8=%E2%9C%93" rel="5">
+                          catasto energetico edifici
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=ceer&amp;utf8=%E2%9C%93" rel="5">
+                          ceer
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=cened&amp;utf8=%E2%9C%93" rel="5">
+                          cened
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=censimento&amp;utf8=%E2%9C%93" rel="12">
+                          censimento
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=centrale+acquisti&amp;utf8=%E2%9C%93" rel="8">
+                          centrale acquisti
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=centri&amp;utf8=%E2%9C%93" rel="4">
+                          centri
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=certificazione+energetica+edifici&amp;utf8=%E2%9C%93" rel="5">
+                          certificazione energetica edifici
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=circolanti&amp;utf8=%E2%9C%93" rel="5">
+                          circolanti
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=cns&amp;utf8=%E2%9C%93" rel="4">
+                          cns
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=commercio&amp;utf8=%E2%9C%93" rel="26">
+                          commercio
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=comunali&amp;utf8=%E2%9C%93" rel="6">
+                          comunali
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=comune&amp;utf8=%E2%9C%93" rel="5">
+                          comune
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=comuni&amp;utf8=%E2%9C%93" rel="6">
+                          comuni
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=comunit%C3%A0&amp;utf8=%E2%9C%93" rel="10">
+                          comunità
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=comunit%C3%A0+montane&amp;utf8=%E2%9C%93" rel="4">
+                          comunità montane
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=confini+amministrativi&amp;utf8=%E2%9C%93" rel="4">
+                          confini amministrativi
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=consultori&amp;utf8=%E2%9C%93" rel="5">
+                          consultori
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=contributi&amp;utf8=%E2%9C%93" rel="15">
+                          contributi
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=controllo&amp;utf8=%E2%9C%93" rel="8">
+                          controllo
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=corrispettivi&amp;utf8=%E2%9C%93" rel="15">
+                          corrispettivi
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=corsi&amp;utf8=%E2%9C%93" rel="10">
+                          corsi
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=corsi+acqua&amp;utf8=%E2%9C%93" rel="4">
+                          corsi acqua
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=crs&amp;utf8=%E2%9C%93" rel="16">
+                          crs
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=ct10&amp;utf8=%E2%9C%93" rel="33">
+                          ct10
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=ctr&amp;utf8=%E2%9C%93" rel="4">
+                          ctr
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=cultura&amp;utf8=%E2%9C%93" rel="13">
+                          cultura
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=data+base+topografico&amp;utf8=%E2%9C%93" rel="4">
+                          data base topografico
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=dataset&amp;utf8=%E2%9C%93" rel="4">
+                          dataset
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=day+hospital&amp;utf8=%E2%9C%93" rel="10">
+                          day hospital
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=dbt&amp;utf8=%E2%9C%93" rel="6">
+                          dbt
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=degenza&amp;utf8=%E2%9C%93" rel="4">
+                          degenza
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=degrado&amp;utf8=%E2%9C%93" rel="13">
+                          degrado
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=degrado+ambientale&amp;utf8=%E2%9C%93" rel="4">
+                          degrado ambientale
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=dettaglio&amp;utf8=%E2%9C%93" rel="8">
+                          dettaglio
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=difesa&amp;utf8=%E2%9C%93" rel="5">
+                          difesa
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=diritto&amp;utf8=%E2%9C%93" rel="8">
+                          diritto
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=disabili&amp;utf8=%E2%9C%93" rel="9">
+                          disabili
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=dissesto+idrogeologico&amp;utf8=%E2%9C%93" rel="16">
+                          dissesto idrogeologico
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=distretti&amp;utf8=%E2%9C%93" rel="4">
+                          distretti
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=distributori+metano&amp;utf8=%E2%9C%93" rel="5">
+                          distributori metano
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=drg&amp;utf8=%E2%9C%93" rel="4">
+                          drg
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=dusaf&amp;utf8=%E2%9C%93" rel="6">
+                          dusaf
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=e-government&amp;utf8=%E2%9C%93" rel="41">
+                          e-government
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=e-procurement&amp;utf8=%E2%9C%93" rel="13">
+                          e-procurement
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=edifici&amp;utf8=%E2%9C%93" rel="5">
+                          edifici
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=egovernement&amp;utf8=%E2%9C%93" rel="4">
+                          egovernement
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=elenco&amp;utf8=%E2%9C%93" rel="16">
+                          elenco
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=elezioni&amp;utf8=%E2%9C%93" rel="7">
+                          elezioni
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=enti&amp;utf8=%E2%9C%93" rel="12">
+                          enti
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=escursioni&amp;utf8=%E2%9C%93" rel="6">
+                          escursioni
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=esercizi+di+vicinato&amp;utf8=%E2%9C%93" rel="4">
+                          esercizi di vicinato
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=europei&amp;utf8=%E2%9C%93" rel="4">
+                          europei
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=eventi&amp;utf8=%E2%9C%93" rel="4">
+                          eventi
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=famiglia&amp;utf8=%E2%9C%93" rel="18">
+                          famiglia
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=famiglie&amp;utf8=%E2%9C%93" rel="11">
+                          famiglie
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=fattorie+didattiche&amp;utf8=%E2%9C%93" rel="6">
+                          fattorie didattiche
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=ferrovie&amp;utf8=%E2%9C%93" rel="5">
+                          ferrovie
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=fiere&amp;utf8=%E2%9C%93" rel="4">
+                          fiere
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=finlombarda&amp;utf8=%E2%9C%93" rel="5">
+                          finlombarda
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=fiumi&amp;utf8=%E2%9C%93" rel="8">
+                          fiumi
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=formazione&amp;utf8=%E2%9C%93" rel="27">
+                          formazione
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=gare&amp;utf8=%E2%9C%93" rel="15">
+                          gare
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=geomorfologia&amp;utf8=%E2%9C%93" rel="9">
+                          geomorfologia
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=giorni&amp;utf8=%E2%9C%93" rel="4">
+                          giorni
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=giovani&amp;utf8=%E2%9C%93" rel="5">
+                          giovani
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=governo&amp;utf8=%E2%9C%93" rel="4">
+                          governo
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=idpc&amp;utf8=%E2%9C%93" rel="4">
+                          idpc
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=idrografia&amp;utf8=%E2%9C%93" rel="19">
+                          idrografia
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=idrologia&amp;utf8=%E2%9C%93" rel="12">
+                          idrologia
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=immobili&amp;utf8=%E2%9C%93" rel="5">
+                          immobili
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=impianti&amp;utf8=%E2%9C%93" rel="6">
+                          impianti
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=imprese&amp;utf8=%E2%9C%93" rel="5">
+                          imprese
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=incidenti&amp;utf8=%E2%9C%93" rel="5">
+                          incidenti
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=infanzia&amp;utf8=%E2%9C%93" rel="4">
+                          infanzia
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=insegnanti&amp;utf8=%E2%9C%93" rel="5">
+                          insegnanti
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=insegne+storiche&amp;utf8=%E2%9C%93" rel="4">
+                          insegne storiche
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=insegne+storiche+e+di+tradizione&amp;utf8=%E2%9C%93" rel="4">
+                          insegne storiche e di tradizione
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=interesse+storico&amp;utf8=%E2%9C%93" rel="5">
+                          interesse storico
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=interventi&amp;utf8=%E2%9C%93" rel="5">
+                          interventi
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=istruzione&amp;utf8=%E2%9C%93" rel="22">
+                          istruzione
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=itinerari&amp;utf8=%E2%9C%93" rel="5">
+                          itinerari
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=lavoro&amp;utf8=%E2%9C%93" rel="15">
+                          lavoro
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=lesivit%C3%A0&amp;utf8=%E2%9C%93" rel="4">
+                          lesività
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=limiti+amministrativi&amp;utf8=%E2%9C%93" rel="4">
+                          limiti amministrativi
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=lombardia&amp;utf8=%E2%9C%93" rel="143">
+                          lombardia
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=lotti&amp;utf8=%E2%9C%93" rel="9">
+                          lotti
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=low+cost&amp;utf8=%E2%9C%93" rel="5">
+                          low cost
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=mercati&amp;utf8=%E2%9C%93" rel="8">
+                          mercati
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=mercati+particolare+pregio&amp;utf8=%E2%9C%93" rel="4">
+                          mercati particolare pregio
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=mercati+storici&amp;utf8=%E2%9C%93" rel="4">
+                          mercati storici
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=mercati+valenza+storica&amp;utf8=%E2%9C%93" rel="4">
+                          mercati valenza storica
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=metano&amp;utf8=%E2%9C%93" rel="5">
+                          metano
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=minori&amp;utf8=%E2%9C%93" rel="16">
+                          minori
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=mortalit%C3%A0&amp;utf8=%E2%9C%93" rel="5">
+                          mortalità
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=musei&amp;utf8=%E2%9C%93" rel="8">
+                          musei
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=nido&amp;utf8=%E2%9C%93" rel="4">
+                          nido
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=occupazione&amp;utf8=%E2%9C%93" rel="4">
+                          occupazione
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=ods&amp;utf8=%E2%9C%93" rel="5">
+                          ods
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=onlus&amp;utf8=%E2%9C%93" rel="4">
+                          onlus
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=opendata&amp;utf8=%E2%9C%93" rel="9">
+                          opendata
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=operatori&amp;utf8=%E2%9C%93" rel="5">
+                          operatori
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=opere&amp;utf8=%E2%9C%93" rel="6">
+                          opere
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=orti&amp;utf8=%E2%9C%93" rel="5">
+                          orti
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=ostelli&amp;utf8=%E2%9C%93" rel="5">
+                          ostelli
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=parchi&amp;utf8=%E2%9C%93" rel="7">
+                          parchi
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=partecipate&amp;utf8=%E2%9C%93" rel="12">
+                          partecipate
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=particelle+agricole&amp;utf8=%E2%9C%93" rel="24">
+                          particelle agricole
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=pericolosit%C3%A0&amp;utf8=%E2%9C%93" rel="4">
+                          pericolosità
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=pgt&amp;utf8=%E2%9C%93" rel="16">
+                          pgt
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=piano&amp;utf8=%E2%9C%93" rel="5">
+                          piano
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=pin&amp;utf8=%E2%9C%93" rel="5">
+                          pin
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=popolazione&amp;utf8=%E2%9C%93" rel="10">
+                          popolazione
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=previsione&amp;utf8=%E2%9C%93" rel="6">
+                          previsione
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=previsioni+di+piano&amp;utf8=%E2%9C%93" rel="12">
+                          previsioni di piano
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=privato&amp;utf8=%E2%9C%93" rel="8">
+                          privato
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=procedure+di+gara&amp;utf8=%E2%9C%93" rel="13">
+                          procedure di gara
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=progetti&amp;utf8=%E2%9C%93" rel="5">
+                          progetti
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=puk&amp;utf8=%E2%9C%93" rel="5">
+                          puk
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=regione+lombardia&amp;utf8=%E2%9C%93" rel="21">
+                          regione lombardia
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=registro&amp;utf8=%E2%9C%93" rel="5">
+                          registro
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=residenti&amp;utf8=%E2%9C%93" rel="11">
+                          residenti
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=ricoveri&amp;utf8=%E2%9C%93" rel="14">
+                          ricoveri
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=rilascio&amp;utf8=%E2%9C%93" rel="5">
+                          rilascio
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=rilevanze&amp;utf8=%E2%9C%93" rel="8">
+                          rilevanze
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=scelta+revoca&amp;utf8=%E2%9C%93" rel="5">
+                          scelta revoca
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=scuole&amp;utf8=%E2%9C%93" rel="14">
+                          scuole
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=servizi&amp;utf8=%E2%9C%93" rel="8">
+                          servizi
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=servizi+di+interesse+comunale&amp;utf8=%E2%9C%93" rel="12">
+                          servizi di interesse comunale
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=servizi+di+interesse+sovracomunale&amp;utf8=%E2%9C%93" rel="12">
+                          servizi di interesse sovracomunale
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=servizi+esistenti&amp;utf8=%E2%9C%93" rel="12">
+                          servizi esistenti
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=servizi+programmati&amp;utf8=%E2%9C%93" rel="12">
+                          servizi programmati
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=servizio+di+accesso+a+mappe&amp;utf8=%E2%9C%93" rel="8">
+                          servizio di accesso a mappe
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=servizio+mappa&amp;utf8=%E2%9C%93" rel="6">
+                          servizio mappa
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=shape&amp;utf8=%E2%9C%93" rel="12">
+                          shape
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=sintel&amp;utf8=%E2%9C%93" rel="8">
+                          sintel
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=sociale&amp;utf8=%E2%9C%93" rel="16">
+                          sociale
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=sociali&amp;utf8=%E2%9C%93" rel="5">
+                          sociali
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=societ%C3%A0&amp;utf8=%E2%9C%93" rel="13">
+                          società
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=solidariet%C3%A0&amp;utf8=%E2%9C%93" rel="7">
+                          solidarietà
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=sport&amp;utf8=%E2%9C%93" rel="5">
+                          sport
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=sportelli&amp;utf8=%E2%9C%93" rel="5">
+                          sportelli
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=statistiche&amp;utf8=%E2%9C%93" rel="5">
+                          statistiche
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=stradali&amp;utf8=%E2%9C%93" rel="5">
+                          stradali
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=strade&amp;utf8=%E2%9C%93" rel="6">
+                          strade
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=stranieri&amp;utf8=%E2%9C%93" rel="8">
+                          stranieri
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=suoli&amp;utf8=%E2%9C%93" rel="7">
+                          suoli
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=suolo&amp;utf8=%E2%9C%93" rel="8">
+                          suolo
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=territorio&amp;utf8=%E2%9C%93" rel="106">
+                          territorio
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=tessuto+urbano+consolidato&amp;utf8=%E2%9C%93" rel="12">
+                          tessuto urbano consolidato
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=tradizione&amp;utf8=%E2%9C%93" rel="7">
+                          tradizione
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=trasparenza&amp;utf8=%E2%9C%93" rel="45">
+                          trasparenza
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=tributi&amp;utf8=%E2%9C%93" rel="5">
+                          tributi
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=turismo&amp;utf8=%E2%9C%93" rel="11">
+                          turismo
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=usi+suolo&amp;utf8=%E2%9C%93" rel="24">
+                          usi suolo
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=uso+suolo&amp;utf8=%E2%9C%93" rel="6">
+                          uso suolo
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=valore+paesaggistico%2Fambientale&amp;utf8=%E2%9C%93" rel="12">
+                          valore paesaggistico/ambientale
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=veicoli&amp;utf8=%E2%9C%93" rel="5">
+                          veicoli
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=vendita&amp;utf8=%E2%9C%93" rel="5">
+                          vendita
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=volontariato&amp;utf8=%E2%9C%93" rel="6">
+                          volontariato
+                        </a>
+                    </div>
+                    <ul class="actions clearfix">
+                      <li>
+                        <a class="jqmClose button cancel" href="#cancel">Chiudi</a>
+                      </li>
+                    </ul>
+</div>  <div class="modalDialog browseOptionsDialog" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Chiudi</a>
+    <div class="optionsContent"></div>
+</div>
+  <div class="modalDialog externalDomainNotice" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Chiudi</a>
+    <h2>
+      Stai lasciando <span class="serverName">dati.lombardia.it</span>
+    </h2>
+    <p>
+      Questo <span class="datasetType">dataset</span> è ospitato da <a href="#" rel="external" class="externalDomain">un altro sito</a>.
+    </p>
+    <div class="nameDescription">
+      <p class="dsName"></p>
+      <p class="dsDesc"></p>
+    </div>
+    <div class="leavingLinkWrapper">
+      <a class="leavingLink noInterstitial" href="#" rel="external"></a>
+    </div>
+    <ul class="actions clearfix">
+      <li>
+        <a class="noInterstitial default button accept" href="#" rel="external">
+          <span class="icon"></span>
+          Continua
+        </a>
+      </li>
+      <li>
+        <a class="jqmClose button cancel" href="#cancel">
+          <span class="icon"></span>
+          Cancella
+        </a>
+      </li>
+    </ul>
+</div>
+
+    <div class="modalDialog" id="jqmAlert" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Chiudi</a>
+      <h2>Alert</h2>
+      <p class="alertMessage"></p>
+      <ul class="actions clearfix">
+        <li><a href="#close" class="button jqmClose">Close</a></li>
+      </ul>
+</div>    <div class="modalDialog" id="jqmConfirm" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Chiudi</a>
+      <h2>Alert</h2>
+      <p class="confirmMessage"></p>
+      <ul class="actions clearfix">
+        <li><a href="#close" class="button jqmClose default yes">Yes</a></li>
+        <li><a href="#close" class="button jqmClose no">No</a></li>
+      </ul>
+</div>  </div>
+  <div id="newModals">
+  	
+  </div>
+
+    <script type='text/javascript'>
+    $(function()
+    {
+       blist.namespace.fetch('blist.browse');
+       blist.browse.datasets = {};
+       blist.browse.baseURL = "/browse";
+       blist.browse.rowCount = 3;
+       blist.browse.searchOptions = JSON.parse($.unescapeQuotes("{&quot;limit&quot;:10,&quot;page&quot;:1,&quot;limitTo&quot;:&quot;apis&quot;}"));
+    });
+  </script>
+  <script src="/packages/browse-control.js?1387326603" type="text/javascript"></script>
+
+  <script type="text/javascript">      (function() {
+      var months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august',
+                    'september', 'october', 'november', 'december'],
+          days = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday'],
+          t = function(str) { return $.t('plugins.jquery_ui.' + str); };
+      $.datepicker.setDefaults({
+        closeText: t('done'),
+        prevText: t('prev'),
+        nextText: t('next'),
+        currentText: t('today'),
+        monthNames: _.map(months, function(m) { return t(m); }),
+        monthNamesShort: _.map(months, function(m) { return t(m + '_short'); }),
+        dayNames: _.map(days, function(m) { return t(m); }),
+        dayNamesShort: _.map(days, function(m) { return t(m + '_short'); }),
+        dayNamesMin: _.map(days, function(m) { return t(m + '_min'); }),
+        weekHeader: t('week_min')
+      });
+      $.DatePickerLocaleOptions = {
+        days: _.map(days, function(m) { return t(m); }),
+        daysShort: _.map(days, function(m) { return t(m + '_short'); }),
+        daysMin: _.map(days, function(m) { return t(m + '_min'); }),
+        months: _.map(months, function(m) { return t(m); }),
+        monthsShort: _.map(months, function(m) { return t(m + '_short'); }),
+        weekMin: t('week_min')
+      };
+      })();
+</script>
+
+
+    <script type="text/javascript">
+/* Register Opening for all data contexts on this page */
+(function() {
+    $.dataContext.bind('available', function(context){
+        context.dataset.registerOpening();   
+    });
+})(jQuery);
+</script>
+<script type="text/javascript">var switchTo5x=false;</script>
+<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "ur-38b1a7bb-7daf-6479-7a4a-19032d7c5549", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+</body>
+</html>

@@ -1,0 +1,1097 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<!--[if lte IE 7]>
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+        xmlns:v="urn:schemas-microsoft-com:vml"
+        xmlns:og="http://opengraphprotocol.org/schema/" class="ie ie7 noBorderRadius noLinearGradient noCss3"><![endif]-->
+<!--[if IE 8]>
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+        xmlns:v="urn:schemas-microsoft-com:vml"
+        xmlns:og="http://opengraphprotocol.org/schema/" class="ie ie8 noBorderRadius noLinearGradient noCss3"><![endif]-->
+<!--[if gte IE 9]>
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"
+        xmlns:v="urn:schemas-microsoft-com:vml"
+        xmlns:og="http://opengraphprotocol.org/schema/" lang="en" class="ie"><![endif]-->
+<!--[if !IE]>-->
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+        xmlns:og="http://opengraphprotocol.org/schema/"><!--<![endif]-->
+
+<!--
+Powered by the Socrata Open Data Platform
+http://www.socrata.com
+-->
+
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="title" content="Data | City of Boston" />
+<meta property="og:title" content="Data | City of Boston" />
+<meta property="og:site_name" content="City of Boston" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://data.cityofboston.gov/browse?limitTo=apis&amp;utf8=%E2%9C%93" />
+<meta name="globalsign-domain-verification" content="1y3gGURQIC8MuEFo_vqSxBFGEKJVITOId2u2SiGT8V" />
+<meta property="og:image" content="/stylesheets/images/common/socrata_logo_square.png" />
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="ixdSPDqnhJM3d5dOmmseMh9coC1hqV+Qil5jEIbBknw=" name="csrf-token" />
+    <link rel="image_src" href="/stylesheets/images/common/socrata_logo_square.png" />
+
+  <link rel="apple-touch-icon-precomposed" media="screen" href="/stylesheets/images/icons/retina_display_icon.png"/>
+  <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Data | City of Boston" />
+  <link href="/catalog.rss" rel="alternate" title="Subscribe to Datasets" type="application/rss+xml" />
+
+  <!--[if IE]>
+  <style type="text/css">
+    v\:vmlframe{behavior:url(#default#VML);display:inline-block;}
+  </style>
+  <![endif]-->
+  <link type="text/css" rel="stylesheet" media="all" href="/styles/merged/base.css?2d8000d863bc414665185b99e4b2bf1fbc2edd10.213.1386266850"/>
+  <link type="text/css" rel="stylesheet" media="print" href="/styles/merged/print.css?2d8000d863bc414665185b99e4b2bf1fbc2edd10.213.1386266850"/>
+
+          <script type="text/javascript">
+          document.write([
+            "\<script src='",
+            "//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js'",
+            " type='text/javascript'>\<\/script>"
+          ].join(''));
+        </script>
+
+  <script type="text/javascript">blistEnv = "production";</script><script src="/packages/errors.js?1387326603" type="text/javascript"></script>
+
+    <title>Search &amp; Browse | Data | City of Boston</title>
+  <link type="text/css" rel="stylesheet" media="all" href="/styles/merged/browse-control.css?2d8000d863bc414665185b99e4b2bf1fbc2edd10.213.1386266850"/>
+
+
+    <link type="text/css" media="all" rel="stylesheet" href="/styles/current_site.css?2d8000d863bc414665185b99e4b2bf1fbc2edd10.213.1386266850"/>
+
+
+  <link rel="shortcut icon" href="/stylesheets/images/common/favicon.ico" />
+
+
+
+  <!-- start Mixpanel - Measuring UX things -->
+<script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+  typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
+  b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+
+  //Session cookies and all events saved
+    mixpanel.init("1d804068e1d3694468823f3c7f74567d", {disable_cookie: true});
+    mixpanel.disable();
+
+</script><!-- end Mixpanel -->
+
+
+</head>
+
+<body class="controller_browse action_browse_show locale_en " data-locale="en" data-defaultlocale="en">
+  <div id="skipLinks">
+    <ul></ul>
+    <a href="#content">Skip to main content</a>
+    <a href="#footerLinks">Skip to footer links</a>
+    
+  </div>
+
+  
+
+  <div class="siteOuterWrapper">
+    <div class="siteInnerWrapper">
+
+      <div id="siteHeader" class="clearfix" role="banner">
+          <div class="headerContent"><h1 id="mainLogo" class="appLogo">
+  <a href="/">City of Boston</a>
+</h1>
+
+</div>
+<ul class="siteUserNav clearfix"><li class="accountLink hide"><a href="/profile"
+    title="Your Home"><span class="text">Hello, <span class="currentUser">Unknown User</span></span></a></li>
+<li class="adminLink hide">
+<a href="/admin" title="Administration"><span class="text">Administration</span></a>
+</li>
+<li><a href="/">Home</a></li><li><a href="http://www.cityofboston.gov/" rel="external">CityofBoston.gov</a></li><li><a href="http://www.cityofboston.gov/open" rel="external">Open Government</a></li><li><a href="http://dev.socrata.com/">For Developers</a></li><li class="signUpLink"><a href="https://data.cityofboston.gov:443/signup" rel="nofollow" title="Sign Up">
+    <span class="text">Sign Up</span></a><li class="signInLink"><a href="https://data.cityofboston.gov:443/login" rel="nofollow"
+  title="Sign In"><span class="text">Sign In</span></a><li class="signOutLink hide"><a href="https://data.cityofboston.gov:443/logout" rel="nofollow"
+  title="Sign out"><span class="text">Sign out</span></a>
+</ul>
+      </div>
+
+      <a name="content"  tabindex="-1"></a>
+      
+        <div class="siteContentWrapper" role="main">
+          
+
+
+<div class="browseSection 
+  
+   ">
+    <div class="browseFacets ">
+      
+        <form class="searchSection">
+    <span class="icon"></span>
+    <input type="text" name="browseSearch" title="Search"
+      class="textPrompt searchBox" value="" />
+  </form>
+
+
+        <div class="facetSection clearAllSection">
+          <ul>
+            <li>
+            <a href="/browse?utf8=%E2%9C%93">Clear All Options</a>
+            </li>
+          </ul>
+        </div>
+
+        <div class="facetSection clearfix limitTo">
+          <h4 class="title">View Types</h4>
+            <ul>
+                <li><a href="/browse?utf8=%E2%9C%93" class="clearValues">
+                    <span class="icon"></span>
+                  (All)
+                </a></li>
+                <li><a href="/browse?limitTo=datasets&utf8=%E2%9C%93" class="typeBlist"><span class="icon"></span>Datasets</a></li>
+                <li><a href="/browse?limitTo=charts&utf8=%E2%9C%93" class="typeChart"><span class="icon"></span>Charts</a></li>
+                <li><a href="/browse?limitTo=maps&utf8=%E2%9C%93" class="typeMap"><span class="icon"></span>Maps</a></li>
+                <li><a href="/browse?limitTo=calendars&utf8=%E2%9C%93" class="typeCalendar"><span class="icon"></span>Calendars</a></li>
+                <li><a href="/browse?limitTo=filters&utf8=%E2%9C%93" class="typeFilter"><span class="icon"></span>Filtered Views</a></li>
+                <li><a href="/browse?limitTo=href&utf8=%E2%9C%93" class="typeHref"><span class="icon"></span>External Datasets</a></li>
+                <li><a href="/browse?limitTo=blob&utf8=%E2%9C%93" class="typeBlob"><span class="icon"></span>Files and Documents</a></li>
+                <li><a href="/browse?limitTo=forms&utf8=%E2%9C%93" class="typeForm"><span class="icon"></span>Forms</a></li>
+            </ul>
+        </div>
+        <div class="facetSection clearfix Data-Owner_Owner">
+          <h4 class="title">Data Owner</h4>
+            <ul>
+                <li><a href="/browse?Data-Owner_Owner=Office+of+the+Mayor&limitTo=apis&utf8=%E2%9C%93" class="">Office of the Mayor</a></li>
+                <li><a href="/browse?Data-Owner_Owner=Administration+%26+Finance&limitTo=apis&utf8=%E2%9C%93" class="">Administration &amp; Finance</a></li>
+                <li><a href="/browse?Data-Owner_Owner=Personal+%26+Labor+Relations&limitTo=apis&utf8=%E2%9C%93" class="">Personal &amp; Labor Relations</a></li>
+                <li><a href="/browse?Data-Owner_Owner=Advocacy+%26+Strategic+Investment&limitTo=apis&utf8=%E2%9C%93" class="">Advocacy &amp; Strategic Investment</a></li>
+                <li><a href="/browse?Data-Owner_Owner=Public+Property&limitTo=apis&utf8=%E2%9C%93" class="">Public Property</a></li>
+            </ul>
+                <div class="moreOptions list hide">
+                    <a href="/browse?Data-Owner_Owner=Economic+Development&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Economic Development
+                    </a>
+                    <a href="/browse?Data-Owner_Owner=Innovation+%26+Technology&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Innovation &amp; Technology
+                    </a>
+                    <a href="/browse?Data-Owner_Owner=Education&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Education
+                    </a>
+                    <a href="/browse?Data-Owner_Owner=Environmental+%26+Energy+Services&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Environmental &amp; Energy Services
+                    </a>
+                    <a href="/browse?Data-Owner_Owner=Housing+%26+Neighborhood+Development&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Housing &amp; Neighborhood Development
+                    </a>
+                    <a href="/browse?Data-Owner_Owner=Human+Services&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Human Services
+                    </a>
+                    <a href="/browse?Data-Owner_Owner=Public+Health&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Public Health
+                    </a>
+                    <a href="/browse?Data-Owner_Owner=Public+Safety&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Public Safety
+                    </a>
+                    <a href="/browse?Data-Owner_Owner=Streets%2C+Transportation+%26+Sanitation&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Streets, Transportation &amp; Sanitation
+                    </a>
+                    <a href="/browse?Data-Owner_Owner=Non-Mayoral&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Non-Mayoral
+                    </a>
+                    <a href="/browse?Data-Owner_Owner=Boston+Redevelopment+Authority&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Boston Redevelopment Authority
+                    </a>
+                </div>
+                <a class="moreLink" href="#More Data Owner">View All</a>
+        </div>
+        <div class="facetSection clearfix category">
+          <h4 class="title">Categories</h4>
+            <ul>
+                <li><a href="/browse?category=City+Services&limitTo=apis&utf8=%E2%9C%93" class="">City Services</a></li>
+                <li><a href="/browse?category=Facilities&limitTo=apis&utf8=%E2%9C%93" class="">Facilities</a></li>
+                <li><a href="/browse?category=Finance&limitTo=apis&utf8=%E2%9C%93" class="">Finance</a></li>
+                <li><a href="/browse?category=Health&limitTo=apis&utf8=%E2%9C%93" class="">Health</a></li>
+                <li><a href="/browse?category=Permitting&limitTo=apis&utf8=%E2%9C%93" class="">Permitting</a></li>
+            </ul>
+                <div class="moreOptions list hide">
+                    <a href="/browse?category=Public+Safety&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Public Safety
+                    </a>
+                    <a href="/browse?category=Transportation&amp;limitTo=apis&amp;utf8=%E2%9C%93">
+                      Transportation
+                    </a>
+                </div>
+                <a class="moreLink" href="#More Categories">View All</a>
+        </div>
+        <div class="facetSection clearfix tags">
+          <h4 class="title">Topics</h4>
+            <ul>
+                <li><a href="/browse?limitTo=apis&tags=age&utf8=%E2%9C%93" class="">age</a></li>
+                <li><a href="/browse?limitTo=apis&tags=bra&utf8=%E2%9C%93" class="">bra</a></li>
+                <li><a href="/browse?limitTo=apis&tags=population&utf8=%E2%9C%93" class="">population</a></li>
+                <li><a href="/browse?limitTo=apis&tags=race&utf8=%E2%9C%93" class="">race</a></li>
+                <li><a href="/browse?limitTo=apis&tags=vacancy&utf8=%E2%9C%93" class="">vacancy</a></li>
+            </ul>
+                <a class="cloudLink" href="#More Topics" rel="tags">
+                  View All
+                </a>
+        </div>
+      </div>
+
+
+
+    <div class="browseList ">
+        <div class="titleContainer">
+          <h2 title="Search &amp; Browse Datasets and Views">Search &amp; Browse Datasets and Views
+            <a href="/catalog.rss" class="subscribe" title="Subscribe">
+              <span class="icon"></span>
+            </a>
+          </h2>
+        </div>
+
+      <div class="topControls">
+          <ul class="viewTypeOptions pillButtons">
+            <li><a href="/browse?limitTo=apis&amp;page=1&amp;utf8=%E2%9C%93&amp;view_type=table"
+              class="list active" title="View as a compact list">
+              <span class="icon"></span>
+            </a></li>
+            <li><a href="/browse?limitTo=apis&amp;page=1&amp;utf8=%E2%9C%93&amp;view_type=rich"
+              class="fatrow" title="View as a rich list">
+              <span class="icon"></span>
+            </a></li>
+          </ul>
+
+      </div>
+
+      <div class="results">
+          <div class="noResults">
+            <span class="message">No Results</span>
+          </div>
+      </div>
+
+    </div>
+
+
+  <div class="clearBoth"></div>
+</div>
+
+
+
+<script type="text/javascript">        if (typeof blistTranslations == 'undefined') blistTranslations = [];
+        blistTranslations.push(function()
+        {
+            return JSON.parse($.unescapeQuotes("{&quot;controls&quot;:{&quot;browse&quot;:{&quot;actions&quot;:{&quot;about&quot;:{&quot;button&quot;:&quot;About&quot;,&quot;title&quot;:&quot;About this Dataset&quot;},&quot;all_options&quot;:&quot;View All&quot;,&quot;clear_all&quot;:&quot;Clear All Options&quot;,&quot;clear_facet&quot;:&quot;(All)&quot;,&quot;compact_list&quot;:&quot;View as a compact list&quot;,&quot;create_dataset&quot;:&quot;Create or upload your own dataset&quot;,&quot;create_dataset_short&quot;:&quot;Create a new Dataset&quot;,&quot;create_dataset_verb&quot;:&quot;Create&quot;,&quot;dataset_subscribe&quot;:&quot;Subscribe to changes on this view&quot;,&quot;delete&quot;:{&quot;button&quot;:&quot;Delete&quot;,&quot;confirm&quot;:&quot;Are you sure you want to delete %{dataset}?&quot;,&quot;title&quot;:&quot;Delete this item&quot;},&quot;expand_section&quot;:&quot;Click to expand&quot;,&quot;less_options&quot;:&quot;View Less&quot;,&quot;manage_api&quot;:{&quot;button&quot;:&quot;Manage&quot;,&quot;title&quot;:&quot;Manage this API&quot;},&quot;moderation&quot;:{&quot;accept&quot;:&quot;Accept&quot;,&quot;reject&quot;:&quot;Reject&quot;},&quot;permissions&quot;:{&quot;change_button&quot;:{&quot;private_html&quot;:&quot;Make Public&quot;,&quot;public_html&quot;:&quot;Make Private&quot;},&quot;title&quot;:&quot;Change the public visibility&quot;},&quot;rich_list&quot;:&quot;View as a rich list&quot;,&quot;share_button&quot;:&quot;Share&quot;,&quot;subscribe&quot;:&quot;Subscribe&quot;,&quot;suggest_dataset&quot;:&quot;Didn&#x27;t find what you&#x27;re looking for? Suggest a dataset.&quot;,&quot;suggest_dataset_short&quot;:&quot;Suggest a Dataset&quot;,&quot;suggest_dataset_verb&quot;:&quot;Suggest&quot;},&quot;back_to_dataset&quot;:&quot;Back to Dataset&quot;,&quot;facets&quot;:{&quot;categories_singular_title&quot;:&quot;category&quot;,&quot;categories_title&quot;:&quot;Categories&quot;,&quot;federated_domains_singular_title&quot;:&quot;domain&quot;,&quot;federated_domains_title&quot;:&quot;Federated Domains&quot;,&quot;moderation_status&quot;:{&quot;accepted&quot;:&quot;Accepted&quot;,&quot;pending&quot;:&quot;Pending&quot;,&quot;rejected&quot;:&quot;Rejected&quot;},&quot;moderation_status_singular_title&quot;:&quot;moderation&quot;,&quot;moderation_status_title&quot;:&quot;Moderation Status&quot;,&quot;topics_singular_title&quot;:&quot;topic&quot;,&quot;topics_title&quot;:&quot;Topics&quot;,&quot;view_types&quot;:{&quot;apis&quot;:&quot;APIs&quot;,&quot;blob&quot;:&quot;Files and Documents&quot;,&quot;calendars&quot;:&quot;Calendars&quot;,&quot;charts&quot;:&quot;Charts&quot;,&quot;datasets&quot;:&quot;Datasets&quot;,&quot;filters&quot;:&quot;Filtered Views&quot;,&quot;forms&quot;:&quot;Forms&quot;,&quot;href&quot;:&quot;External Datasets&quot;,&quot;maps&quot;:&quot;Maps&quot;,&quot;unpublished&quot;:&quot;Unpublished Datasets&quot;},&quot;view_types_singular_title&quot;:&quot;type&quot;,&quot;view_types_title&quot;:&quot;View Types&quot;},&quot;listing&quot;:{&quot;comment_count&quot;:&quot;Number of comments&quot;,&quot;federation_source&quot;:&quot;Federated from %{source}&quot;,&quot;federation_source_html&quot;:&quot;Provided by %{source_link}&quot;,&quot;no_results&quot;:&quot;No Results&quot;,&quot;result_count&quot;:&quot;Showing %{this} of %{total}&quot;,&quot;table_header&quot;:{&quot;name&quot;:&quot;Name&quot;,&quot;popularity&quot;:&quot;Popularity&quot;,&quot;rss&quot;:&quot;RSS&quot;,&quot;type&quot;:&quot;Type&quot;},&quot;timeout&quot;:&quot;We&#x27;re sorry. Results could not be retrieved at this time. Please try again later.&quot;},&quot;row_results&quot;:{&quot;less_link&quot;:&quot;Less&quot;,&quot;matching_rows&quot;:&quot;Searching dataset for matching rows&quot;,&quot;more_link&quot;:&quot;More&quot;,&quot;no_matching_rows&quot;:&quot;No matching rows found&quot;,&quot;title_html&quot;:&quot;Showing &lt;span class=\\&quot;rowResultCountText\\&quot;&gt;&lt;/span&gt; of &lt;span class=\\&quot;totalResultCountText\\&quot;&gt;&lt;/span&gt; matching rows &lt;a href=\\&quot;#\\&quot; class=\\&quot;rowSearchLink\\&quot;&gt;(view results)&lt;/a&gt;:&quot;},&quot;search&quot;:&quot;Search&quot;,&quot;sort_period_title&quot;:&quot;Sort Period&quot;,&quot;sort_periods&quot;:{&quot;month&quot;:&quot;This month&quot;,&quot;week&quot;:&quot;This week&quot;,&quot;year&quot;:&quot;This year&quot;},&quot;sort_title&quot;:&quot;Sort By&quot;,&quot;sorts&quot;:{&quot;alpha&quot;:&quot;Alphabetical&quot;,&quot;comments&quot;:&quot;Most Comments&quot;,&quot;last_modified&quot;:&quot;Recently Updated&quot;,&quot;most_accessed&quot;:&quot;Most Accessed&quot;,&quot;newest&quot;:&quot;Newest&quot;,&quot;oldest&quot;:&quot;Oldest&quot;,&quot;rating&quot;:&quot;Highest Rated&quot;,&quot;relevance&quot;:&quot;Most Relevant&quot;},&quot;title&quot;:{&quot;default&quot;:&quot;Search &amp; Browse Datasets and Views&quot;,&quot;result&quot;:{&quot;facet&quot;:&quot;%{facet_type} of %{facet_value}&quot;,&quot;facet_main&quot;:&quot;matching %{body}&quot;,&quot;main&quot;:&quot;Results %{body}&quot;,&quot;term&quot;:&quot;for \\&quot;%{term}\\&quot;&quot;}}},&quot;common&quot;:{&quot;auth_required&quot;:&quot;You must be logged in to %{action_phrase}&quot;,&quot;dataset_picker&quot;:{&quot;button&quot;:&quot;Choose&quot;,&quot;title&quot;:&quot;Choose a Dataset to use&quot;},&quot;expander&quot;:{&quot;collapse&quot;:&quot;Click to collapse&quot;,&quot;expand&quot;:&quot;Click to expand&quot;},&quot;image_upload&quot;:{&quot;button&quot;:&quot;Upload Image&quot;},&quot;rate&quot;:{&quot;auth_action_phrase&quot;:&quot;rate this dataset&quot;},&quot;share&quot;:{&quot;button_prompt&quot;:&quot;Socialize&quot;,&quot;button_tooltip&quot;:&quot;Share this Dataset&quot;,&quot;networks&quot;:{&quot;email&quot;:&quot;Email&quot;,&quot;facebook&quot;:&quot;Facebook&quot;,&quot;twitter&quot;:&quot;Twitter&quot;},&quot;share_text&quot;:&quot;Check out the %{name}, dataset on %{site}: &quot;},&quot;sidebar&quot;:{&quot;tabs&quot;:{&quot;about&quot;:&quot;About This Dataset&quot;,&quot;components&quot;:&quot;Components&quot;,&quot;configuration&quot;:&quot;Configuration&quot;,&quot;discuss&quot;:&quot;Discuss&quot;,&quot;edit&quot;:&quot;Edit&quot;,&quot;embed&quot;:&quot;Embed&quot;,&quot;export&quot;:&quot;Export&quot;,&quot;filter&quot;:&quot;Filter&quot;,&quot;manage&quot;:&quot;Manage&quot;,&quot;moreViews&quot;:&quot;More Views&quot;,&quot;visualize&quot;:&quot;Visualize&quot;}},&quot;stars&quot;:{&quot;tooltip&quot;:&quot;%{number} stars&quot;},&quot;visualization&quot;:{&quot;in_bing&quot;:&quot;View in Bing Maps&quot;,&quot;in_google&quot;:&quot;View in Google Maps&quot;,&quot;row_details&quot;:&quot;View details for this row&quot;}}},&quot;core&quot;:{&quot;aggregates&quot;:{&quot;average&quot;:&quot;Average&quot;,&quot;count&quot;:&quot;Count&quot;,&quot;maximum&quot;:&quot;Maximum&quot;,&quot;minimum&quot;:&quot;Minimum&quot;,&quot;sum&quot;:&quot;Sum&quot;},&quot;alignment&quot;:{&quot;center&quot;:&quot;Center&quot;,&quot;left&quot;:&quot;Left&quot;,&quot;right&quot;:&quot;Right&quot;},&quot;analytics&quot;:{&quot;visit&quot;:&quot;view&quot;,&quot;visits&quot;:&quot;views&quot;},&quot;and&quot;:&quot;and&quot;,&quot;chart_types&quot;:{&quot;area&quot;:&quot;Area Chart&quot;,&quot;bar&quot;:&quot;Bar Chart&quot;,&quot;bubble&quot;:&quot;Bubble Chart&quot;,&quot;column&quot;:&quot;Column Chart&quot;,&quot;donut&quot;:&quot;Donut Chart&quot;,&quot;line&quot;:&quot;Line Chart&quot;,&quot;pie&quot;:&quot;Pie Chart&quot;,&quot;stackedbar&quot;:&quot;Stacked Bar Chart&quot;,&quot;stackedcolumn&quot;:&quot;Stacked Column Chart&quot;,&quot;timeline&quot;:&quot;Timeline&quot;,&quot;treemap&quot;:&quot;Tree Map&quot;},&quot;chart_types_short&quot;:{&quot;area&quot;:&quot;Area&quot;,&quot;bar&quot;:&quot;Bar&quot;,&quot;bubble&quot;:&quot;Bubble&quot;,&quot;column&quot;:&quot;Column&quot;,&quot;donut&quot;:&quot;Donut&quot;,&quot;line&quot;:&quot;Line&quot;,&quot;pie&quot;:&quot;Pie&quot;,&quot;stackedbar&quot;:&quot;Stacked Bar&quot;,&quot;stackedcolumn&quot;:&quot;Stacked Column&quot;,&quot;timeline&quot;:&quot;Timeline&quot;,&quot;treemap&quot;:&quot;Tree Map&quot;},&quot;data_types&quot;:{&quot;calendar_date&quot;:&quot;Date &amp; Time&quot;,&quot;checkbox&quot;:&quot;Checkbox&quot;,&quot;dataset_link&quot;:&quot;Dataset Link&quot;,&quot;date&quot;:&quot;Date &amp; Time (with timezone)&quot;,&quot;document&quot;:&quot;Document&quot;,&quot;drop_down_list&quot;:&quot;Multiple Choice&quot;,&quot;email&quot;:&quot;Email&quot;,&quot;flag&quot;:&quot;Flag&quot;,&quot;geospatial&quot;:&quot;Geospatial&quot;,&quot;html&quot;:&quot;Formatted Text&quot;,&quot;link&quot;:&quot;Link Column&quot;,&quot;list&quot;:&quot;List&quot;,&quot;location&quot;:&quot;Location&quot;,&quot;money&quot;:&quot;Money&quot;,&quot;nested_table&quot;:&quot;Nested Table&quot;,&quot;number&quot;:&quot;Number&quot;,&quot;object&quot;:&quot;Object&quot;,&quot;percent&quot;:&quot;Percent&quot;,&quot;phone&quot;:&quot;Phone&quot;,&quot;photo&quot;:&quot;Photo (Image)&quot;,&quot;stars&quot;:&quot;Star&quot;,&quot;text&quot;:&quot;Plain Text&quot;,&quot;url&quot;:&quot;Website URL&quot;},&quot;date_time&quot;:{&quot;centuries_future&quot;:&quot;%{time} centuries from now&quot;,&quot;centuries_past&quot;:&quot;%{time} centuries ago&quot;,&quot;current_century_future&quot;:&quot;this century&quot;,&quot;current_century_past&quot;:&quot;this century&quot;,&quot;current_day_future&quot;:&quot;today&quot;,&quot;current_day_past&quot;:&quot;today&quot;,&quot;current_hour_future&quot;:&quot;this hour&quot;,&quot;current_hour_past&quot;:&quot;this hour&quot;,&quot;current_minute_future&quot;:&quot;just now&quot;,&quot;current_minute_past&quot;:&quot;just now&quot;,&quot;current_month_future&quot;:&quot;this month&quot;,&quot;current_month_past&quot;:&quot;this month&quot;,&quot;current_week_future&quot;:&quot;this week&quot;,&quot;current_week_past&quot;:&quot;this week&quot;,&quot;current_year_future&quot;:&quot;this year&quot;,&quot;current_year_past&quot;:&quot;this year&quot;,&quot;days_future&quot;:&quot;%{time} days from now&quot;,&quot;days_past&quot;:&quot;%{time} days ago&quot;,&quot;hours_future&quot;:&quot;%{time} hours from now&quot;,&quot;hours_past&quot;:&quot;%{time} hours ago&quot;,&quot;minutes_future&quot;:&quot;%{time} minutes from now&quot;,&quot;minutes_past&quot;:&quot;%{time} minutes ago&quot;,&quot;months_future&quot;:&quot;%{time} months from now&quot;,&quot;months_past&quot;:&quot;%{time} months ago&quot;,&quot;single_century_future&quot;:&quot;a century from now&quot;,&quot;single_century_past&quot;:&quot;a century ago&quot;,&quot;single_day_future&quot;:&quot;tomorrow&quot;,&quot;single_day_past&quot;:&quot;yesterday&quot;,&quot;single_hour_future&quot;:&quot;1 hour from now&quot;,&quot;single_hour_past&quot;:&quot;1 hour ago&quot;,&quot;single_minute_future&quot;:&quot;1 minute from now&quot;,&quot;single_minute_past&quot;:&quot;1 minute ago&quot;,&quot;single_month_future&quot;:&quot;next month&quot;,&quot;single_month_past&quot;:&quot;last month&quot;,&quot;single_week_future&quot;:&quot;next week&quot;,&quot;single_week_past&quot;:&quot;last week&quot;,&quot;single_year_future&quot;:&quot;next year&quot;,&quot;single_year_past&quot;:&quot;last year&quot;,&quot;unknown&quot;:&quot;some time&quot;,&quot;weeks_future&quot;:&quot;%{time} weeks from now&quot;,&quot;weeks_past&quot;:&quot;%{time} weeks ago&quot;,&quot;years_future&quot;:&quot;%{time} years from now&quot;,&quot;years_past&quot;:&quot;%{time} years ago&quot;},&quot;dialogs&quot;:{&quot;apply&quot;:&quot;Apply&quot;,&quot;cancel&quot;:&quot;Cancel&quot;,&quot;close&quot;:&quot;Close&quot;,&quot;continue&quot;:&quot;Continue&quot;,&quot;create&quot;:&quot;Create&quot;,&quot;delete&quot;:&quot;Delete&quot;,&quot;done&quot;:&quot;Done&quot;,&quot;dont_save&quot;:&quot;Don&#x27;t Save&quot;,&quot;logout&quot;:&quot;You have been logged out.&quot;,&quot;save&quot;:&quot;Save&quot;,&quot;session_timeout&quot;:{&quot;notice&quot;:&quot;You have been logged out for your security. Please sign back in to continue.&quot;,&quot;warning&quot;:{&quot;belay_button&quot;:&quot;Don&#x27;t log me out!&quot;,&quot;body_html&quot;:&quot;We haven&#x27;t noticed any activity in a few minutes.  For privacy, we&#x27;ll log you out in &lt;span id=\\&quot;secondsRemaining\\&quot;&gt;&lt;/span&gt; seconds.&quot;,&quot;title&quot;:&quot;Your session is about to expire.&quot;}},&quot;submit&quot;:&quot;Submit&quot;,&quot;update&quot;:&quot;Update&quot;},&quot;expando&quot;:{&quot;expand&quot;:&quot;Expand&quot;,&quot;prompt&quot;:&quot;Click to expand&quot;},&quot;features&quot;:{&quot;allow_comments&quot;:&quot;Commenting&quot;,&quot;cell_comments&quot;:&quot;Cell Commenting&quot;},&quot;filters&quot;:{&quot;formal&quot;:{&quot;between&quot;:&quot;between&quot;,&quot;contains&quot;:&quot;contains&quot;,&quot;equals&quot;:&quot;equals&quot;,&quot;greater_than&quot;:&quot;greater than&quot;,&quot;greater_than_or_equals&quot;:&quot;greater than or equal to&quot;,&quot;is_blank&quot;:&quot;is blank&quot;,&quot;is_not_blank&quot;:&quot;is not blank&quot;,&quot;less_than&quot;:&quot;less than&quot;,&quot;less_than_or_equals&quot;:&quot;less than or equal to&quot;,&quot;not_contains&quot;:&quot;does not contain&quot;,&quot;not_equals&quot;:&quot;does not equal&quot;,&quot;starts_with&quot;:&quot;starts with&quot;},&quot;informal&quot;:{&quot;between&quot;:&quot;is between&quot;,&quot;contains&quot;:&quot;contains&quot;,&quot;equals&quot;:&quot;is&quot;,&quot;greater_than&quot;:&quot;is greater than&quot;,&quot;greater_than_or_equals&quot;:&quot;is at least&quot;,&quot;is_blank&quot;:&quot;is blank&quot;,&quot;is_not_blank&quot;:&quot;is not blank&quot;,&quot;less_than&quot;:&quot;is less than&quot;,&quot;less_than_or_equals&quot;:&quot;is at most&quot;,&quot;not_contains&quot;:&quot;does not contain&quot;,&quot;not_equals&quot;:&quot;is not&quot;,&quot;starts_with&quot;:&quot;starts with&quot;}},&quot;forms&quot;:{&quot;none&quot;:&quot;None&quot;,&quot;required_field&quot;:&quot;Required Field&quot;},&quot;group_function&quot;:{&quot;date_day&quot;:&quot;Day&quot;,&quot;date_month&quot;:&quot;Month&quot;,&quot;date_year&quot;:&quot;Year&quot;},&quot;interstitial&quot;:{&quot;leaving_explanation_html&quot;:&quot;This &lt;span class=\\&quot;datasetType\\&quot;&gt;dataset&lt;/span&gt; is hosted by &lt;a href=\\&quot;\\\\#\\&quot; rel=\\&quot;external\\&quot; class=\\&quot;externalDomain\\&quot;&gt;another domain&lt;/a&gt;.&quot;,&quot;leaving_notice_html&quot;:&quot;You are leaving &lt;span class=\\&quot;serverName\\&quot;&gt;%{site_name}&lt;/span&gt;&quot;},&quot;map_layers&quot;:{&quot;aerial&quot;:&quot;Aerial&quot;,&quot;bing_aerial&quot;:&quot;Bing Aerial&quot;,&quot;bing_roadmap&quot;:&quot;Bing Roadmap&quot;,&quot;bing_roadmap_alias&quot;:&quot;Bing&quot;,&quot;esri_natural_earth&quot;:&quot;Natural Earth Map (ESRI)&quot;,&quot;esri_natural_earth_alias&quot;:&quot;Natural Earth Map&quot;,&quot;esri_satellite&quot;:&quot;Satellite Imagery (ESRI)&quot;,&quot;esri_us_topo&quot;:&quot;Detailed USA Topographic Map (ESRI)&quot;,&quot;esri_us_topo_alias&quot;:&quot;USA Topographic Map&quot;,&quot;esri_world_street_map&quot;:&quot;World Street Map (ESRI)&quot;,&quot;esri_world_street_map_alias&quot;:&quot;World Street Map&quot;,&quot;esri_world_topo&quot;:&quot;Annotated World Topographic Map (ESRI)&quot;,&quot;esri_world_topo_alias&quot;:&quot;World Topographic Map&quot;,&quot;google_roadmap&quot;:&quot;Google Roadmap&quot;,&quot;google_roadmap_alias&quot;:&quot;Google&quot;,&quot;google_satellite&quot;:&quot;Google Satellite&quot;,&quot;google_terrain&quot;:&quot;Google Terrain&quot;,&quot;roadmap&quot;:&quot;Roadmap&quot;,&quot;satellite&quot;:&quot;Satellite&quot;,&quot;terrain&quot;:&quot;Terrain&quot;},&quot;no_js&quot;:&quot;Disable Javascript on this page&quot;,&quot;numbers&quot;:{&quot;eight&quot;:&quot;eight&quot;,&quot;five&quot;:&quot;five&quot;,&quot;four&quot;:&quot;four&quot;,&quot;nine&quot;:&quot;nine&quot;,&quot;seven&quot;:&quot;seven&quot;,&quot;six&quot;:&quot;six&quot;,&quot;three&quot;:&quot;three&quot;,&quot;num_zero&quot;:&quot;zero&quot;,&quot;num_one&quot;:&quot;one&quot;,&quot;num_two&quot;:&quot;two&quot;},&quot;or&quot;:&quot;or&quot;,&quot;pagination&quot;:{&quot;current_page&quot;:&quot;Current Page&quot;,&quot;first_page&quot;:&quot;First Page&quot;,&quot;last_page&quot;:&quot;Last Page&quot;,&quot;next_page&quot;:&quot;Next Page&quot;,&quot;page&quot;:&quot;page&quot;,&quot;previous_page&quot;:&quot;Previous Page&quot;},&quot;precision_style&quot;:{&quot;scientific&quot;:&quot;Scientific (1.0204e+3)&quot;,&quot;standard&quot;:&quot;Standard (1020.4)&quot;},&quot;required&quot;:&quot;Required&quot;,&quot;share_types&quot;:{&quot;contributor&quot;:&quot;Contributor&quot;,&quot;owner&quot;:&quot;Owner&quot;,&quot;view&quot;:&quot;Viewer&quot;,&quot;viewer&quot;:&quot;Viewer&quot;},&quot;validation&quot;:{&quot;accept&quot;:&quot;Please enter a value with a valid extension.&quot;,&quot;date&quot;:&quot;Please enter a valid date.&quot;,&quot;dateISO&quot;:&quot;Please enter a valid date (ISO).&quot;,&quot;digits&quot;:&quot;Please enter only digits.&quot;,&quot;email&quot;:&quot;Please enter a valid email address.&quot;,&quot;equalTo&quot;:&quot;Please enter the same value again.&quot;,&quot;max&quot;:&quot;Please enter a value less than or equal to {0}.&quot;,&quot;maxlength&quot;:&quot;Please enter no more than {0} characters.&quot;,&quot;min&quot;:&quot;Please enter a value greater than or equal to {0}.&quot;,&quot;minlength&quot;:&quot;Please enter at least {0} characters.&quot;,&quot;number&quot;:&quot;Please enter a valid number.&quot;,&quot;range&quot;:&quot;Please enter a value between {0} and {1}.&quot;,&quot;rangelength&quot;:&quot;Please enter a value between {0} and {1} characters long.&quot;,&quot;remote&quot;:&quot;Please fix this field.&quot;,&quot;required&quot;:&quot;This field is required.&quot;,&quot;url&quot;:&quot;Please enter a valid URL.&quot;},&quot;view_types&quot;:{&quot;api&quot;:&quot;API view&quot;,&quot;blob&quot;:&quot;non-tabular file or document&quot;,&quot;calendar&quot;:&quot;calendar&quot;,&quot;chart&quot;:&quot;chart&quot;,&quot;dataset&quot;:&quot;dataset&quot;,&quot;filter&quot;:&quot;filtered view&quot;,&quot;form&quot;:&quot;form&quot;,&quot;group&quot;:&quot;grouped view&quot;,&quot;grouped&quot;:&quot;grouped view&quot;,&quot;href&quot;:&quot;external dataset&quot;,&quot;map&quot;:&quot;map&quot;,&quot;table&quot;:&quot;table&quot;,&quot;working_copy&quot;:&quot;working copy&quot;},&quot;view_types_plural&quot;:{&quot;api&quot;:&quot;APIs&quot;,&quot;calendar&quot;:&quot;Calendars&quot;,&quot;chart&quot;:&quot;Charts&quot;,&quot;filter&quot;:&quot;Filtered Views&quot;,&quot;form&quot;:&quot;Forms&quot;,&quot;grouped&quot;:&quot;Grouped Views&quot;,&quot;map&quot;:&quot;Maps&quot;},&quot;visibility&quot;:{&quot;private&quot;:&quot;private&quot;,&quot;public&quot;:&quot;public&quot;}},&quot;account&quot;:{&quot;common&quot;:{&quot;form&quot;:{&quot;confirm_password&quot;:&quot;Confirm Password&quot;,&quot;display_name&quot;:&quot;Display Name&quot;,&quot;email&quot;:&quot;Email Address&quot;,&quot;forgot_password&quot;:&quot;Forgot Password?&quot;,&quot;lockout_warning&quot;:&quot;For security, three failed login attempts in 15 minutes will result in this account being locked out for 30 minutes.&quot;,&quot;no_account&quot;:&quot;Don&#x27;t have an account?&quot;,&quot;password&quot;:&quot;Password&quot;,&quot;password_requirements&quot;:&quot;Required. Your password must be between 8 and 40 characters and satisfy three of the following four criteria: contain a digit; contain a lowercase letter; contain an uppercase letter; contain a non-alphanumeric symbol.&quot;,&quot;password_requirements_html&quot;:&quot;&lt;p&gt;Your password must be &lt;b&gt;between 8 and 40 characters&lt;/b&gt; and satisfy &lt;b&gt;three of the following four criteria&lt;/b&gt;:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&amp;bull; contain a digit&lt;/li&gt;&lt;li&gt;&amp;bull; contain a lowercase letter&lt;/li&gt;&lt;li&gt;&amp;bull; contain an uppercase letter&lt;/li&gt;&lt;li&gt;&amp;bull; contain a non-alphanumeric symbol&lt;/li&gt;&lt;/ul&gt;&quot;,&quot;password_restrictions&quot;:&quot;Restrictions apply&quot;,&quot;remember_me&quot;:&quot;Remember me&quot;,&quot;sign_up_prompt&quot;:&quot;Sign up now&quot;},&quot;inline_auth&quot;:{&quot;sign_in_headline&quot;:&quot;Sign in using your Socrata ID&quot;,&quot;sign_up_headline&quot;:&quot;We&#x27;re glad you want to join %{site}!&quot;},&quot;rpx&quot;:{&quot;description&quot;:&quot;Take advantage of additional features these accounts provide and sign in with one click.&quot;,&quot;prompt&quot;:{&quot;sign_in&quot;:&quot;Or\\u2026 Use one of these accounts to sign in.&quot;,&quot;sign_up&quot;:&quot;Or\\u2026 Use one of these accounts to join.&quot;},&quot;providers&quot;:{&quot;facebook&quot;:{&quot;sign_in_html&quot;:&quot;&lt;strong&gt;Connect&lt;/strong&gt; with Facebook&quot;,&quot;sign_up_html&quot;:&quot;&lt;strong&gt;Connect&lt;/strong&gt; with Facebook&quot;},&quot;google&quot;:{&quot;sign_in_html&quot;:&quot;&lt;strong&gt;Sign in&lt;/strong&gt; with Google&quot;,&quot;sign_up_html&quot;:&quot;&lt;strong&gt;Join&lt;/strong&gt; with Google&quot;},&quot;openid&quot;:{&quot;sign_in_html&quot;:&quot;&lt;strong&gt;Sign in&lt;/strong&gt; with OpenID&quot;,&quot;sign_up_html&quot;:&quot;&lt;strong&gt;Join&lt;/strong&gt; with OpenID&quot;},&quot;twitter&quot;:{&quot;sign_in_html&quot;:&quot;&lt;strong&gt;Connect&lt;/strong&gt; with Twitter&quot;,&quot;sign_up_html&quot;:&quot;&lt;strong&gt;Connect&lt;/strong&gt; with Twitter&quot;}}},&quot;validation&quot;:{&quot;mismatch&quot;:&quot;Passwords do not match.&quot;,&quot;terms&quot;:&quot;You must accept the terms of service and privacy policy.&quot;}}},&quot;plugins&quot;:{&quot;jquery_ui&quot;:{&quot;april&quot;:&quot;April&quot;,&quot;april_short&quot;:&quot;Apr&quot;,&quot;august&quot;:&quot;August&quot;,&quot;august_short&quot;:&quot;Aug&quot;,&quot;december&quot;:&quot;December&quot;,&quot;december_short&quot;:&quot;Dec&quot;,&quot;done&quot;:&quot;Done&quot;,&quot;february&quot;:&quot;February&quot;,&quot;february_short&quot;:&quot;Feb&quot;,&quot;friday&quot;:&quot;Friday&quot;,&quot;friday_min&quot;:&quot;Fr&quot;,&quot;friday_short&quot;:&quot;Fri&quot;,&quot;january&quot;:&quot;January&quot;,&quot;january_short&quot;:&quot;Jan&quot;,&quot;july&quot;:&quot;July&quot;,&quot;july_short&quot;:&quot;Jul&quot;,&quot;june&quot;:&quot;June&quot;,&quot;june_short&quot;:&quot;Jun&quot;,&quot;march&quot;:&quot;March&quot;,&quot;march_short&quot;:&quot;Mar&quot;,&quot;may&quot;:&quot;May&quot;,&quot;may_short&quot;:&quot;May&quot;,&quot;monday&quot;:&quot;Monday&quot;,&quot;monday_min&quot;:&quot;Mo&quot;,&quot;monday_short&quot;:&quot;Mon&quot;,&quot;next&quot;:&quot;Next&quot;,&quot;november&quot;:&quot;November&quot;,&quot;november_short&quot;:&quot;Nov&quot;,&quot;october&quot;:&quot;October&quot;,&quot;october_short&quot;:&quot;Oct&quot;,&quot;prev&quot;:&quot;Prev&quot;,&quot;saturday&quot;:&quot;Saturday&quot;,&quot;saturday_min&quot;:&quot;Sa&quot;,&quot;saturday_short&quot;:&quot;Sat&quot;,&quot;september&quot;:&quot;September&quot;,&quot;september_short&quot;:&quot;Sep&quot;,&quot;sunday&quot;:&quot;Sunday&quot;,&quot;sunday_min&quot;:&quot;Su&quot;,&quot;sunday_short&quot;:&quot;Sun&quot;,&quot;thursday&quot;:&quot;Thursday&quot;,&quot;thursday_min&quot;:&quot;Th&quot;,&quot;thursday_short&quot;:&quot;Thu&quot;,&quot;today&quot;:&quot;Today&quot;,&quot;tuesday&quot;:&quot;Tuesday&quot;,&quot;tuesday_min&quot;:&quot;Tu&quot;,&quot;tuesday_short&quot;:&quot;Tue&quot;,&quot;wednesday&quot;:&quot;Wednesday&quot;,&quot;wednesday_min&quot;:&quot;We&quot;,&quot;wednesday_short&quot;:&quot;Wed&quot;,&quot;week_min&quot;:&quot;Wk&quot;}}}"));
+        });
+</script>
+
+
+
+        </div>
+    </div>
+  </div>
+
+  <div id="siteFooter" role="contentinfo">
+    <a name="footerLinks" tabindex="-1"></a>
+    <span class="copyright">&copy; 2013 City of Boston. All Rights Reserved.</span><ul class="siteFooterNav"><li><a href="http://www.cityofboston.gov/doit/databoston/data_disclaimer.asp">Terms of Service</a></li><li><a href="http://www.cityofboston.gov/copyright/accessibility.asp">Accessibility</a></li><li><a href="http://www.cityofboston.gov/contact/?id=215">Contact Us</a></li><li><a class="" href="http://www.socrata.com/" rel="nofollow">Powered by Socrata</a></li></ul>
+  </div>
+
+  <div class="socrataModal"><div class="socrataModalWrapper"></div></div>
+
+
+  <div id="templates" style="display:none">
+    <div class="menu">
+  <a class="menuButton" href="#"><span class="icon"></span></a>
+  <div class="menuDropdown">
+    <ul class="menuColumns">
+      <li class="menuColumn">
+        <ul class="menuEntries">
+          <li class="menuEntry">
+            <a href="#" class="clearfix">
+              <span class="icon"></span>
+              <span class="contents"></span>
+              <div class="subtext"></div>
+            </a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+
+    <div class="expandedInfo">
+  <div class="actions">
+    <a class="manageApi button" href="#Manage" title="Manage this API">
+      Manage
+    </a>
+    <a class="permissions button" href="#Permissions"
+      title="Change the public visibility">
+    </a>
+    <a class="delete button" href="#Delete" title="Delete this item">
+      Delete
+    </a>
+    <a class="about button" href="#About" title="About this Dataset">
+      About
+    </a>
+    <div class="share menu"></div>
+  </div>
+  <div class="comments" title="Number of comments">
+    <span class="icon"></span><span class="value"></span>
+  </div>
+  <div class="starsControl datasetAverageRating" title="0 stars"><span class="accessibleValue">Current value: 0 out of 5</span><span class="starsLabel value-0 currentValue"></span><span class="starsLabel value-1"></span><span class="starsLabel value-2"></span><span class="starsLabel value-3"></span><span class="starsLabel value-4"></span><span class="starsLabel value-5"></span></div>
+</div>
+<div class="rowSearchRenderType hide">
+  <div class="columnHeaders"></div>
+  <div class="rowResultCountDisplay">
+    <span>Showing <span class="rowResultCountText"></span> of <span class="totalResultCountText"></span> matching rows <a href="#" class="rowSearchLink">(view results)</a>:</span>
+  </div>
+  <div class="rowList"></div>
+  <div class="fader"></div>
+  <div class="expandHint downArrow">
+    <a class="expandRowResults" href="#Expand">
+      <span class="icon"></span>
+      <span class="expandText">More</span>
+      <span class="collapseText">Less</span>
+    </a>
+  </div>
+  <div class="templateRow row clearfix"></div>
+</div>
+
+
+  </div>
+  
+  
+
+  <!--[if IE]>
+  <script src="/packages/excanvas.js?1386190158" type="text/javascript"></script>
+  <![endif]-->
+  <!--[if lt IE 7]>
+  <script src="/packages/bgiframe.js?1387326603" type="text/javascript"></script>
+  <script src="/packages/oldie.js?1387326603" type="text/javascript"></script>
+  <![endif]-->
+
+  <script src="/packages/base.js?1387326603" type="text/javascript"></script>
+
+  
+
+    <script type="text/javascript">
+      $.debug = function() {};
+    </script>
+
+  <script type="text/javascript">
+    blist.namespace.fetch('blist.configuration');
+    blist.configuration.strings = JSON.parse($.unescapeQuotes("{&quot;company&quot;:&quot;City of Boston&quot;,&quot;search_prompt&quot;:&quot;Search&quot;,&quot;sign_out&quot;:&quot;Sign out&quot;,&quot;site_title&quot;:&quot;Data | City of Boston&quot;,&quot;copyright_string&quot;:&quot;&amp;copy; 2013 City of Boston. All Rights Reserved.&quot;,&quot;sign_up&quot;:&quot;Sign Up&quot;,&quot;sign_in&quot;:&quot;Sign In&quot;}"));
+
+
+    blist.configuration.canvasAvailable = true;
+
+    try {
+      if ((self !== top) && (self.location.hostname !== top.location.hostname))
+        top.location = self.document.location;
+    } catch(ex) {
+      top.location = self.document.location;
+    }
+
+  </script>
+
+  <div id="modals">
+                      <div class="modalDialog browseOptionsDialog" id="browseDialog_tags" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Close</a>
+                    <div class="optionsContent">
+                        <a href="/browse?limitTo=apis&amp;tags=2011&amp;utf8=%E2%9C%93" rel="2">
+                          2011
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=2012&amp;utf8=%E2%9C%93" rel="4">
+                          2012
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=2013&amp;utf8=%E2%9C%93" rel="1">
+                          2013
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=311&amp;utf8=%E2%9C%93" rel="48">
+                          311
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=65&amp;utf8=%E2%9C%93" rel="1">
+                          65
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=accommodation&amp;utf8=%E2%9C%93" rel="1">
+                          accommodation
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=accountant&amp;utf8=%E2%9C%93" rel="1">
+                          accountant
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=acres&amp;utf8=%E2%9C%93" rel="1">
+                          acres
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=acs&amp;utf8=%E2%9C%93" rel="129">
+                          acs
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=addressing&amp;utf8=%E2%9C%93" rel="1">
+                          addressing
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=administration&amp;utf8=%E2%9C%93" rel="1">
+                          administration
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=administrative&amp;utf8=%E2%9C%93" rel="1">
+                          administrative
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=aerobics&amp;utf8=%E2%9C%93" rel="1">
+                          aerobics
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=age&amp;utf8=%E2%9C%93" rel="172">
+                          age
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=air&amp;utf8=%E2%9C%93" rel="1">
+                          air
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=allston&amp;utf8=%E2%9C%93" rel="10">
+                          allston
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=allston-brighton&amp;utf8=%E2%9C%93" rel="1">
+                          allston-brighton
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=amusement&amp;utf8=%E2%9C%93" rel="1">
+                          amusement
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=architecture&amp;utf8=%E2%9C%93" rel="1">
+                          architecture
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=art&amp;utf8=%E2%9C%93" rel="1">
+                          art
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=assembler&amp;utf8=%E2%9C%93" rel="1">
+                          assembler
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=assembly&amp;utf8=%E2%9C%93" rel="1">
+                          assembly
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=assistance&amp;utf8=%E2%9C%93" rel="1">
+                          assistance
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=back+bay&amp;utf8=%E2%9C%93" rel="10">
+                          back bay
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=bay+village&amp;utf8=%E2%9C%93" rel="2">
+                          bay village
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=beacon+hill&amp;utf8=%E2%9C%93" rel="10">
+                          beacon hill
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=boston&amp;utf8=%E2%9C%93" rel="121">
+                          boston
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=boston+public+schools&amp;utf8=%E2%9C%93" rel="3">
+                          boston public schools
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=bounty+bucks&amp;utf8=%E2%9C%93" rel="3">
+                          bounty bucks
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=bra&amp;utf8=%E2%9C%93" rel="244">
+                          bra
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=brighton&amp;utf8=%E2%9C%93" rel="10">
+                          brighton
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=budget&amp;utf8=%E2%9C%93" rel="2">
+                          budget
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=building&amp;utf8=%E2%9C%93" rel="16">
+                          building
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=buildings&amp;utf8=%E2%9C%93" rel="17">
+                          buildings
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=business&amp;utf8=%E2%9C%93" rel="20">
+                          business
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=census&amp;utf8=%E2%9C%93" rel="91">
+                          census
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=central&amp;utf8=%E2%9C%93" rel="3">
+                          central
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=central+boston&amp;utf8=%E2%9C%93" rel="2">
+                          central boston
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=charlestown&amp;utf8=%E2%9C%93" rel="10">
+                          charlestown
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=children&amp;utf8=%E2%9C%93" rel="87">
+                          children
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=chinatown&amp;utf8=%E2%9C%93" rel="3">
+                          chinatown
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=citations&amp;utf8=%E2%9C%93" rel="11">
+                          citations
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=citizenship&amp;utf8=%E2%9C%93" rel="84">
+                          citizenship
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=city+council+district&amp;utf8=%E2%9C%93" rel="2">
+                          city council district
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=code+enforcement&amp;utf8=%E2%9C%93" rel="11">
+                          code enforcement
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=community+centers&amp;utf8=%E2%9C%93" rel="3">
+                          community centers
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=construction&amp;utf8=%E2%9C%93" rel="21">
+                          construction
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=contracts&amp;utf8=%E2%9C%93" rel="2">
+                          contracts
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=corner+stores&amp;utf8=%E2%9C%93" rel="6">
+                          corner stores
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=crime&amp;utf8=%E2%9C%93" rel="22">
+                          crime
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=csa&amp;utf8=%E2%9C%93" rel="5">
+                          csa
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=csas&amp;utf8=%E2%9C%93" rel="3">
+                          csas
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=data&amp;utf8=%E2%9C%93" rel="90">
+                          data
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=demographics&amp;utf8=%E2%9C%93" rel="42">
+                          demographics
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=dorchester&amp;utf8=%E2%9C%93" rel="7">
+                          dorchester
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=downtown&amp;utf8=%E2%9C%93" rel="5">
+                          downtown
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=east+boston&amp;utf8=%E2%9C%93" rel="9">
+                          east boston
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=ebt&amp;utf8=%E2%9C%93" rel="3">
+                          ebt
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=economy&amp;utf8=%E2%9C%93" rel="4">
+                          economy
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=education&amp;utf8=%E2%9C%93" rel="65">
+                          education
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=educational+attainment&amp;utf8=%E2%9C%93" rel="41">
+                          educational attainment
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=employees&amp;utf8=%E2%9C%93" rel="6">
+                          employees
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=employer&amp;utf8=%E2%9C%93" rel="14">
+                          employer
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=employment&amp;utf8=%E2%9C%93" rel="109">
+                          employment
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=energy&amp;utf8=%E2%9C%93" rel="2">
+                          energy
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=engineer&amp;utf8=%E2%9C%93" rel="2">
+                          engineer
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=enrollment&amp;utf8=%E2%9C%93" rel="2">
+                          enrollment
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=ethnicitiy&amp;utf8=%E2%9C%93" rel="42">
+                          ethnicitiy
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=ethnicity&amp;utf8=%E2%9C%93" rel="44">
+                          ethnicity
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=facilities&amp;utf8=%E2%9C%93" rel="6">
+                          facilities
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=family&amp;utf8=%E2%9C%93" rel="132">
+                          family
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=farmers+markets&amp;utf8=%E2%9C%93" rel="19">
+                          farmers markets
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=female&amp;utf8=%E2%9C%93" rel="2">
+                          female
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=fenway&amp;utf8=%E2%9C%93" rel="11">
+                          fenway
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=finance&amp;utf8=%E2%9C%93" rel="9">
+                          finance
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=fish&amp;utf8=%E2%9C%93" rel="12">
+                          fish
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=fishing&amp;utf8=%E2%9C%93" rel="6">
+                          fishing
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=food&amp;utf8=%E2%9C%93" rel="88">
+                          food
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=food+access&amp;utf8=%E2%9C%93" rel="40">
+                          food access
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=food+initiatives&amp;utf8=%E2%9C%93" rel="52">
+                          food initiatives
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=food+security&amp;utf8=%E2%9C%93" rel="22">
+                          food security
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=foreign+born&amp;utf8=%E2%9C%93" rel="4">
+                          foreign born
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=foreign-born&amp;utf8=%E2%9C%93" rel="41">
+                          foreign-born
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=fresh+food&amp;utf8=%E2%9C%93" rel="15">
+                          fresh food
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=fruit&amp;utf8=%E2%9C%93" rel="5">
+                          fruit
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=gardens&amp;utf8=%E2%9C%93" rel="6">
+                          gardens
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=gis&amp;utf8=%E2%9C%93" rel="4">
+                          gis
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=green+space&amp;utf8=%E2%9C%93" rel="3">
+                          green space
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=green+streets&amp;utf8=%E2%9C%93" rel="5">
+                          green streets
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=harbor&amp;utf8=%E2%9C%93" rel="2">
+                          harbor
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=harbor+islands&amp;utf8=%E2%9C%93" rel="10">
+                          harbor islands
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=health&amp;utf8=%E2%9C%93" rel="25">
+                          health
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=healthy+food&amp;utf8=%E2%9C%93" rel="2">
+                          healthy food
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=household&amp;utf8=%E2%9C%93" rel="128">
+                          household
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=household+income&amp;utf8=%E2%9C%93" rel="43">
+                          household income
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=households&amp;utf8=%E2%9C%93" rel="43">
+                          households
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=housing&amp;utf8=%E2%9C%93" rel="87">
+                          housing
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=housing+units&amp;utf8=%E2%9C%93" rel="43">
+                          housing units
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=hunger&amp;utf8=%E2%9C%93" rel="5">
+                          hunger
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=hyde+park&amp;utf8=%E2%9C%93" rel="9">
+                          hyde park
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=immigrant&amp;utf8=%E2%9C%93" rel="2">
+                          immigrant
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=incidents&amp;utf8=%E2%9C%93" rel="18">
+                          incidents
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=income&amp;utf8=%E2%9C%93" rel="86">
+                          income
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=industries&amp;utf8=%E2%9C%93" rel="15">
+                          industries
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=industry&amp;utf8=%E2%9C%93" rel="16">
+                          industry
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=inspectional+services&amp;utf8=%E2%9C%93" rel="3">
+                          inspectional services
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=inspections&amp;utf8=%E2%9C%93" rel="29">
+                          inspections
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=inspector&amp;utf8=%E2%9C%93" rel="2">
+                          inspector
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=jamaica+plain&amp;utf8=%E2%9C%93" rel="10">
+                          jamaica plain
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=jobs&amp;utf8=%E2%9C%93" rel="16">
+                          jobs
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=kenmore&amp;utf8=%E2%9C%93" rel="5">
+                          kenmore
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=kwh&amp;utf8=%E2%9C%93" rel="2">
+                          kwh
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=labor&amp;utf8=%E2%9C%93" rel="2">
+                          labor
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=language&amp;utf8=%E2%9C%93" rel="87">
+                          language
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=leather+district&amp;utf8=%E2%9C%93" rel="2">
+                          leather district
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=lifetech&amp;utf8=%E2%9C%93" rel="2">
+                          lifetech
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=local+food&amp;utf8=%E2%9C%93" rel="18">
+                          local food
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=longwood&amp;utf8=%E2%9C%93" rel="4">
+                          longwood
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=longwood+medical+area&amp;utf8=%E2%9C%93" rel="3">
+                          longwood medical area
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=marital+status&amp;utf8=%E2%9C%93" rel="84">
+                          marital status
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=massachusetts&amp;utf8=%E2%9C%93" rel="4">
+                          massachusetts
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=masspirg&amp;utf8=%E2%9C%93" rel="2">
+                          masspirg
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=mattapan&amp;utf8=%E2%9C%93" rel="10">
+                          mattapan
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=mayor%27s+office&amp;utf8=%E2%9C%93" rel="49">
+                          mayor&#x27;s office
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=median+income&amp;utf8=%E2%9C%93" rel="43">
+                          median income
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=mission+hill&amp;utf8=%E2%9C%93" rel="5">
+                          mission hill
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=mortgage&amp;utf8=%E2%9C%93" rel="43">
+                          mortgage
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=national+institutes+of+health&amp;utf8=%E2%9C%93" rel="2">
+                          national institutes of health
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=neighborhood&amp;utf8=%E2%9C%93" rel="29">
+                          neighborhood
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=neighborhoods&amp;utf8=%E2%9C%93" rel="2">
+                          neighborhoods
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=nemo&amp;utf8=%E2%9C%93" rel="4">
+                          nemo
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=nih&amp;utf8=%E2%9C%93" rel="2">
+                          nih
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=north+dorchester&amp;utf8=%E2%9C%93" rel="5">
+                          north dorchester
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=north+end&amp;utf8=%E2%9C%93" rel="5">
+                          north end
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=nutrition&amp;utf8=%E2%9C%93" rel="3">
+                          nutrition
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=occupancy&amp;utf8=%E2%9C%93" rel="86">
+                          occupancy
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=office+of+food+initiatives&amp;utf8=%E2%9C%93" rel="7">
+                          office of food initiatives
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=oil&amp;utf8=%E2%9C%93" rel="2">
+                          oil
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=orchards&amp;utf8=%E2%9C%93" rel="5">
+                          orchards
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=origin&amp;utf8=%E2%9C%93" rel="130">
+                          origin
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=parcels&amp;utf8=%E2%9C%93" rel="2">
+                          parcels
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=parking&amp;utf8=%E2%9C%93" rel="11">
+                          parking
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=payroll&amp;utf8=%E2%9C%93" rel="6">
+                          payroll
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=per+capita+income&amp;utf8=%E2%9C%93" rel="43">
+                          per capita income
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=permits&amp;utf8=%E2%9C%93" rel="30">
+                          permits
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=planning+district&amp;utf8=%E2%9C%93" rel="68">
+                          planning district
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=planning+districts&amp;utf8=%E2%9C%93" rel="3">
+                          planning districts
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=police&amp;utf8=%E2%9C%93" rel="23">
+                          police
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=population&amp;utf8=%E2%9C%93" rel="179">
+                          population
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=poverty&amp;utf8=%E2%9C%93" rel="89">
+                          poverty
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=procurement&amp;utf8=%E2%9C%93" rel="2">
+                          procurement
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=public+health&amp;utf8=%E2%9C%93" rel="2">
+                          public health
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=public+works&amp;utf8=%E2%9C%93" rel="13">
+                          public works
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=race&amp;utf8=%E2%9C%93" rel="218">
+                          race
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=real+estate&amp;utf8=%E2%9C%93" rel="2">
+                          real estate
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=recession&amp;utf8=%E2%9C%93" rel="3">
+                          recession
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=recreation&amp;utf8=%E2%9C%93" rel="8">
+                          recreation
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=rent&amp;utf8=%E2%9C%93" rel="44">
+                          rent
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=research&amp;utf8=%E2%9C%93" rel="24">
+                          research
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=restaurants&amp;utf8=%E2%9C%93" rel="29">
+                          restaurants
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=retail&amp;utf8=%E2%9C%93" rel="9">
+                          retail
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=roslindale&amp;utf8=%E2%9C%93" rel="10">
+                          roslindale
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=roxbury&amp;utf8=%E2%9C%93" rel="11">
+                          roxbury
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=safety&amp;utf8=%E2%9C%93" rel="18">
+                          safety
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=school&amp;utf8=%E2%9C%93" rel="44">
+                          school
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=schools&amp;utf8=%E2%9C%93" rel="5">
+                          schools
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=seafood&amp;utf8=%E2%9C%93" rel="6">
+                          seafood
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=sector&amp;utf8=%E2%9C%93" rel="14">
+                          sector
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=security&amp;utf8=%E2%9C%93" rel="2">
+                          security
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=service&amp;utf8=%E2%9C%93" rel="3">
+                          service
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=service+requests&amp;utf8=%E2%9C%93" rel="49">
+                          service requests
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=sex&amp;utf8=%E2%9C%93" rel="87">
+                          sex
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=skill&amp;utf8=%E2%9C%93" rel="14">
+                          skill
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=snap&amp;utf8=%E2%9C%93" rel="3">
+                          snap
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=snow&amp;utf8=%E2%9C%93" rel="4">
+                          snow
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=software&amp;utf8=%E2%9C%93" rel="2">
+                          software
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=south+boston&amp;utf8=%E2%9C%93" rel="11">
+                          south boston
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=south+boston+waterfront&amp;utf8=%E2%9C%93" rel="4">
+                          south boston waterfront
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=south+dorchester&amp;utf8=%E2%9C%93" rel="5">
+                          south dorchester
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=south+end&amp;utf8=%E2%9C%93" rel="10">
+                          south end
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=street+sweeping&amp;utf8=%E2%9C%93" rel="11">
+                          street sweeping
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=suffolk&amp;utf8=%E2%9C%93" rel="2">
+                          suffolk
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=taxes&amp;utf8=%E2%9C%93" rel="2">
+                          taxes
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=tenure&amp;utf8=%E2%9C%93" rel="43">
+                          tenure
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=trade&amp;utf8=%E2%9C%93" rel="2">
+                          trade
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=transportation&amp;utf8=%E2%9C%93" rel="2">
+                          transportation
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=trees&amp;utf8=%E2%9C%93" rel="5">
+                          trees
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=truck&amp;utf8=%E2%9C%93" rel="2">
+                          truck
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=unemployment&amp;utf8=%E2%9C%93" rel="38">
+                          unemployment
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=units&amp;utf8=%E2%9C%93" rel="86">
+                          units
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=universities&amp;utf8=%E2%9C%93" rel="2">
+                          universities
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=urban+agriculture&amp;utf8=%E2%9C%93" rel="19">
+                          urban agriculture
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=vacancy&amp;utf8=%E2%9C%93" rel="172">
+                          vacancy
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=violations&amp;utf8=%E2%9C%93" rel="27">
+                          violations
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=wage&amp;utf8=%E2%9C%93" rel="16">
+                          wage
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=ward&amp;utf8=%E2%9C%93" rel="2">
+                          ward
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=west+end&amp;utf8=%E2%9C%93" rel="5">
+                          west end
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=west+roxbury&amp;utf8=%E2%9C%93" rel="9">
+                          west roxbury
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=wic&amp;utf8=%E2%9C%93" rel="3">
+                          wic
+                        </a>
+                        <a href="/browse?limitTo=apis&amp;tags=work+status&amp;utf8=%E2%9C%93" rel="43">
+                          work status
+                        </a>
+                    </div>
+                    <ul class="actions clearfix">
+                      <li>
+                        <a class="jqmClose button cancel" href="#cancel">Close</a>
+                      </li>
+                    </ul>
+</div>  <div class="modalDialog browseOptionsDialog" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Close</a>
+    <div class="optionsContent"></div>
+</div>
+  <div class="modalDialog externalDomainNotice" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Close</a>
+    <h2>
+      You are leaving <span class="serverName">data.cityofboston.gov</span>
+    </h2>
+    <p>
+      This <span class="datasetType">dataset</span> is hosted by <a href="\#" rel="external" class="externalDomain">another domain</a>.
+    </p>
+    <div class="nameDescription">
+      <p class="dsName"></p>
+      <p class="dsDesc"></p>
+    </div>
+    <div class="leavingLinkWrapper">
+      <a class="leavingLink noInterstitial" href="#" rel="external"></a>
+    </div>
+    <ul class="actions clearfix">
+      <li>
+        <a class="noInterstitial default button accept" href="#" rel="external">
+          <span class="icon"></span>
+          Continue
+        </a>
+      </li>
+      <li>
+        <a class="jqmClose button cancel" href="#cancel">
+          <span class="icon"></span>
+          Cancel
+        </a>
+      </li>
+    </ul>
+</div>
+
+    <div class="modalDialog" id="jqmAlert" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Close</a>
+      <h2>Alert</h2>
+      <p class="alertMessage"></p>
+      <ul class="actions clearfix">
+        <li><a href="#close" class="button jqmClose">Close</a></li>
+      </ul>
+</div>    <div class="modalDialog" id="jqmConfirm" style="display:none"><a class="jqmClose modalDialogClose" href="#close">Close</a>
+      <h2>Alert</h2>
+      <p class="confirmMessage"></p>
+      <ul class="actions clearfix">
+        <li><a href="#close" class="button jqmClose default yes">Yes</a></li>
+        <li><a href="#close" class="button jqmClose no">No</a></li>
+      </ul>
+</div>  </div>
+  <div id="newModals">
+  	
+  </div>
+
+    <script type='text/javascript'>
+    $(function()
+    {
+       blist.namespace.fetch('blist.browse');
+       blist.browse.datasets = {};
+       blist.browse.baseURL = "/browse";
+       blist.browse.rowCount = 3;
+       blist.browse.searchOptions = JSON.parse($.unescapeQuotes("{&quot;limit&quot;:10,&quot;page&quot;:1,&quot;limitTo&quot;:&quot;apis&quot;}"));
+    });
+  </script>
+  <script src="/packages/browse-control.js?1387326603" type="text/javascript"></script>
+
+  <script type="text/javascript">      (function() {
+      var months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august',
+                    'september', 'october', 'november', 'december'],
+          days = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday'],
+          t = function(str) { return $.t('plugins.jquery_ui.' + str); };
+      $.datepicker.setDefaults({
+        closeText: t('done'),
+        prevText: t('prev'),
+        nextText: t('next'),
+        currentText: t('today'),
+        monthNames: _.map(months, function(m) { return t(m); }),
+        monthNamesShort: _.map(months, function(m) { return t(m + '_short'); }),
+        dayNames: _.map(days, function(m) { return t(m); }),
+        dayNamesShort: _.map(days, function(m) { return t(m + '_short'); }),
+        dayNamesMin: _.map(days, function(m) { return t(m + '_min'); }),
+        weekHeader: t('week_min')
+      });
+      $.DatePickerLocaleOptions = {
+        days: _.map(days, function(m) { return t(m); }),
+        daysShort: _.map(days, function(m) { return t(m + '_short'); }),
+        daysMin: _.map(days, function(m) { return t(m + '_min'); }),
+        months: _.map(months, function(m) { return t(m); }),
+        monthsShort: _.map(months, function(m) { return t(m + '_short'); }),
+        weekMin: t('week_min')
+      };
+      })();
+</script>
+
+
+</body>
+</html>
